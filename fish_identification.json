@@ -1,23 +1,60 @@
-{
-	"name": "Largemouth Bass",
-	"images": [
-		{
-			"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010188.jpg"
-			"credit": "Duane Raver, U.S. Fish and Wildlife Service"
-		}
-	],
-	"aliases": [
-		{
-			"name": "Black bass"
-		},
-		{
-			"name": "bigmouth"
-		}
-	],
-	"identification": "Sunfish family. Basically dark greenish above fading to a whitish belly, but variable depending on the water it lives in. Shows a series of dark blotches that form a dark horizontal band along its midline to its tail. Named because of its big mouth. Upper jaw extends well beyond the eye. Dorsal fin deeply notched. Average weight is 2 to 4 lbs., with up to 10 lbs. occurring in some waters.",
-	"best_fishing": {
-		"lakes": "Anna, Gaston, Buggs Island, Chickahominy, Chesdin, Smith Mountain, Prince, Briery Creek, Sandy River, Western Branch, Witten, and Flannagan",
-		"rivers": "Chickahominy (below Walkers Dam), and James (below the fall line)"
-	},
-	"fishing_techniques": "Fly, medium spincasting, spinning or baitcasting rods and reels can all be used. Plastic worms and other plastic imitations, crankbaits, spinner baits, surface lures, jigs and other lures imitating minnows, crayfish, frogs, salamanders and nightcrawlers. For flyrodders, streamer flies, bucktails and large poppers. Live bait includes small bluegills, minnows of many kinds, crayfish, nightcrawlers, frogs, etc."
-}
+[
+    {
+        "name": "Largemouth Bass",
+        "images": [
+            {
+                "url": "http://www.dgif.virginia.gov/wildlife/fish/images/010188.jpg",
+                "credit": "Duane Raver, U.S. Fish and Wildlife Service"
+            }
+        ],
+        "aliases": [
+            {
+                "name": "Black bass"
+            },
+            {
+                "name": "bigmouth"
+            }
+        ],
+        "identification": "Sunfish family. Basically dark greenish above fading to a whitish belly, but variable depending on the water it lives in. Shows a series of dark blotches that form a dark horizontal band along its midline to its tail. Named because of its big mouth. Upper jaw extends well beyond the eye. Dorsal fin deeply notched. Average weight is 2 to 4 lbs., with up to 10 lbs. occurring in some waters.",
+        "best_fishing": {
+            "lakes": "Anna, Gaston, Buggs Island, Chickahominy, Chesdin, Smith Mountain, Prince, Briery Creek, Sandy River, Western Branch, Witten, and Flannagan",
+            "rivers": "Chickahominy (below Walkers Dam), and James (below the fall line)"
+        },
+        "fishing_techniques": "Fly, medium spincasting, spinning or baitcasting rods and reels can all be used. Plastic worms and other plastic imitations, crankbaits, spinner baits, surface lures, jigs and other lures imitating minnows, crayfish, frogs, salamanders and nightcrawlers. For flyrodders, streamer flies, bucktails and large poppers. Live bait includes small bluegills, minnows of many kinds, crayfish, nightcrawlers, frogs, etc."
+    },
+    {
+        "name": "Crappie",
+        "images": [
+            {
+                "name": "White Crappie",
+                "url": "http://www.dgif.virginia.gov/wildlife/fish/images/010189.jpg",
+                "credit": "Duane Raver, U.S. Fish and Wildlife Service"
+            },
+            {
+                "name": "Black Crappie",
+                "url": "http://www.dgif.virginia.gov/wildlife/fish/images/010190.jpg",
+                "credit": "Duane Raver, U.S. Fish and Wildlife Service"
+            }
+        ],
+        "aliases": [
+            {
+                "name": "papermouth"
+            },
+            {
+                "name": "Calico bass"
+            },
+            {
+                "name": "specks"
+            },
+            {
+                "name": "speckled perch"
+            }
+        ],
+        "identification": "Sunfish family. There are two species of crappie—the black and the white. The black crappie is covered with dark, irregular blotches and has seven—rarely eight— dorsal spines. It shows more yellow and green on its sides and its caudal (tail) and anal fins are heavily flecked. The white crappie has six dorsal spines—rarely five—and it has noticeable vertical bars on its silvery sides as well as a light pearlescent color or iridescent blue and lavendar. Both have protruding lower jaws.",
+        "best_fishing": {
+            "lakes": "Buggs Island, Chesdin, Chickahominy, Cohoon, Anna, Smith Mountain, Prince, Gaston, Claytor, Brittle, Moomaw, Orange, Burke, South Holston, and Western Branch.",
+            "rivers": "Tidal Chickahominy and its tributaries, tidal James, and South Fork Shenandoah"
+        },
+        "fishing_techniques": "Light spinning or spin- casting rods and reels with tiny jigs, doll flies, streamers, small crankbaits that imitate minnows, small spoons and spinner-bucktail combinations, and spinner-grubs. Best live baits are small to medium minnows."
+    }
+]
