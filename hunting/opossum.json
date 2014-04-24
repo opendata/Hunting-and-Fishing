@@ -4,9 +4,11 @@
 	"species": "Didelphis virginiana",
 	"range": {
 		"statewide": {
-			"date": {
-				"starts": "2014-01-01T00:00:00",
-				"ends": "2014-12-31T00:00:00"
+			"season": {
+				"date": {
+					"starts": "2014-01-01T00:00:00",
+					"ends": "2014-12-31T00:00:00"
+				}
 			}
 		}
 	}
