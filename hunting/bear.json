@@ -1,0 +1,31 @@
+[
+{
+	"name": "Bear",
+	"species": "Ursus americanus",
+	"biota id": "",
+	"url": "http://www.dgif.virginia.gov/hunting/regulations/bear.asp",
+	"weapon": {
+		"archery": {
+			"range": {
+				"statewide": {
+					"season": {
+						"date": {
+							"starts": "2014-10-05",
+							"ends": "2014-11-15"
+						}
+					},
+					"methods": [
+						{"method": "Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”"},
+						{"method": "Archery tackle (including crossbows) only."},
+						{"method": "Broadhead widths must be at least 7/8-inch wide or expand upon impact to 7/8-inch."},
+						{"method": "Bows must be capable of propelling a broadhead arrow at least 125 yards."},
+						{"method": "It is unlawful to use explosive head arrows or arrows to which any drug, chemical, or toxic substance has been added."},
+						{"method": "It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”)."},
+						{"method": "It is unlawful to have a firearm in possession, except that a muzzleloading firearm as defined the muzzleloader bear season section, may also be in possession when and where there is an overlap with muzzleloading bear season where bear hunting with a rifle or muzzleloading firearm is permitted. (See exception for valid concealed handgun permit holders.)"}
+					]
+				}
+			}
+		}
+	}
+}
+]
