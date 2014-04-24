@@ -1,0 +1,52 @@
+[
+{
+	"name": "Striped skunk",
+	"species": "Mephitis mephitis",
+	"range": {
+		"statewide": {
+			"season": {
+				"date": {
+					"starts": "2014-01-01",
+					"ends": "2014-12-31"
+				}
+			}
+		},
+		"national forest lands": {
+			"season": {
+				"date": {
+					"starts": "2014-09-02",
+					"ends": "2014-03-10"
+				}
+			}
+		},
+		"department lands": {
+			"season": {
+				"date": {
+					"starts": "2014-09-02",
+					"ends": "2014-03-10"
+				}
+			},
+			"season": {
+				"date": {
+					"starts": "2014-04-12",
+					"ends": "2014-05-03"
+				},
+				"time": {
+					"starts": "30 minutes before sunrise",
+					"ends": "12:00:00"
+				}
+			},
+			"season": {
+				"date": {
+					"starts": "2014-09-02",
+					"ends": "2014-03-10"
+				},
+				"time": {
+					"starts": "30 minutes before sunrise",
+					"ends": "sunset"
+				}
+			}
+		}
+	}
+}
+]
