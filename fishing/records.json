@@ -7,197 +7,308 @@
             "date": "2011-06-18",
             "name": "Richard Anderson",
             "species": "Blue Catfish",
+            "bova_id": "",
             "weight": "143 lbs.",
-            "location": "Buggs Island Lake"
+            "location": {
+            	"name": "Buggs Island Lake",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2004-10-17",
             "name": "John W. Plyler Jr.",
             "species": "Bowfin",
+            "bova_id": "",
             "weight": "16 lbs. 8 oz.",
-            "location": "Lake Cahoon"
+            "location": {
+            	"name": "Lake Cahoon",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1987-10-22",
             "name": "Greg Orndorff",
             "species": "Brook Trout",
+            "bova_id": "",
             "weight": "5 lbs. 10 oz.",
-            "location": "Big Stony Creek"
+            "location": {
+            	"name": "Big Stony Creek",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1990-05-24",
             "name": "Mike S. Perkins",
             "species": "Brown Trout",
+            "bova_id": "",
             "weight": "14 lbs. 12 oz.",
-            "location": "S. Fork Holston"
+            "location": {
+            	"name": "S. Fork Holston",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1986-06-25",
             "name": "Jeffrey Graham",
             "species": "Carp",
+            "bova_id": "",
             "weight": "49 lbs. 4 oz.",
-            "location": "Lake Prince"
+            "location": {
+            	"name": "Lake Prince",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1996-12-31",
             "name": "R. L. White",
             "species": "Chain Pickerel",
+            "bova_id": "",
             "weight": "7 lbs. 10 oz.",
-            "location": "Lake Shawnee"
+            "location": {
+            	"name": "Lake Shawnee",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1992-10-02",
             "name": "Sue Stanley",
             "species": "Channel Catfish",
+            "bova_id": "",
             "weight": "31 lbs. 8 oz.",
-            "location": "Rappahannock River"
+            "location": {
+            	"name": "Rappahannock River",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1994-04-24",
             "name": "Justin Elliott",
             "species": "Crappie",
             "weight": "4 lbs. 10 oz.",
-            "location": "Private Pond"
+            "location": {
+            	"name": "Private Pond",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1994-5-6",
             "name": "Mike Willems",
             "species": "Flathead Catfish",
+            "bova_id": "",
             "weight": "66 lbs. 4 oz.",
-            "location": "Occoquan Reservoir"
+            "location": {
+            	"name": "Occoquan Reservoir",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2012-07-10",
             "name": "Nancy Cash",
             "species": "Freshwater Drum",
+            "bova_id": "",
             "weight": "26 lbs. 8 oz.",
-            "location": "Buggs Island Lake"
+            "location": {
+            	"name": "Buggs Island Lake",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1987-05-28",
             "name": "Roger Beaver",
             "species": "Gar",
+            "bova_id": "",
             "weight": "25 lbs. 2 oz.",
-            "location": "Lake Prince"
+            "location": {
+            	"name": "Lake Prince",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2013-06-19",
             "name": "Joshua Neece",
             "species": "Hybrid Striped Bass",
+            "bova_id": "",
             "weight": "13 lbs. 9 oz.",
-            "location": "Flannagan Reservoir"
+            "location": {
+            	"name": "Flannagan Reservoir",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1985-05-20",
             "name": "Richard Tate",
             "species": "Largemouth Bass",
+            "bova_id": "",
             "weight": "16 lbs. 4 oz.",
-            "location": "Conner Lake"
+            "location": {
+            	"name": "Conner Lake",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2007-6-1",
             "name": "Shannon Hill",
-            "species": "Musky (&amp; Tiger)",
+            "species": "Musky (& Tiger)",
+            "bova_id": "",
             "weight": "45 lbs. 8 oz.",
-            "location": "New River"
+            "location": {
+            	"name": "New River",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1994-07-24",
             "name": "George Wood",
             "species": "Northern Pike",
+            "bova_id": "",
             "weight": "31 lbs. 4 oz.",
-            "location": "Motts Run Reservoir"
+            "location": {
+            	"name": "Motts Run Reservoir",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1993-06-28",
             "name": "Michael Lowe",
             "species": "Rainbow Trout",
+            "bova_id": "",
             "weight": "14 lbs. 7 oz.",
-            "location": "Greers Pond"
+            "location": {
+            	"name": "Greers Pond",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2005-05-28",
             "name": "Harry G. Swauger",
             "species": "Roanoke Bass",
+            "bova_id": "",
             "weight": "2 lbs. 9 oz.",
-            "location": "Western Branch Reservor"
+            "location": {
+            	"name": "Western Branch Reservoir",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1986-05-17",
             "name": "Larry Ball",
             "species": "Rock Bass",
+            "bova_id": "",
             "weight": "2 lbs. 2 oz.",
-            "location": "Laurel Bed Lake"
+            "location": {
+            	"name": "Laurel Bed Lake",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2010-04-24",
             "name": "Ronald C. Davis",
             "species": "Sauger",
+            "bova_id": "",
             "weight": "3 lbs.",
-            "location": "Clinch River"
+            "location": {
+            	"name": "Clinch River",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2003-03-12",
             "name": "Donald S. Eaton Jr.",
             "species": "Smallmouth Bass",
+            "bova_id": "",
             "weight": "8 lbs. 1 oz.",
-            "location": "New River"
+            "location": {
+            	"name": "New River",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2012-03-10",
             "name": "Rod Kegley",
             "species": "Spotted Bass",
+            "bova_id": "",
             "weight": "4 lbs. 7 oz.",
-            "location": "Claytor Lake"
+            "location": {
+            	"name": "Claytor Lake",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2000-03-16",
             "name": "James B. Davis",
             "species": "Striped Bass",
+            "bova_id": "",
             "weight": "53 lbs. 7 oz.",
-            "location": "Leesville Reservoir"
+            "location": {
+            	"name": "Leesville Reservoir",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1986-04-28",
             "name": "Michael Mills",
             "species": "Sunfish (all)",
+            "bova_id": "",
             "weight": "4 lbs. 12 oz.",
-            "location": "Private Pond"
+            "location": {
+            	"name": "Private Pond",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2000-12-15",
             "name": "Anthony P. Duncan",
             "species": "Walleye",
+            "bova_id": "",
             "weight": "15 lbs. 15 oz.",
-            "location": "New River"
+            "location": {
+            	"name": "New River",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1989-07-31",
             "name": "Ron Sprouse",
             "species": "White Bass",
+            "bova_id": "",
             "weight": "6 lbs. 13 oz.",
-            "location": "Lake Orange"
+            "location": {
+            	"name": "Lake Orange",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "1992-03-24",
             "name": "Thomas F. Elkins",
             "species": "White Catfish",
+            "bova_id": "",
             "weight": "7 lbs. 6 oz.",
-            "location": "Western Branch Reservoir"
+            "location": {
+            	"name": "Western Branch Reservoir",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2012-06-13",
             "name": "Beau McLaughlin",
             "species": "White Perch",
+            "bova_id": "",
             "weight": "3 lbs. 2 oz.",
-            "location": "Private Pond"
+            "location": {
+            	"name": "Private Pond",
+            	"location_gnas_id": ""
+        	}
         },
         {
             "date": "2010-03-08",
             "name": "George Mullins",
             "species": "Yellow Perch",
+            "bova_id": "",
             "weight": "3 lbs.",
-            "location": "Flannagan Reservoir"
+            "location": {
+            	"name": "Flannagan Reservoir",
+            	"location_gnas_id": ""
+        	}
         }
     ]
 }
