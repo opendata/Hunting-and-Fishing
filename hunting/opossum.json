@@ -9,7 +9,7 @@
 	"species": {
 		"name": "Opossum",
 		"taxonomy": "Didelphis virginiana",
-		"biota id": "",
+		"bova_id": "",
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050001",
 		"weapon": {
 			"firearms": {
