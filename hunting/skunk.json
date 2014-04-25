@@ -22,7 +22,7 @@
 							}
 						}
 					},
-					"national forest lands": {
+					"national_forest_lands": {
 						"season": {
 							"date": {
 								"starts": "2014-09-02",
@@ -30,7 +30,7 @@
 							}
 						}
 					},
-					"department lands": {
+					"department_lands": {
 						"season": {
 							"date": {
 								"starts": "2014-09-02",
