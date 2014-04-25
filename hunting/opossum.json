@@ -1,17 +1,25 @@
 [
 {
-	"name": "Opossum",
-	"taxonomy": "Didelphis virginiana",
-	"biota id": "",
-	"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050001",
-	"weapon": {
-		"firearms": {
-			"range": {
-				"statewide": {
-					"season": {
-						"date": {
-							"starts": "2014-01-01",
-							"ends": "2014-12-31"
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"documentation": "",
+	"species": {
+		"name": "Opossum",
+		"taxonomy": "Didelphis virginiana",
+		"biota id": "",
+		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050001",
+		"weapon": {
+			"firearms": {
+				"range": {
+					"statewide": {
+						"season": {
+							"date": {
+								"starts": "2014-01-01",
+								"ends": "2014-12-31"
+							}
 						}
 					}
 				}
