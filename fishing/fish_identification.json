@@ -1,6 +1,7 @@
 [
 {
 	"name": "Largemouth Bass",
+	"taxonomy": "Micropterus salmoides",
 	"images": [
 		{
 			"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010188.jpg",
@@ -17,6 +18,7 @@
 },
 {
 	"name": "Crappie",
+	"taxonomy": "Pomoxis",
 	"images": [
 		{
 			"name": "White Crappie",
