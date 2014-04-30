@@ -8,17 +8,13 @@
 	"schema_version": "1.0a",
 	"documentation": "",
 	"species": {
-		"name": "Crappie",
-		"taxonomy": "Pomoxis",
+		"name": "White Crappie",
+		"taxonomy": "Pomoxis annularis",
+		"bova_id": "10189",
 		"images": [
 			{
 				"name": "White Crappie",
 				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010189.jpg",
-				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
-			},
-			{
-				"name": "Black Crappie",
-				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010190.jpg",
 				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
 			}
 		],
@@ -28,7 +24,7 @@
 			"lakes": ["Buggs Island", "Chesdin", "Chickahominy", "Cohoon", "Anna", "Smith Mountain", "Prince", "Gaston", "Claytor", "Brittle", "Moomaw", "Orange", "Burke", "South Holston", "Western Branch"],
 			"rivers": ["Tidal Chickahominy and its tributaries", "tidal James", "South Fork Shenandoah"]
 		},
-		"fishing_techniques": "Light spinning or spin- casting rods and reels with tiny jigs, doll flies, streamers, small crankbaits that imitate minnows, small spoons and spinner-bucktail combinations, and spinner-grubs. Best live baits are small to medium minnows."
+		"fishing_techniques": "Light spinning or spin-casting rods and reels with tiny jigs, doll flies, streamers, small crankbaits that imitate minnows, small spoons and spinner-bucktail combinations, and spinner-grubs. Best live baits are small to medium minnows."
 	}
 }
 ]
