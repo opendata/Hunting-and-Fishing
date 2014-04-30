@@ -33,6 +33,31 @@
 						]
 					}
 				}
+			},
+			"muzzleloader": {
+				"range": {
+					"statewide": {
+						"season": {
+							"date": {
+								"starts": "2013-11-09",
+								"ends": "2013-11-15"
+							}
+						},
+						"methods": [
+							"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+							"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+							"Flintlock, percussion, or electronic ignitions are permitted.",
+							"It is unlawful to have in immediate possession any firearm other than a muzzleloading gun while hunting with a muzzleloader. (See exception for valid concealed handgun permit holders).",
+							"It is unlawful to use muzzleloading pistols.",
+							"Must use at least 50 grains of black powder or black powder equivalent.",
+							"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder of any type in any quantity in a muzzleloading firearm that is not specifically designed for it.",
+							"Scopes are permitted.",
+							"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm. For complete safety, a muzzleloader should be emptied by shooting into soft ground.",
+							"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”)."
+						],
+						"comment": "Statewide in all areas where hunting with a muzzleloading rifle is permitted."
+					}
+				}
 			}
 		}
 	}
