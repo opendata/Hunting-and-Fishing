@@ -1,0 +1,34 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Crappie",
+		"taxonomy": "Pomoxis",
+		"images": [
+			{
+				"name": "White Crappie",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010189.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			},
+			{
+				"name": "Black Crappie",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010190.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
+		"aliases": ["papermouth", "Calico bass", "specks", "speckled perch"],
+		"identification": "Sunfish family. There are two species of crappie—the black and the white. The black crappie is covered with dark, irregular blotches and has seven—rarely eight— dorsal spines. It shows more yellow and green on its sides and its caudal (tail) and anal fins are heavily flecked. The white crappie has six dorsal spines—rarely five—and it has noticeable vertical bars on its silvery sides as well as a light pearlescent color or iridescent blue and lavendar. Both have protruding lower jaws.",
+		"best_fishing": {
+			"lakes": ["Buggs Island", "Chesdin", "Chickahominy", "Cohoon", "Anna", "Smith Mountain", "Prince", "Gaston", "Claytor", "Brittle", "Moomaw", "Orange", "Burke", "South Holston", "Western Branch"],
+			"rivers": ["Tidal Chickahominy and its tributaries", "tidal James", "South Fork Shenandoah"]
+		},
+		"fishing_techniques": "Light spinning or spin- casting rods and reels with tiny jigs, doll flies, streamers, small crankbaits that imitate minnows, small spoons and spinner-bucktail combinations, and spinner-grubs. Best live baits are small to medium minnows."
+	}
+}
+]
