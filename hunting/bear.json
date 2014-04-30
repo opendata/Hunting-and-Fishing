@@ -58,7 +58,7 @@
 						"comment": "Statewide in all areas where hunting with a muzzleloading rifle is permitted."
 					}
 				}
-			}
+			},
 			"firearms": {
 				"range": {
 					"1": {
@@ -72,7 +72,7 @@
 							"Virginia Beach": {
 								"gnis_id": 1500261
 							}
-						}
+						},
 						"season": {
 							"date": {
 								"starts": "2013-10-01",
@@ -228,8 +228,8 @@
 								"gnis_id": 1482581
 							},
 							"Hidden Valley Wildlife Management Area": {},
-							"Channels State Forest" {}
-						}
+							"Channels State Forest": {}
+						},
 						"season": {
 							"date": {
 								"starts": "2013-11-25",
