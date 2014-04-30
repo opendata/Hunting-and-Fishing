@@ -236,6 +236,54 @@
 								"ends": "2013-01-04"
 							}
 						}
+					},
+					"3": {
+						"places": {
+							"Carroll": {
+								"gnis_id": 1480108
+							},
+							"Floyd": {
+								"gnis_id": 1494354
+							},
+							"Franklin": {
+								"gnis_id": 1494434
+							},
+							"Grayson": {
+								"gnis_id": 1501196
+							},
+							"Henry": {
+								"gnis_id": 1502770
+							},
+							"Montgomery": {
+								"gnis_id": 1674630,
+								"restriction": "southeast of I-81"
+							},
+							"Patrick": {
+								"gnis_id": 1497999
+							},
+							"Pulaski": {
+								"gnis_id": 1501465,
+								"restriction": "southeast of I-81"
+							},
+							"Smyth": {
+								"gnis_id": 1500545,
+								"restriction": "southeast of I-81"
+							},
+							"Washington": {
+								"gnis_id": 1498359
+								"restriction": "southeast of I-81"
+							},
+							"Wythe": {
+								"gnis_id": 1501379,
+								"restriction": "southeast of I-81"
+							}
+						},
+						"season": {
+							"date": {
+								"starts": "2013-12-02",
+								"ends": "2013-12-21"
+							}
+						}
 					}
 				}
 			}
