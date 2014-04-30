@@ -5,6 +5,7 @@
 	"date_effective": "2013-07-01",
 	"date_expires": "2014-06-30",
 	"schema": "",
+	"schema_version": "1.0a",
 	"documentation": "",
 	"species": {
 		"name": "Bear",
