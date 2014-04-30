@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"title": "Hunting Species",
+	"species": [
+		{			
+			"name": "Bear",
+			"taxonomy": "Ursus americanus",
+			"file": "bear.json"
+		},
+		{
+			"name": "Striped skunk",
+			"taxonomy": "Mephitis mephitis mephitis",
+			"file": "skunk.json"
+		},
+		{
+			"name": "Opossum",
+			"taxonomy": "Didelphis virginiana",
+			"file": "opossum.json"
+		}
+	]
+}
+]
