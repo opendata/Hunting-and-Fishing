@@ -59,6 +59,29 @@
 					}
 				}
 			}
+			"firearms": {
+				"range": {
+					"1": {
+						"places": {
+							"Chesapeake": {
+								"gnis_id": 1496841
+							},
+							"Suffolk": {
+								"gnis_id": 1500187
+							},
+							"Virginia Beach": {
+								"gnis_id": 1500261
+							}
+						}
+						"season": {
+							"date": {
+								"starts": "2013-10-01",
+								"ends": "2013-01-04"
+							}
+						}
+					}
+				}
+			}
 		}
 	}
 }
