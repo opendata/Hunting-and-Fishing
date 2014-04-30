@@ -79,6 +79,163 @@
 								"ends": "2013-01-04"
 							}
 						}
+					},
+					"2": {
+						"places": {
+							"Albemarle": {
+								"gnis_id": 1675170
+							},
+							"Alleghany": {
+								"gnis_id": 1673675
+							},
+							"Amherst": {
+								"gnis_id": 1480095
+							},
+							"Arlington": {
+								"gnis_id": 1480097
+							},
+							"Augusta": {
+								"gnis_id": 1480098
+							},
+							"Bath": {
+								"gnis_id": 1673638
+							},
+							"Bedford": {
+								"gnis_id": 1674818
+							},
+							"Bland": {
+								"gnis_id": 1494613
+							},
+							"Botetourt": {
+								"gnis_id": 1674418
+							},
+							"Caroline": {
+								"gnis_id": 1480107
+							},
+							"Chesterfield": {
+								"gnis_id": 1480111
+							},
+							"Clarke": {
+								"gnis_id": 1690562
+							},
+							"Craig": {
+								"gnis_id": 1673664
+							},
+							"Culpeper": {
+								"gnis_id": 1497831
+							},
+							"Fairfax": {
+								"gnis_id": 1480119
+							},
+							"Fauquier": {
+								"gnis_id": 1480120
+							},
+							"Fluvanna": {
+								"gnis_id": 1494061
+							},
+							"Frederick": {
+								"gnis_id": 1480124
+							},
+							"Giles": {
+								"gnis_id": 1494551
+							},
+							"Goochland": {
+								"gnis_id": 1674271
+							},
+							"Greene": {
+								"gnis_id": 1480129
+							},
+							"Hanover": {
+								"gnis_id": 1480132
+							},
+							"Henrico": {
+								"gnis_id": 1480133
+							},
+							"Highland": {
+								"gnis_id": 1673774
+							},
+							"Loudoun": {
+								"gnis_id": 1480141
+							},
+							"Louisa": {
+								"gnis_id": 1494707
+							},
+							"Madison": {
+								"gnis_id": 1494590
+							},
+							"Montgomery": {
+								"gnis_id": 1674630,
+								"restriction": "northwest of I-81"
+							},
+							"Nelson": {
+								"gnis_id": 1500936
+							},
+							"Orange": {
+								"gnis_id": 1494761
+							},
+							"Page": {
+								"gnis_id": 1500440
+							},
+							"Powhatan": {
+								"gnis_id": 1674225
+							},
+							"Prince William": {
+								"gnis_id": 1480161
+							},
+							"Pulaski": {
+								"gnis_id": 1501465,
+								"restriction": "northwest of I-81"
+							},
+							"Rappahannock": {
+								"gnis_id": 1673976
+							},
+							"Roanoke": {
+								"gnis_id": 1480165
+							},
+							"Rockbridge": {
+								"gnis_id": 1480166
+							},
+							"Rockingham": {
+								"gnis_id": 1488970
+							},
+							"Shenandoah": {
+								"gnis_id": 1673918
+							},
+							"Smyth": {
+								"gnis_id": 1500545,
+								"restriction": "northwest of I-81"
+							},
+							"Spotsylvania": {
+								"gnis_id": 1480172
+							},
+							"Stafford": {
+								"gnis_id": 1480173
+							},
+							"Tazewell": {
+								"gnis_id": 1497748
+							},
+							"Warren": {
+								"gnis_id": 1674058
+							},
+							"Washington": {
+								"gnis_id": 1498359,
+								"restriction": "northwest of I-81 and east of Route 19"
+							},
+							"Wythe": {
+								"gnis_id": 1501379
+							},
+							"Clinch Mountain Wildlife Management Area": {
+								"gnis_id": 1482581
+							},
+							"Hidden Valley Wildlife Management Area": {},
+							"Channels State Forest" {}
+						}
+						"season": {
+							"date": {
+								"starts": "2013-11-25",
+								"ends": "2013-01-04"
+							}
+						}
 					}
 				}
 			}
