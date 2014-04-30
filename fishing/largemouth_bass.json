@@ -10,7 +10,7 @@
 	"species": {
 		"name": "Largemouth Bass",
 		"taxonomy": "Micropterus salmoides",
-		"bova_id": "10188",
+		"bova_id": 10188,
 		"images": [
 			{
 				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010188.jpg",

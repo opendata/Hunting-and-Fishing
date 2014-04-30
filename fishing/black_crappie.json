@@ -10,7 +10,7 @@
 	"species": {
 		"name": "Black Crappie",
 		"taxonomy": "Pomoxis nigromaculatus",
-		"bova_id": "10190",
+		"bova_id": 10190,
 		"images": [
 			{
 				"name": "Black Crappie",

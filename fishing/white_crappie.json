@@ -10,7 +10,7 @@
 	"species": {
 		"name": "White Crappie",
 		"taxonomy": "Pomoxis annularis",
-		"bova_id": "10189",
+		"bova_id": 10189,
 		"images": [
 			{
 				"name": "White Crappie",

@@ -10,7 +10,7 @@
 	"species": {
 		"name": "Bear",
 		"taxonomy": "Ursus americanus",
-		"bova_id": "50037",
+		"bova_id": 50037,
 		"url": "http://www.dgif.virginia.gov/hunting/regulations/bear.asp",
 		"weapon": {
 			"archery": {
