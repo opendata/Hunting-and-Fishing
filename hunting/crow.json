@@ -22,8 +22,8 @@
 							},
 							"days": ["Monday", "Wednesday", "Friday", "Saturday"]
 						}
-					}
-					"national forest lands and department lands": {
+					},
+					"national_forest_lands_and_department_lands": {
 						"season": {
 							"date": {
 								"starts": "2013-09-02",
