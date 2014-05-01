@@ -284,6 +284,153 @@
 								"ends": "2013-12-21"
 							}
 						}
+					},
+					"4": {
+						"places": {
+							"Buchanan": {
+								"gnis_id": 1497431
+							},
+							"Dickenson": {
+								"gnis_id": 1497376
+							},
+							"Lee": {
+								"gnis_id": 1496538
+							},
+							"Russell": {
+								"gnis_id": 1497573
+							},
+							"Scott": {
+								"gnis_id": 1498172
+							},
+							"Washington": {
+								"gnis_id": 1674630,
+								"restriction": "northwest of I-81 and west of Route 19"
+							},
+							"Wise": {
+								"gnis_id": 1496656
+							},
+						},
+						"season": {
+							"date": {
+								"starts": "2013-12-02",
+								"ends": "2014-01-04"
+							}
+						}
+					},
+					"4": {
+						"places": {
+							"Amelia": {
+								"gnis_id": 1497770
+							},
+							"Appomattox": {
+								"gnis_id": 1497238
+							},
+							"Brunswick": {
+								"gnis_id": 1493961
+							},
+							"Buckingham": {
+								"gnis_id": 1501502
+							},
+							"Campbell": {
+								"gnis_id": 1674917
+							},
+							"Charles City": {
+								"gnis_id": 1480109
+							},
+							"Charlotte": {
+								"gnis_id": 1492442
+							},
+							"Cumberland": {
+								"gnis_id": 1494109
+							},
+							"Dinwiddie": {
+								"gnis_id": 1690739
+							},
+							"Essex": {
+								"gnis_id": 1480118
+							},
+							"Gloucester": {
+								"gnis_id": 1480126
+							},
+							"Greensville": {
+								"gnis_id": 1501122
+							},
+							"Halifax": {
+								"gnis_id": 1496705
+							},
+							"Isle of Wight": {
+								"gnis_id": 1702378
+							},
+							"James City": {
+								"gnis_id": 1480135
+							},
+							"King and Queen": {
+								"gnis_id": 1480136
+							},
+							"King George": {
+								"gnis_id": 1480137
+							},
+							"King William": {
+								"gnis_id": 1480138
+							},
+							"Lancaster": {
+								"gnis_id": 0
+							},
+							"Lunenburg": {
+								"gnis_id": 1492239
+							},
+							"Mathews": {
+								"gnis_id": 1480145
+							},
+							"Mecklenburg": {
+								"gnis_id": 1500747
+							},
+							"Middlesex": {
+								"gnis_id": 1480147
+							},
+							"New Kent": {
+								"gnis_id": 1480150
+							},
+							"Northumberland": {
+								"gnis_id": 1480152
+							},
+							"Nottoway": {
+								"gnis_id": 1493928
+							},
+							"Pittsylvania": {
+								"gnis_id": 1480157
+							},
+							"Prince Edward": {
+								"gnis_id": 1492359
+							},
+							"Prince George": {
+								"gnis_id": 1480160
+							},
+							"Richmond": {
+								"gnis_id": 1480164
+							},
+							"Southampton": {
+								"gnis_id": 1480171
+							},
+							"Surry": {
+								"gnis_id": 1480174
+							},
+							"Sussex": {
+								"gnis_id": 1690257
+							},
+							"Westmoreland": {
+								"gnis_id": 1480179
+							},
+							"York": {
+								"gnis_id": 1480182
+							}
+						},
+						"season": {
+							"date": {
+								"starts": "2013-12-02",
+								"ends": "2014-12-07"
+							}
+						}
 					}
 				}
 			}
