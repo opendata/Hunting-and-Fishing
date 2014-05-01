@@ -23,6 +23,11 @@
 			"name": "Opossum",
 			"taxonomy": "Didelphis virginiana",
 			"file": "opossum.json"
+		},
+		{
+			"name": "Crow",
+			"taxonomy": "Corvus brachyrhynchos",
+			"file": "crow.json"
 		}
 	]
 }
