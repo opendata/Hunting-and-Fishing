@@ -1,0 +1,40 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Crow",
+		"taxonomy": "Corvus brachyrhynchos",
+		"bova_id": 40255,
+		"weapon": {
+			"firearms": {
+				"range": {
+					"statewide": {
+						"season": {
+							"date": {
+								"starts": "2013-08-17",
+								"ends": "2014-03-15"
+							},
+							"days": ["Monday", "Wednesday", "Friday", "Saturday"]
+						}
+					}
+					"national forest lands and department lands": {
+						"season": {
+							"date": {
+								"starts": "2013-09-02",
+								"ends": "2014-03-10"
+							},
+							"days": ["Monday", "Wednesday", "Friday", "Saturday"]
+						}
+					}
+				}
+			}
+		}
+	}
+}
+]
