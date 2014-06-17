@@ -270,7 +270,7 @@
 								"restriction": "southeast of I-81"
 							},
 							"Washington": {
-								"gnis_id": 1498359
+								"gnis_id": 1498359,
 								"restriction": "southeast of I-81"
 							},
 							"Wythe": {
@@ -308,7 +308,7 @@
 							},
 							"Wise": {
 								"gnis_id": 1496656
-							},
+							}
 						},
 						"season": {
 							"date": {
