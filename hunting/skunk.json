@@ -11,52 +11,53 @@
 		"name": "Striped skunk",
 		"taxonomy": "Mephitis mephitis mephitis",
 		"bova_id": 50048,
-		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050048",
-		"weapon": {
-			"firearms": {
-				"range": {
-					"statewide": {
-						"season": {
-							"date": {
-								"starts": "2013-07-01",
-								"ends": "2014-06-30"
-							}
+		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050048"
+	},
+	"seasons": {
+		"season": {
+			"method": "firearms",
+			"range": {
+				"statewide": {
+					"season": {
+						"date": {
+							"starts": "2013-07-01",
+							"ends": "2014-06-30"
+						}
+					}
+				},
+				"national_forest_lands": {
+					"season": {
+						"date": {
+							"starts": "2014-09-02",
+							"ends": "2014-03-10"
+						}
+					}
+				},
+				"department_lands": {
+					"season": {
+						"date": {
+							"starts": "2014-09-02",
+							"ends": "2014-03-10"
 						}
 					},
-					"national_forest_lands": {
-						"season": {
-							"date": {
-								"starts": "2014-09-02",
-								"ends": "2014-03-10"
-							}
+					"season": {
+						"date": {
+							"starts": "2014-04-12",
+							"ends": "2014-05-03"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "12:00:00"
 						}
 					},
-					"department_lands": {
-						"season": {
-							"date": {
-								"starts": "2014-09-02",
-								"ends": "2014-03-10"
-							}
+					"season": {
+						"date": {
+							"starts": "2014-09-02",
+							"ends": "2014-03-10"
 						},
-						"season": {
-							"date": {
-								"starts": "2014-04-12",
-								"ends": "2014-05-03"
-							},
-							"time": {
-								"starts": "30 minutes before sunrise",
-								"ends": "12:00:00"
-							}
-						},
-						"season": {
-							"date": {
-								"starts": "2014-09-02",
-								"ends": "2014-03-10"
-							},
-							"time": {
-								"starts": "30 minutes before sunrise",
-								"ends": "sunset"
-							}
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "sunset"
 						}
 					}
 				}

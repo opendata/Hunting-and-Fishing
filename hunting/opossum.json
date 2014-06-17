@@ -11,16 +11,17 @@
 		"name": "Opossum",
 		"taxonomy": "Didelphis virginiana",
 		"bova_id": 50001,
-		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050001",
-		"weapon": {
-			"firearms": {
-				"range": {
-					"statewide": {
-						"season": {
-							"date": {
-								"starts": "2013-07-01",
-								"ends": "2014-06-30"
-							}
+		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050001"
+	},
+	"seasons": {
+		"season": {
+			"method": "firearm",
+			"range": {
+				"statewide": {
+					"season": {
+						"date": {
+							"starts": "2013-07-01",
+							"ends": "2014-06-30"
 						}
 					}
 				}

@@ -10,27 +10,28 @@
 	"species": {
 		"name": "Crow",
 		"taxonomy": "Corvus brachyrhynchos",
-		"bova_id": 40255,
-		"weapon": {
-			"firearms": {
-				"range": {
-					"statewide": {
-						"season": {
-							"date": {
-								"starts": "2013-08-17",
-								"ends": "2014-03-15"
-							},
-							"days": ["Monday", "Wednesday", "Friday", "Saturday"]
-						}
-					},
-					"national_forest_lands_and_department_lands": {
-						"season": {
-							"date": {
-								"starts": "2013-09-02",
-								"ends": "2014-03-10"
-							},
-							"days": ["Monday", "Wednesday", "Friday", "Saturday"]
-						}
+		"bova_id": 40255
+	},
+	"seasons": {
+		"season": {
+			"method": "firearms",
+			"range": {
+				"statewide": {
+					"season": {
+						"date": {
+							"starts": "2013-08-17",
+							"ends": "2014-03-15"
+						},
+						"days": ["Monday", "Wednesday", "Friday", "Saturday"]
+					}
+				},
+				"national_forest_lands_and_department_lands": {
+					"season": {
+						"date": {
+							"starts": "2013-09-02",
+							"ends": "2014-03-10"
+						},
+						"days": ["Monday", "Wednesday", "Friday", "Saturday"]
 					}
 				}
 			}

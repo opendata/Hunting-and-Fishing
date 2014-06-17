@@ -11,436 +11,439 @@
 		"name": "Bear",
 		"taxonomy": "Ursus americanus",
 		"bova_id": 50037,
-		"url": "http://www.dgif.virginia.gov/hunting/regulations/bear.asp",
-		"weapon": {
-			"archery": {
-				"range": {
-					"statewide": {
-						"season": {
-							"date": {
-								"starts": "2013-10-05",
-								"ends": "2013-11-15"
-							}
+		"url": "http://www.dgif.virginia.gov/hunting/regulations/bear.asp"
+	},
+	"seasons": {
+		"season": {
+			"method": "archery",
+			"method_rules": [
+				"Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”",
+				"Archery tackle (including crossbows) only.",
+				"Broadhead widths must be at least 7/8-inch wide or expand upon impact to 7/8-inch.",
+				"Bows must be capable of propelling a broadhead arrow at least 125 yards.",
+				"It is unlawful to use explosive head arrows or arrows to which any drug, chemical, or toxic substance has been added.",
+				"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”).",
+				"It is unlawful to have a firearm in possession, except that a muzzleloading firearm as defined the muzzleloader bear season section, may also be in possession when and where there is an overlap with muzzleloading bear season where bear hunting with a rifle or muzzleloading firearm is permitted. (See exception for valid concealed handgun permit holders.)"
+			],
+			"range": {
+				"statewide": {
+					"season": {
+						"date": {
+							"starts": "2013-10-05",
+							"ends": "2013-11-15"
+						}
+					}
+				}
+			}
+		},
+		"season": {
+			"method": "muzzleloader",
+			"method_rules": [
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading gun while hunting with a muzzleloader. (See exception for valid concealed handgun permit holders).",
+				"It is unlawful to use muzzleloading pistols.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder of any type in any quantity in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm. For complete safety, a muzzleloader should be emptied by shooting into soft ground.",
+				"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”)."
+			],
+			"range": {
+				"statewide": {
+					"season": {
+						"date": {
+							"starts": "2013-11-09",
+							"ends": "2013-11-15"
 						}
 					},
-					"methods": [
-						"Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”",
-						"Archery tackle (including crossbows) only.",
-						"Broadhead widths must be at least 7/8-inch wide or expand upon impact to 7/8-inch.",
-						"Bows must be capable of propelling a broadhead arrow at least 125 yards.",
-						"It is unlawful to use explosive head arrows or arrows to which any drug, chemical, or toxic substance has been added.",
-						"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”).",
-						"It is unlawful to have a firearm in possession, except that a muzzleloading firearm as defined the muzzleloader bear season section, may also be in possession when and where there is an overlap with muzzleloading bear season where bear hunting with a rifle or muzzleloading firearm is permitted. (See exception for valid concealed handgun permit holders.)"
-					]
+					"comment": "Statewide in all areas where hunting with a muzzleloading rifle is permitted."
+				}
+			}
+		},
+		"season": {
+			"method": "firearms",
+			"method_rules": [
+				"Modern firearms",
+				"Archery tackle (including crossbows)",
+				"Muzzleloading firearms",
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” for details."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Chesapeake": {
+							"gnis_id": 1496841
+						},
+						"Suffolk": {
+							"gnis_id": 1500187
+						},
+						"Virginia Beach": {
+							"gnis_id": 1500261
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2013-10-01",
+							"ends": "2014-01-04"
+						}
+					}
+				},
+				"2": {
+					"places": {
+						"Albemarle": {
+							"gnis_id": 1675170
+						},
+						"Alleghany": {
+							"gnis_id": 1673675
+						},
+						"Amherst": {
+							"gnis_id": 1480095
+						},
+						"Arlington": {
+							"gnis_id": 1480097
+						},
+						"Augusta": {
+							"gnis_id": 1480098
+						},
+						"Bath": {
+							"gnis_id": 1673638
+						},
+						"Bedford": {
+							"gnis_id": 1674818
+						},
+						"Bland": {
+							"gnis_id": 1494613
+						},
+						"Botetourt": {
+							"gnis_id": 1674418
+						},
+						"Caroline": {
+							"gnis_id": 1480107
+						},
+						"Chesterfield": {
+							"gnis_id": 1480111
+						},
+						"Clarke": {
+							"gnis_id": 1690562
+						},
+						"Craig": {
+							"gnis_id": 1673664
+						},
+						"Culpeper": {
+							"gnis_id": 1497831
+						},
+						"Fairfax": {
+							"gnis_id": 1480119
+						},
+						"Fauquier": {
+							"gnis_id": 1480120
+						},
+						"Fluvanna": {
+							"gnis_id": 1494061
+						},
+						"Frederick": {
+							"gnis_id": 1480124
+						},
+						"Giles": {
+							"gnis_id": 1494551
+						},
+						"Goochland": {
+							"gnis_id": 1674271
+						},
+						"Greene": {
+							"gnis_id": 1480129
+						},
+						"Hanover": {
+							"gnis_id": 1480132
+						},
+						"Henrico": {
+							"gnis_id": 1480133
+						},
+						"Highland": {
+							"gnis_id": 1673774
+						},
+						"Loudoun": {
+							"gnis_id": 1480141
+						},
+						"Louisa": {
+							"gnis_id": 1494707
+						},
+						"Madison": {
+							"gnis_id": 1494590
+						},
+						"Montgomery": {
+							"gnis_id": 1674630,
+							"restriction": "northwest of I-81"
+						},
+						"Nelson": {
+							"gnis_id": 1500936
+						},
+						"Orange": {
+							"gnis_id": 1494761
+						},
+						"Page": {
+							"gnis_id": 1500440
+						},
+						"Powhatan": {
+							"gnis_id": 1674225
+						},
+						"Prince William": {
+							"gnis_id": 1480161
+						},
+						"Pulaski": {
+							"gnis_id": 1501465,
+							"restriction": "northwest of I-81"
+						},
+						"Rappahannock": {
+							"gnis_id": 1673976
+						},
+						"Roanoke": {
+							"gnis_id": 1480165
+						},
+						"Rockbridge": {
+							"gnis_id": 1480166
+						},
+						"Rockingham": {
+							"gnis_id": 1488970
+						},
+						"Shenandoah": {
+							"gnis_id": 1673918
+						},
+						"Smyth": {
+							"gnis_id": 1500545,
+							"restriction": "northwest of I-81"
+						},
+						"Spotsylvania": {
+							"gnis_id": 1480172
+						},
+						"Stafford": {
+							"gnis_id": 1480173
+						},
+						"Tazewell": {
+							"gnis_id": 1497748
+						},
+						"Warren": {
+							"gnis_id": 1674058
+						},
+						"Washington": {
+							"gnis_id": 1498359,
+							"restriction": "northwest of I-81 and east of Route 19"
+						},
+						"Wythe": {
+							"gnis_id": 1501379
+						},
+						"Clinch Mountain Wildlife Management Area": {
+							"gnis_id": 1482581
+						},
+						"Hidden Valley Wildlife Management Area": {},
+						"Channels State Forest": {}
+					},
+					"season": {
+						"date": {
+							"starts": "2013-11-25",
+							"ends": "2014-01-04"
+						}
+					}
+				},
+				"3": {
+					"places": {
+						"Carroll": {
+							"gnis_id": 1480108
+						},
+						"Floyd": {
+							"gnis_id": 1494354
+						},
+						"Franklin": {
+							"gnis_id": 1494434
+						},
+						"Grayson": {
+							"gnis_id": 1501196
+						},
+						"Henry": {
+							"gnis_id": 1502770
+						},
+						"Montgomery": {
+							"gnis_id": 1674630,
+							"restriction": "southeast of I-81"
+						},
+						"Patrick": {
+							"gnis_id": 1497999
+						},
+						"Pulaski": {
+							"gnis_id": 1501465,
+							"restriction": "southeast of I-81"
+						},
+						"Smyth": {
+							"gnis_id": 1500545,
+							"restriction": "southeast of I-81"
+						},
+						"Washington": {
+							"gnis_id": 1498359,
+							"restriction": "southeast of I-81"
+						},
+						"Wythe": {
+							"gnis_id": 1501379,
+							"restriction": "southeast of I-81"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2013-12-02",
+							"ends": "2013-12-21"
+						}
+					}
+				},
+				"4": {
+					"places": {
+						"Buchanan": {
+							"gnis_id": 1497431
+						},
+						"Dickenson": {
+							"gnis_id": 1497376
+						},
+						"Lee": {
+							"gnis_id": 1496538
+						},
+						"Russell": {
+							"gnis_id": 1497573
+						},
+						"Scott": {
+							"gnis_id": 1498172
+						},
+						"Washington": {
+							"gnis_id": 1674630,
+							"restriction": "northwest of I-81 and west of Route 19"
+						},
+						"Wise": {
+							"gnis_id": 1496656
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2013-12-02",
+							"ends": "2014-01-04"
+						}
+					}
+				},
+				"4": {
+					"places": {
+						"Amelia": {
+							"gnis_id": 1497770
+						},
+						"Appomattox": {
+							"gnis_id": 1497238
+						},
+						"Brunswick": {
+							"gnis_id": 1493961
+						},
+						"Buckingham": {
+							"gnis_id": 1501502
+						},
+						"Campbell": {
+							"gnis_id": 1674917
+						},
+						"Charles City": {
+							"gnis_id": 1480109
+						},
+						"Charlotte": {
+							"gnis_id": 1492442
+						},
+						"Cumberland": {
+							"gnis_id": 1494109
+						},
+						"Dinwiddie": {
+							"gnis_id": 1690739
+						},
+						"Essex": {
+							"gnis_id": 1480118
+						},
+						"Gloucester": {
+							"gnis_id": 1480126
+						},
+						"Greensville": {
+							"gnis_id": 1501122
+						},
+						"Halifax": {
+							"gnis_id": 1496705
+						},
+						"Isle of Wight": {
+							"gnis_id": 1702378
+						},
+						"James City": {
+							"gnis_id": 1480135
+						},
+						"King and Queen": {
+							"gnis_id": 1480136
+						},
+						"King George": {
+							"gnis_id": 1480137
+						},
+						"King William": {
+							"gnis_id": 1480138
+						},
+						"Lancaster": {
+							"gnis_id": 0
+						},
+						"Lunenburg": {
+							"gnis_id": 1492239
+						},
+						"Mathews": {
+							"gnis_id": 1480145
+						},
+						"Mecklenburg": {
+							"gnis_id": 1500747
+						},
+						"Middlesex": {
+							"gnis_id": 1480147
+						},
+						"New Kent": {
+							"gnis_id": 1480150
+						},
+						"Northumberland": {
+							"gnis_id": 1480152
+						},
+						"Nottoway": {
+							"gnis_id": 1493928
+						},
+						"Pittsylvania": {
+							"gnis_id": 1480157
+						},
+						"Prince Edward": {
+							"gnis_id": 1492359
+						},
+						"Prince George": {
+							"gnis_id": 1480160
+						},
+						"Richmond": {
+							"gnis_id": 1480164
+						},
+						"Southampton": {
+							"gnis_id": 1480171
+						},
+						"Surry": {
+							"gnis_id": 1480174
+						},
+						"Sussex": {
+							"gnis_id": 1690257
+						},
+						"Westmoreland": {
+							"gnis_id": 1480179
+						},
+						"York": {
+							"gnis_id": 1480182
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2013-12-02",
+							"ends": "2013-12-07"
+						}
+					}
 				}
 			},
-			"muzzleloader": {
-				"range": {
-					"statewide": {
-						"season": {
-							"date": {
-								"starts": "2013-11-09",
-								"ends": "2013-11-15"
-							}
-						},
-						"comment": "Statewide in all areas where hunting with a muzzleloading rifle is permitted."
-					}
-				},
-				"methods": [
-					"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
-					"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
-					"Flintlock, percussion, or electronic ignitions are permitted.",
-					"It is unlawful to have in immediate possession any firearm other than a muzzleloading gun while hunting with a muzzleloader. (See exception for valid concealed handgun permit holders).",
-					"It is unlawful to use muzzleloading pistols.",
-					"Must use at least 50 grains of black powder or black powder equivalent.",
-					"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder of any type in any quantity in a muzzleloading firearm that is not specifically designed for it.",
-					"Scopes are permitted.",
-					"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm. For complete safety, a muzzleloader should be emptied by shooting into soft ground.",
-					"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”)."
-				]
-			},
-			"firearms": {
-				"range": {
-					"1": {
-						"places": {
-							"Chesapeake": {
-								"gnis_id": 1496841
-							},
-							"Suffolk": {
-								"gnis_id": 1500187
-							},
-							"Virginia Beach": {
-								"gnis_id": 1500261
-							}
-						},
-						"season": {
-							"date": {
-								"starts": "2013-10-01",
-								"ends": "2014-01-04"
-							}
-						}
-					},
-					"2": {
-						"places": {
-							"Albemarle": {
-								"gnis_id": 1675170
-							},
-							"Alleghany": {
-								"gnis_id": 1673675
-							},
-							"Amherst": {
-								"gnis_id": 1480095
-							},
-							"Arlington": {
-								"gnis_id": 1480097
-							},
-							"Augusta": {
-								"gnis_id": 1480098
-							},
-							"Bath": {
-								"gnis_id": 1673638
-							},
-							"Bedford": {
-								"gnis_id": 1674818
-							},
-							"Bland": {
-								"gnis_id": 1494613
-							},
-							"Botetourt": {
-								"gnis_id": 1674418
-							},
-							"Caroline": {
-								"gnis_id": 1480107
-							},
-							"Chesterfield": {
-								"gnis_id": 1480111
-							},
-							"Clarke": {
-								"gnis_id": 1690562
-							},
-							"Craig": {
-								"gnis_id": 1673664
-							},
-							"Culpeper": {
-								"gnis_id": 1497831
-							},
-							"Fairfax": {
-								"gnis_id": 1480119
-							},
-							"Fauquier": {
-								"gnis_id": 1480120
-							},
-							"Fluvanna": {
-								"gnis_id": 1494061
-							},
-							"Frederick": {
-								"gnis_id": 1480124
-							},
-							"Giles": {
-								"gnis_id": 1494551
-							},
-							"Goochland": {
-								"gnis_id": 1674271
-							},
-							"Greene": {
-								"gnis_id": 1480129
-							},
-							"Hanover": {
-								"gnis_id": 1480132
-							},
-							"Henrico": {
-								"gnis_id": 1480133
-							},
-							"Highland": {
-								"gnis_id": 1673774
-							},
-							"Loudoun": {
-								"gnis_id": 1480141
-							},
-							"Louisa": {
-								"gnis_id": 1494707
-							},
-							"Madison": {
-								"gnis_id": 1494590
-							},
-							"Montgomery": {
-								"gnis_id": 1674630,
-								"restriction": "northwest of I-81"
-							},
-							"Nelson": {
-								"gnis_id": 1500936
-							},
-							"Orange": {
-								"gnis_id": 1494761
-							},
-							"Page": {
-								"gnis_id": 1500440
-							},
-							"Powhatan": {
-								"gnis_id": 1674225
-							},
-							"Prince William": {
-								"gnis_id": 1480161
-							},
-							"Pulaski": {
-								"gnis_id": 1501465,
-								"restriction": "northwest of I-81"
-							},
-							"Rappahannock": {
-								"gnis_id": 1673976
-							},
-							"Roanoke": {
-								"gnis_id": 1480165
-							},
-							"Rockbridge": {
-								"gnis_id": 1480166
-							},
-							"Rockingham": {
-								"gnis_id": 1488970
-							},
-							"Shenandoah": {
-								"gnis_id": 1673918
-							},
-							"Smyth": {
-								"gnis_id": 1500545,
-								"restriction": "northwest of I-81"
-							},
-							"Spotsylvania": {
-								"gnis_id": 1480172
-							},
-							"Stafford": {
-								"gnis_id": 1480173
-							},
-							"Tazewell": {
-								"gnis_id": 1497748
-							},
-							"Warren": {
-								"gnis_id": 1674058
-							},
-							"Washington": {
-								"gnis_id": 1498359,
-								"restriction": "northwest of I-81 and east of Route 19"
-							},
-							"Wythe": {
-								"gnis_id": 1501379
-							},
-							"Clinch Mountain Wildlife Management Area": {
-								"gnis_id": 1482581
-							},
-							"Hidden Valley Wildlife Management Area": {},
-							"Channels State Forest": {}
-						},
-						"season": {
-							"date": {
-								"starts": "2013-11-25",
-								"ends": "2014-01-04"
-							}
-						}
-					},
-					"3": {
-						"places": {
-							"Carroll": {
-								"gnis_id": 1480108
-							},
-							"Floyd": {
-								"gnis_id": 1494354
-							},
-							"Franklin": {
-								"gnis_id": 1494434
-							},
-							"Grayson": {
-								"gnis_id": 1501196
-							},
-							"Henry": {
-								"gnis_id": 1502770
-							},
-							"Montgomery": {
-								"gnis_id": 1674630,
-								"restriction": "southeast of I-81"
-							},
-							"Patrick": {
-								"gnis_id": 1497999
-							},
-							"Pulaski": {
-								"gnis_id": 1501465,
-								"restriction": "southeast of I-81"
-							},
-							"Smyth": {
-								"gnis_id": 1500545,
-								"restriction": "southeast of I-81"
-							},
-							"Washington": {
-								"gnis_id": 1498359,
-								"restriction": "southeast of I-81"
-							},
-							"Wythe": {
-								"gnis_id": 1501379,
-								"restriction": "southeast of I-81"
-							}
-						},
-						"season": {
-							"date": {
-								"starts": "2013-12-02",
-								"ends": "2013-12-21"
-							}
-						}
-					},
-					"4": {
-						"places": {
-							"Buchanan": {
-								"gnis_id": 1497431
-							},
-							"Dickenson": {
-								"gnis_id": 1497376
-							},
-							"Lee": {
-								"gnis_id": 1496538
-							},
-							"Russell": {
-								"gnis_id": 1497573
-							},
-							"Scott": {
-								"gnis_id": 1498172
-							},
-							"Washington": {
-								"gnis_id": 1674630,
-								"restriction": "northwest of I-81 and west of Route 19"
-							},
-							"Wise": {
-								"gnis_id": 1496656
-							}
-						},
-						"season": {
-							"date": {
-								"starts": "2013-12-02",
-								"ends": "2014-01-04"
-							}
-						}
-					},
-					"4": {
-						"places": {
-							"Amelia": {
-								"gnis_id": 1497770
-							},
-							"Appomattox": {
-								"gnis_id": 1497238
-							},
-							"Brunswick": {
-								"gnis_id": 1493961
-							},
-							"Buckingham": {
-								"gnis_id": 1501502
-							},
-							"Campbell": {
-								"gnis_id": 1674917
-							},
-							"Charles City": {
-								"gnis_id": 1480109
-							},
-							"Charlotte": {
-								"gnis_id": 1492442
-							},
-							"Cumberland": {
-								"gnis_id": 1494109
-							},
-							"Dinwiddie": {
-								"gnis_id": 1690739
-							},
-							"Essex": {
-								"gnis_id": 1480118
-							},
-							"Gloucester": {
-								"gnis_id": 1480126
-							},
-							"Greensville": {
-								"gnis_id": 1501122
-							},
-							"Halifax": {
-								"gnis_id": 1496705
-							},
-							"Isle of Wight": {
-								"gnis_id": 1702378
-							},
-							"James City": {
-								"gnis_id": 1480135
-							},
-							"King and Queen": {
-								"gnis_id": 1480136
-							},
-							"King George": {
-								"gnis_id": 1480137
-							},
-							"King William": {
-								"gnis_id": 1480138
-							},
-							"Lancaster": {
-								"gnis_id": 0
-							},
-							"Lunenburg": {
-								"gnis_id": 1492239
-							},
-							"Mathews": {
-								"gnis_id": 1480145
-							},
-							"Mecklenburg": {
-								"gnis_id": 1500747
-							},
-							"Middlesex": {
-								"gnis_id": 1480147
-							},
-							"New Kent": {
-								"gnis_id": 1480150
-							},
-							"Northumberland": {
-								"gnis_id": 1480152
-							},
-							"Nottoway": {
-								"gnis_id": 1493928
-							},
-							"Pittsylvania": {
-								"gnis_id": 1480157
-							},
-							"Prince Edward": {
-								"gnis_id": 1492359
-							},
-							"Prince George": {
-								"gnis_id": 1480160
-							},
-							"Richmond": {
-								"gnis_id": 1480164
-							},
-							"Southampton": {
-								"gnis_id": 1480171
-							},
-							"Surry": {
-								"gnis_id": 1480174
-							},
-							"Sussex": {
-								"gnis_id": 1690257
-							},
-							"Westmoreland": {
-								"gnis_id": 1480179
-							},
-							"York": {
-								"gnis_id": 1480182
-							}
-						},
-						"season": {
-							"date": {
-								"starts": "2013-12-02",
-								"ends": "2013-12-07"
-							}
-						}
-					}
-				},
-				"methods": [
-					"Modern firearms",
-					"Archery tackle (including crossbows)",
-					"Muzzleloading firearms",
-					"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” for details."
-				],
-				"comment": "Dogs May Be Used to Hunt Bear Except:\\n1. During the firearms deer season in the counties west of the Blue Ridge and in the counties of Amherst (west of Rt. 29), Bedford, and Nelson (west of Rt. 151).\\n2. During the first 12 hunting days of the firearms deer season in Madison and Greene counties.\\n3. In the counties of Campbell (west of Norfolk Southern Railroad), Carroll (east of the New River), Fairfax, Floyd, Franklin, Grayson (east of the New River), Henry, Loudoun, Montgomery (south of I-81), Patrick, Pittsylvania (west of Norfolk Southern Railroad), Pulaski (south of I-81), Roanoke (south of I-81), and Wythe (southeast of the New River or that part bounded by Rt. 21 on the west, I-81 on the north, the county line on the east, the New River on the southeast and Cripple Creek on the south), and in the city of Lynchburg.\\n4. On the Amelia, Chester F. Phelps, Featherfin, G. Richard Thompson, Mattaponi, Merrimac Farm, and Pettigrew Wildlife Management Areas.\\n5. When hunting during the archery or muzzleloading bear seasons.\\n6. On Cavalier WMA dogs may only be used during the Bear Hound Training Season from August 10-31."
-			}
+			"comment": "Dogs May Be Used to Hunt Bear Except:\\n1. During the firearms deer season in the counties west of the Blue Ridge and in the counties of Amherst (west of Rt. 29), Bedford, and Nelson (west of Rt. 151).\\n2. During the first 12 hunting days of the firearms deer season in Madison and Greene counties.\\n3. In the counties of Campbell (west of Norfolk Southern Railroad), Carroll (east of the New River), Fairfax, Floyd, Franklin, Grayson (east of the New River), Henry, Loudoun, Montgomery (south of I-81), Patrick, Pittsylvania (west of Norfolk Southern Railroad), Pulaski (south of I-81), Roanoke (south of I-81), and Wythe (southeast of the New River or that part bounded by Rt. 21 on the west, I-81 on the north, the county line on the east, the New River on the southeast and Cripple Creek on the south), and in the city of Lynchburg.\\n4. On the Amelia, Chester F. Phelps, Featherfin, G. Richard Thompson, Mattaponi, Merrimac Farm, and Pettigrew Wildlife Management Areas.\\n5. When hunting during the archery or muzzleloading bear seasons.\\n6. On Cavalier WMA dogs may only be used during the Bear Hound Training Season from August 10-31."
 		}
 	}
 }
