@@ -22,7 +22,7 @@
 	},
 	"limits": {
 		"creel": {
-			"number": "5"
+			"number": 5
 		},
 		"length": {
 			"unit": null,

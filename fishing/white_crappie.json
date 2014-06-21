@@ -23,7 +23,7 @@
 	},
 	"limits": {
 		"creel": {
-			"number": "25",
+			"number": 25,
 			"note": "Black and white crappie, in aggregate"
 		},
 		"length": {
@@ -41,12 +41,12 @@
 					}
 				},
 				"creel": {
-					"number": "15",
+					"number": 15,
 					"note": "Black and white crappie, in aggregate"
 				},
 				"length": {
 					"unit": "inches",
-					"minimum": "10"
+					"minimum": 10
 				}
 			},
 			"2": {
