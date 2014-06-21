@@ -20,6 +20,32 @@
 		"aliases": ["Black bass", "bigmouth"],
 		"identification": "Sunfish family. Basically dark greenish above fading to a whitish belly, but variable depending on the water it lives in. Shows a series of dark blotches that form a dark horizontal band along its midline to its tail. Named because of its big mouth. Upper jaw extends well beyond the eye. Dorsal fin deeply notched. Average weight is 2 to 4 lbs., with up to 10 lbs. occurring in some waters."
 	},
+	"limits": {
+		"creel": {
+			"number": "5"
+		},
+		"length": {
+			"unit": null,
+			"maximum": null
+		},
+		"exceptions": {
+			"1": {
+				"places": {
+					"Briery Creek Lake": {
+						"gnis_id": TK
+					}
+				},
+				"description": "No bass 16 to 24 inches, only 1 per day longer than 24 inches"
+			},
+			"2": {
+				"places": {
+					"Buggs Island": {
+						"gnis_id": TK
+					}
+				},
+				"description": "Only 2 of 5 bass less than 14 inches"
+			}
+	},
 	"best_fishing": {
 		"lakes": {
 			"Anna": {
