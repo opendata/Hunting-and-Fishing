@@ -1,0 +1,410 @@
+[
+{
+	"places": {
+		"Accomack": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [43]
+		},
+		"Albemarle": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [16, 54]
+		},
+		"Amherst": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [18]
+		},
+		"Arlington": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [59]
+		},
+		"Buckingham": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [12, 60]
+		},
+		"Caroline": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [6, 17]
+		},
+		"Campbell": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [11]
+		},
+		"Charles City": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 33, 42]
+		},
+		"Chesapeake": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [29, 46]
+		},
+		"Chesterfield": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 14, 21, 22, 37, 54, 70]
+		},
+		"Clarke": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [25, 54]
+		},
+		"Culpeper": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [18, 22, 54]
+		},
+		"Cumberland": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [5, 17, 27, 74]
+		},
+		"Danville": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [54]
+		},
+		"Dinwiddie": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [12, 13, 38]
+		},
+		"Essex": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 42, 49]
+		},
+		"Fairfax": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [2, 25, 45]
+		},
+		"Fauquier": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [14, 18, 22, 36, 37, 54]
+		},
+		"Franklin": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [26]
+		},
+		"Fredericksburg (city)": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [2, 18, 30, 51, 54, 64]
+		},
+		"Gate City": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [55]
+		},
+		"Gloucester": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [14]
+		},
+		"Goochland": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [9, 10, 23, 33, 77]
+		},
+		"Greensville": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [15, 22]
+		},
+		"Halifax": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [33, 61, 75]
+		},
+		"Hampton (city)": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [31, 45]
+		},
+		"Hanover": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 20, 46, 53]
+		},
+		"Isle of Wight": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [8, 12, 35]
+		},
+		"James City": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [40, 54]
+		},
+		"King and Queen": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [39, 42]
+		},
+		"King George": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [6, 17, 22, 26, 54]
+		},
+		"King William": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [17, 18, 28]
+		},
+		"Lancaster": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [6, 12, 26]
+		},
+		"Loudoun": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [18, 22, 54, 62, 63, 64, 65]
+		},
+		"Louisa": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [17, 27, 68]
+		},
+		"Lunenburg": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [17]
+		},
+		"Madison": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [22, 25, 54]
+		},
+		"Mecklenburg": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [27]
+		},
+		"Middlesex": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [26]
+		},
+		"Nelson": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [22]
+		},
+		"New Kent": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [8, 12, 25, 54]
+		},
+		"Newport News": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [1]
+		},
+		"Northampton": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 53]
+		},
+		"Northumberland": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [17, 26, 42, 54]
+		},
+		"Orange": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [18, 22, 34]
+		},
+		"Petersburg": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [54]
+		},
+		"Pittsylvania": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [26]
+		},
+		"Poquoson (city)": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [22, 69, 71, 72]
+		},
+		"Prince George": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [4, 7, 32, 43]
+		},
+		"Prince William": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [2, 12, 18]
+		},
+		"Rappahannock": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [18]
+		},
+		"Richmond": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 66, 67, 68]
+		},
+		"Richmond (city)": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [54]
+		},
+		"Roanoke": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [25, 54, 64, 77, 79]
+		},
+		"Southampton": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [3, 8, 19, 41, 80]
+		},
+		"Stafford": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [81, 82]
+		},
+		"Suffolk": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [44, 52, 76]
+		},
+		"Surry": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 53, 54]
+		},
+		"Sussex": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [7, 48, 73]
+		},
+		"Virginia Beach": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [2, 7, 54, 56, 57, 58]
+		},
+		"Warren": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [54]
+		},
+		"Westmoreland": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [50]
+		},
+		"Williamsburg": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [1, 54]
+		},
+		"York": {
+			"gnis_id": "",
+			"fips_code": "",
+			"rules": [46, 47]
+		}
+	},
+	"rules": {
+		"1": "No discharge of firearms except on approved ranges.",
+		"2": "No rifles larger than .22 for hunting.",
+		"3": "It is unlawful to hunt with a muzzleloading shotgun loaded with slugs or sabot slugs.",
+		"4": "Deer hunting with a rifle of a caliber larger than .22 rimfire is prohibited in the county. However, hunting of groundhogs with a rifle of a caliber larger than a .22 rimfire between March 1 and August 31 is permitted , and a rifle of a caliber larger than a .22 rimfire may be used for hunting all other game, bird, and varmint species as allowed by state law and regulations. Deer hunting with a shotgun loaded with slugs is permitted so long as such hunting is conducted from a stand located at least ten feet in elevation above the ground.",
+		"5": "It is lawful to hunt groundhogs with rifles of a caliber larger than .22 rimfire during the season between March 1 and August 31.",
+		"6": "No rifles larger than .22 for hunting except groundhogs outside of the regular hunting season.",
+		"7": "No rifles for deer hunting.",
+		"8": "No rifles for big game hunting.",
+		"9": "It shall be unlawful to hunt in the county with a rifle, pistol, or revolver of a caliber larger than .22 caliber or with a shotgun loaded with slugs, except that rifles of a larger caliber and pistols or revolvers firing cartridges rated in manufacturers’ tables at 350 foot pounds of energy or greater may be used to hunt from a stand elevated at least 10 feet from the ground, provided that no cartridge shall be used with a bullet of less than .23 caliber.",
+		"10": "It shall be unlawful to have in immediate possession any hunting firearm other than a muzzleloading rifle while hunting with a muzzleloading rifle during the early muzzleloader season.",
+		"11": "It shall be unlawful to hunt with a firearm on or within the ditch line of any primary or secondary highway.",
+		"12": "It is lawful to use muzzleloading rifles for game animals in the regular hunting season.",
+		"13": "It is lawful to hunt deer with muzzleloading rifles only from stands elevated 10 feet.",
+		"14": "It is unlawful to hunt from the road with firearms.",
+		"15": "It is unlawful to hunt with firearms from the road and within 10 feet of the ditch bank.",
+		"16": "It is unlawful to hunt within 100 feet of the road.",
+		"17": "Muzzleloading rifles are permitted during any authorized deer season where firearms are permitted.",
+		"18": "It is unlawful to hunt with a firearm within 100 yards of a road.",
+		"19": "It is unlawful to transport, possess or carry a loaded rifle in any vehicle while on the road from October 1 through February 15.",
+		"20": "It shall be unlawful to discharge or shoot any firearm or other weapon in or along any public road or street or within 100 yards thereof or within 100 yards of any building occupied or used as a dwelling or place where the public gathers, not his own dwelling or residence.",
+		"21": "Except for target shooting, no person shall shoot an arrow from a bow with a peak draw weight of 10 pounds or more within 150 feet of a business, public building, public gathering, public meeting place, or dwelling of another unless they have the permission of the dwelling owner or occupant.",
+		"22": "It is unlawful to possess a loaded firearm on the road except when permission to hunt is obtained from landowners on each side.",
+		"23": "It is unlawful to transport, possess, or carry a loaded shotgun or loaded rifle in any vehicle on any public street, road, or highway within the county during the time between sunset and sunrise.",
+		"24": "No rifles over .22 caliber for hunting except for groundhogs between March 1 and August 31.",
+		"25": "No hunting with firearms of game species from within 100 yds. of a road.",
+		"26": "No hunting with firearms of any game animal from the road right-of-way.",
+		"27": "No hunting with firearms from the road including ditch to ditch.",
+		"28": "No hunting with a rifle larger than .22 caliber during the deer season.",
+		"29": "When 100 yds. from a road and elevated from a stand 15 ft. above ground a rifle may be used to hunt big game east of the Dismal Swamp line.",
+		"30": "It shall be unlawful for any person to hunt any bird or game animal using a muzzleloading rifle or a shotgun loaded with slugs, except from a stand elevated at least 10 feet above the ground.",
+		"31": "All hunting within the City of Hampton is prohibited, with the exception of shotgun hunting from a licensed blind. No shot larger than 00 buckshot may be used, and no shot shall be discharged landward within 500 feet of the shoreline.",
+		"32": "It is lawful to hunt deer with muzzleloading rifles only from stands elevated at least 10 feet above the ground; however, this requirement shall be expressly inapplicable to all legally handicapped persons.",
+		"33": "The use of a muzzleloading rifle shall be permitted during the early muzzleloading season and during the entire regular firearms season for deer hunting.",
+		"34": "It is unlawful to transport or possess a loaded shotgun or rifle in a vehicle on a road during open deer season.",
+		"35": "It shall be unlawful to possess outside of a vehicle, or shoot or hunt with a rifle, muzzleloader, pistol, or shotgun loaded with slugs, or to possess shotgun slugs on Ragged Island Wildlife Management Area in Isle of Wight County. In addition, it shall be unlawful to discharge any firearm within 100 yards of the boardwalk or nature trail on Ragged Island Wildlife Management Area.",
+		"36": "It is unlawful to discharge a firearm from or across any sidewalk, highway or on public land.",
+		"37": "It is unlawful for minors to carry firearms on public highways or public lands unless accompanied by certain adults.",
+		"38": "It shall be unlawful to use a rifle of a caliber larger than .22 rimfire except that groundhogs may be hunted with a rifle of a caliber larger than .22 rimfire between March 1 and August 31 and coyotes may be hunted for the entire year.",
+		"39": "It shall be lawful to use muzzleloading rifles for deer and squirrels during the regular seasons.",
+		"40": "It shall be unlawful to discharge a rifle larger than .22 caliber, a muzzleloader larger than .36 caliber, or a shotgun loaded with slugs except from stands elevated at least 10 feet above the ground, except for groundhogs in certain areas between March 1 and September 1.",
+		"41": "It shall be unlawful to hunt with a muzzleloading rifle at any time.",
+		"42": "It shall be unlawful to use a rifle of a caliber larger than .22 rimfire except that groundhogs may be hunted with a rifle of a caliber larger than .22 rimfire between March 1 and August 31.",
+		"43": "It shall be unlawful to hunt with a firearm on or within 50 feet of the center of any primary and secondary highway.",
+		"44": "Rifles are permitted for bear and deer hunting when used from stands elevated at least 15 feet above the ground (except legally handicapped hunters are exempt from tree stand requirements).",
+		"45": "All rifles, pistols, or shotguns loaded with slugs are prohibited for any hunting.",
+		"46": "Discharging firearms or air-operated or gas-operated weapons prohibited within certain areas: check local county/city ordinances.",
+		"47": "No discharge of rifles larger than .22 except on approved ranges.",
+		"48": "Muzzleloading rifles are permitted during the special muzzleloading season.",
+		"49": "Muzzleloading rifles are permitted during any authorized firearms season for the hunting of game animals except for the hunting of turkeys during the spring gobbler season.",
+		"50": "It shall be unlawful for any person to hunt in the county with a shotgun loaded with slugs or a muzzleloading rifle other than during the prescribed open season for the hunting of big game species or with a rifle of a caliber larger than .22 caliber.",
+		"51": "It shall be unlawful to shoot an arrow from a bow in a manner that can be reasonably expected to result in the impact of the arrow upon the property of another without permission from the owner or tenant of such property.",
+		"52": "It shall be unlawful to discharge a firearm or air gun of .177 caliber or larger within any densely populated area within 200 yards from any structure or within 100 yards from any public street, secondary road, or highway within the city, except on a permitted firing range or at or upon the property of another without permission.",
+		"53": "It is lawful to hunt deer with muzzleloading rifles.",
+		"54": "It is unlawful to transport, possess, or carry a loaded rifle or shotgun in any vehicle on any public street, road or highway.",
+		"55": "It shall be unlawful for any person in the town, except a duly authorized officer in the course of his duty, to fire or discharge any gun, pistol, or other firearms of any kind.",
+		"56": "No discharge of firearms across or within 150 yards of any building, dwelling, street, sidewalk, alley, roadway, public land, or public place.",
+		"57": "No discharge of firearms north or west of a line from the Chesapeake-Virginia Beach boundary; thence northwardly along North Landing Road; thence eastwardly along Indian River Road; thence northeastwardly along New Bridge Road; thence eastwardly along Sandbridge Road to the Atlantic Ocean, or across any land north of False Cape Park and east of Shipps Bay and Point Creek. No discharge of rifles larger than .22 south of this line except muzzleloading rifles may be used to hunt deer during the firearms deer season.",
+		"58": "Shotguns firing pellets are lawful on certain agricultural lands of 50 contiguous acres or more, and on certain lands south of a line from the Chesapeake-Virginia Beach boundary, thence northeastwardly along Elbow Road; thence southeastwardly along Salem Road; thence northeastwardly along North Landstown Road; thence southeastwardly along Princess Anne Road; thence eastwardly along Sandbridge Road to the Atlantic Ocean. The property must be permitted by the City Manager for this purpose.",
+		"59": "It shall be unlawful for any person to discharge or shoot off a firearm in the county. It shall be unlawful for any person to discharge or shoot or throw any dangerous missiles by mechanical, explosive, airor gas-propelled means, or similar method or device onto or across any public sidewalk, path, or roadway, at any public structure or building, or at or onto the property of another. It is unlawful for any person to shoot a compound bow, crossbow, longbow, or recurve bow at or upon the property of another without permission. It shall be unlawful to discharge a projectile from any of the aforementioned bows within 100 yards of any public road, public building or structure, private residence or structure, or property of another. Nothing in this ordinance shall be construed to prohibit the use of firearms or other instruments or missiles or compound bows, crossbows, longbows, or recurve bows in lawful self defense or in the lawful defense of property, or to prohibit the use of firearms or other missiles or compound bows, crossbows, longbows, or recurve bows in supervised sport, recreation, or training conducted on safety-inspected and approved ranges and courses, provided the same is not contrary to existing law.",
+		"60": "It shall be unlawful to hunt with a rifle larger than .22 caliber rimfire, except any center-fire rifle of a larger caliber may be used to hunt from a stand elevated at least 10 feet from the ground. shall be unlawful to have a loaded center-fire rifle of any caliber .23 or larger except while hunting from a stand elevated ten feet above the ground. The maximum number of rounds that may be loaded in a center-fire rifle shall not exceed five, including the round loaded in chamber. It shall be unlawful for anyone under the age of 12 to use any center-fire rifle caliber .23 or larger for deer hunting purposes without direct adult supervision. Any person with a permanently disabling physical handicap as recognized by the VDGIF shall be exempt from an elevated stand provision of this ordinance.",
+		"61": "It is unlawful to hunt or attempt to hunt on a primary or secondary state maintained highway, and within the side ditches of such highways.",
+		"62": "Discharging firearms is prohibited within certain areas (check local county ordinance for area description), except deer hunting is permitted with handguns, shotguns, or muzzleloading rifles using a single projectile and all other hunting is allowed with rifles of .22 caliber rimfire or less, handguns, shotguns, and muzzleloading rifles using single or multiple projectiles.",
+		"63": "The discharge of firearms is prohibited within 50 yards of a highway in the primary or secondary system of state roads.",
+		"64": "Discharge of firearms is prohibited within 100 yards of any public park or school.",
+		"65": "Discharge of firearms is prohibited within 100 yards of a building with a current occupancy permit unless the owner or authorized agent has given permission.",
+		"66": "Muzzleloaders shall be legal firearms during any firearms season.",
+		"67": "Shotgun slugs shall be permitted for deer hunting.",
+		"68": "It shall be unlawful to hunt with a rifle larger than .22 caliber, except rifles of a larger caliber may be used for hunting groundhogs and coyotes outside the general firearms deer season.",
+		"69": "It shall be unlawful for any person to discharge an air gun, spring gun, or firearm from, along, across or toward, or within 300 yards of any paved public street, highway or road, or any building in the city.",
+		"70": "It shall be lawful to hunt game species with a muzzleloading rifle during the prescribed open seasons.",
+		"71": "The discharge or use of a rifle, except for a .22 caliber rim fire is prohibited within the city limits.",
+		"72": "The use of muzzleloading rifles during the prescribed open seasons for the hunting of game species is permitted in the city; provided, however, that the use of such muzzleloading rifle shall be only from a stand located at least 10 feet above the ground.",
+		"73": "No rifles for turkey hunting.",
+		"74": "It is unlawful to hunt deer during the regular hunting season with a rifle of .23 caliber or larger either on public lands or in the area of the county bordered to the north by the James River, to the west by Route 602 from the Willis River, and to the south by Route 45 and Route 684 to the county line (generally known as Cartersville Historic District); except from a tree stand elevated at least 10 feet above the ground. It shall be lawful to hunt with a muzzleloading rifle from the ground or from a tree stand elevated to any height.",
+		"75": "No person shall hunt using a rifle larger than a .22 caliber rimfire within a 100 yards of any residence or occupied building without the written approval of the owner or lessee of the property. It shall be unlawful to discharge a rifle larger than .22 caliber rimfire from an elevated stand within 100 yards of an adjoining property line without first obtaining written permission of the owner or, if different than the owner, the occupant of the adjoining property or within 100 yards of any public street or primary or secondary state-maintained highway.",
+		"76": "Muzzleloading rifles are permitted during the open seasons for hunting game species from stands elevated at least 10 feet above the ground (except legally handicapped hunters are exempt from tree stand requirements). No early muzzleloader season east of the Dismal Swamp Line.",
+		"77": "It shall be unlawful to engage in hunting with a firearm within the right-of-way of any primary or secondary highway.",
+		"78": "It shall be unlawful for any person to engage in hunting with a firearm or to discharge a firearm within 100 yards of a dwelling house or occupied building not his or her own.",
+		"79": "It shall be unlawful for any person to engage in hunting with a bow or to discharge arrows from bows within 100 yards of a dwelling house or occupied building not his or her own. A “bow” includes all compound bows, crossbows, longbows, and recurves that have a peak draw weight of 10 pounds or more. The term “arrow” means a shaftlike projectile intended to be shot from abow.",
+		"80": "It shall be unlawful to hunt with a rifle larger than .22 caliber rimfire, except rifles of a larger caliber may be used for hunting groundhogs and coyotes between March 1 and August 31.",
+		"81": "It shall be unlawful to shoot or hunt within 100 yards of any regularly occupied structure without written permission of its owner or occupant or within 100 yards of any private road located in a subdivision where lots are 10 acres or more without written permission of the owner or occupant.",
+		"82": "It shall be unlawful to shoot or hunt on any county property including, but not limited to, schools, parks, pools, the courthouse and other county offices."
+	}
+}
+]
