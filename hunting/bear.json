@@ -26,7 +26,12 @@
 				"It is unlawful to have a firearm in possession, except that a muzzleloading firearm as defined the muzzleloader bear season section, may also be in possession when and where there is an overlap with muzzleloading bear season where bear hunting with a rifle or muzzleloading firearm is permitted. (See exception for valid concealed handgun permit holders.)"
 			],
 			"range": {
-				"statewide": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+						}
+					},
 					"season": {
 						"date": {
 							"starts": "2013-10-05",
@@ -51,7 +56,12 @@
 				"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”)."
 			],
 			"range": {
-				"statewide": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+						}
+					},
 					"season": {
 						"date": {
 							"starts": "2013-11-09",

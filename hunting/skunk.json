@@ -17,15 +17,23 @@
 		"season": {
 			"method": "firearms",
 			"range": {
-				"statewide": {
-					"season": {
-						"date": {
-							"starts": "2013-07-01",
-							"ends": "2014-06-30"
+				"1": {
+					"places": {
+						"Virginia": {
+							"fips_code": "TK"
+						}
+						"season": {
+							"date": {
+								"starts": "2013-07-01",
+								"ends": "2014-06-30"
+							}
 						}
 					}
 				},
-				"national_forest_lands": {
+				"2": {
+					"places": {
+						"National Forest Lands": {}
+					},
 					"season": {
 						"date": {
 							"starts": "2014-09-02",
@@ -33,7 +41,10 @@
 						}
 					}
 				},
-				"department_lands": {
+				"3": {
+					"places": {
+						"Department Lands": {}
+					},
 					"season": {
 						"date": {
 							"starts": "2014-09-02",

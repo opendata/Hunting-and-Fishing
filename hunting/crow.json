@@ -16,7 +16,12 @@
 		"season": {
 			"method": "firearms",
 			"range": {
-				"statewide": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"fips_code": "TK"
+						}
+					}
 					"season": {
 						"date": {
 							"starts": "2013-08-17",
@@ -25,7 +30,11 @@
 						"days": ["Monday", "Wednesday", "Friday", "Saturday"]
 					}
 				},
-				"national_forest_lands_and_department_lands": {
+				"2": {
+					"places": {
+						"National Forest Lands": {},
+						"Department Lands": {}
+					},
 					"season": {
 						"date": {
 							"starts": "2013-09-02",

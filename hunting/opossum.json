@@ -17,7 +17,12 @@
 		"season": {
 			"method": "firearm",
 			"range": {
-				"statewide": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+						}
+					},
 					"season": {
 						"date": {
 							"starts": "2013-07-01",
