@@ -20,6 +20,7 @@
 				"1": {
 					"places": {
 						"Virginia": {
+							"gnis_id": "TK",
 							"fips_code": "TK"
 						}
 						"season": {

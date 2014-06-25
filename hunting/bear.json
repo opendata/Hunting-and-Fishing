@@ -30,6 +30,7 @@
 					"places": {
 						"Virginia": {
 							"gnis_id": "TK",
+							"fips_code": "TK"
 						}
 					},
 					"season": {
@@ -60,6 +61,7 @@
 					"places": {
 						"Virginia": {
 							"gnis_id": "TK",
+							"fips_code": "TK"
 						}
 					},
 					"season": {
@@ -84,13 +86,16 @@
 				"1": {
 					"places": {
 						"Chesapeake": {
-							"gnis_id": 1496841
+							"gnis_id": 1496841,
+							"fips_code": "TK"
 						},
 						"Suffolk": {
-							"gnis_id": 1500187
+							"gnis_id": 1500187,
+							"fips_code": "TK"
 						},
 						"Virginia Beach": {
-							"gnis_id": 1500261
+							"gnis_id": 1500261,
+							"fips_code": "TK"
 						}
 					},
 					"season": {
@@ -103,149 +108,196 @@
 				"2": {
 					"places": {
 						"Albemarle": {
-							"gnis_id": 1675170
+							"gnis_id": 1675170,
+							"fips_code": "TK"
 						},
 						"Alleghany": {
-							"gnis_id": 1673675
+							"gnis_id": 1673675,
+							"fips_code": "TK"
 						},
 						"Amherst": {
-							"gnis_id": 1480095
+							"gnis_id": 1480095,
+							"fips_code": "TK"
 						},
 						"Arlington": {
-							"gnis_id": 1480097
+							"gnis_id": 1480097,
+							"fips_code": "TK"
 						},
 						"Augusta": {
-							"gnis_id": 1480098
+							"gnis_id": 1480098,
+							"fips_code": "TK"
 						},
 						"Bath": {
-							"gnis_id": 1673638
+							"gnis_id": 1673638,
+							"fips_code": "TK"
 						},
 						"Bedford": {
-							"gnis_id": 1674818
+							"gnis_id": 1674818,
+							"fips_code": "TK"
 						},
 						"Bland": {
-							"gnis_id": 1494613
+							"gnis_id": 1494613,
+							"fips_code": "TK"
 						},
 						"Botetourt": {
-							"gnis_id": 1674418
+							"gnis_id": 1674418,
+							"fips_code": "TK"
 						},
 						"Caroline": {
-							"gnis_id": 1480107
+							"gnis_id": 1480107,
+							"fips_code": "TK"
 						},
 						"Chesterfield": {
-							"gnis_id": 1480111
+							"gnis_id": 1480111,
+							"fips_code": "TK"
 						},
 						"Clarke": {
-							"gnis_id": 1690562
+							"gnis_id": 1690562,
+							"fips_code": "TK"
 						},
 						"Craig": {
-							"gnis_id": 1673664
+							"gnis_id": 1673664,
+							"fips_code": "TK"
 						},
 						"Culpeper": {
-							"gnis_id": 1497831
+							"gnis_id": 1497831,
+							"fips_code": "TK"
 						},
 						"Fairfax": {
-							"gnis_id": 1480119
+							"gnis_id": 1480119,
+							"fips_code": "TK"
 						},
 						"Fauquier": {
-							"gnis_id": 1480120
+							"gnis_id": 1480120,
+							"fips_code": "TK"
 						},
 						"Fluvanna": {
-							"gnis_id": 1494061
+							"gnis_id": 1494061,
+							"fips_code": "TK"
 						},
 						"Frederick": {
-							"gnis_id": 1480124
+							"gnis_id": 1480124,
+							"fips_code": "TK"
 						},
 						"Giles": {
-							"gnis_id": 1494551
+							"gnis_id": 1494551,
+							"fips_code": "TK"
 						},
 						"Goochland": {
-							"gnis_id": 1674271
+							"gnis_id": 1674271,
+							"fips_code": "TK"
 						},
 						"Greene": {
-							"gnis_id": 1480129
+							"gnis_id": 1480129,
+							"fips_code": "TK"
 						},
 						"Hanover": {
-							"gnis_id": 1480132
+							"gnis_id": 1480132,
+							"fips_code": "TK"
 						},
 						"Henrico": {
-							"gnis_id": 1480133
+							"gnis_id": 1480133,
+							"fips_code": "TK"
 						},
 						"Highland": {
-							"gnis_id": 1673774
+							"gnis_id": 1673774,
+							"fips_code": "TK"
 						},
 						"Loudoun": {
-							"gnis_id": 1480141
+							"gnis_id": 1480141,
+							"fips_code": "TK"
 						},
 						"Louisa": {
-							"gnis_id": 1494707
+							"gnis_id": 1494707,
+							"fips_code": "TK"
 						},
 						"Madison": {
-							"gnis_id": 1494590
+							"gnis_id": 1494590,
+							"fips_code": "TK"
 						},
 						"Montgomery": {
 							"gnis_id": 1674630,
+							"fips_code": "TK",
 							"restriction": "northwest of I-81"
 						},
 						"Nelson": {
-							"gnis_id": 1500936
+							"gnis_id": 1500936,
+							"fips_code": "TK"
 						},
 						"Orange": {
-							"gnis_id": 1494761
+							"gnis_id": 1494761,
+							"fips_code": "TK"
 						},
 						"Page": {
-							"gnis_id": 1500440
+							"gnis_id": 1500440,
+							"fips_code": "TK"
 						},
 						"Powhatan": {
-							"gnis_id": 1674225
+							"gnis_id": 1674225,
+							"fips_code": "TK"
 						},
 						"Prince William": {
-							"gnis_id": 1480161
+							"gnis_id": 1480161,
+							"fips_code": "TK"
 						},
 						"Pulaski": {
 							"gnis_id": 1501465,
+							"fips_code": "TK",
 							"restriction": "northwest of I-81"
 						},
 						"Rappahannock": {
-							"gnis_id": 1673976
+							"gnis_id": 1673976,
+							"fips_code": "TK"
 						},
 						"Roanoke": {
-							"gnis_id": 1480165
+							"gnis_id": 1480165,
+							"fips_code": "TK"
 						},
 						"Rockbridge": {
-							"gnis_id": 1480166
+							"gnis_id": 1480166,
+							"fips_code": "TK"
 						},
 						"Rockingham": {
-							"gnis_id": 1488970
+							"gnis_id": 1488970,
+							"fips_code": "TK"
 						},
 						"Shenandoah": {
-							"gnis_id": 1673918
+							"gnis_id": 1673918,
+							"fips_code": "TK"
 						},
 						"Smyth": {
 							"gnis_id": 1500545,
+							"fips_code": "TK",
 							"restriction": "northwest of I-81"
 						},
 						"Spotsylvania": {
-							"gnis_id": 1480172
+							"gnis_id": 1480172,
+							"fips_code": "TK"
 						},
 						"Stafford": {
-							"gnis_id": 1480173
+							"gnis_id": 1480173,
+							"fips_code": "TK"
 						},
 						"Tazewell": {
-							"gnis_id": 1497748
+							"gnis_id": 1497748,
+							"fips_code": "TK"
 						},
 						"Warren": {
-							"gnis_id": 1674058
+							"gnis_id": 1674058,
+							"fips_code": "TK"
 						},
 						"Washington": {
 							"gnis_id": 1498359,
+							"fips_code": "TK",
 							"restriction": "northwest of I-81 and east of Route 19"
 						},
 						"Wythe": {
-							"gnis_id": 1501379
+							"gnis_id": 1501379,
+							"fips_code": "TK"
 						},
 						"Clinch Mountain Wildlife Management Area": {
-							"gnis_id": 1482581
+							"gnis_id": 1482581,
+							"fips_code": "TK"
 						},
 						"Hidden Valley Wildlife Management Area": {},
 						"Channels State Forest": {}
@@ -260,41 +312,52 @@
 				"3": {
 					"places": {
 						"Carroll": {
-							"gnis_id": 1480108
+							"gnis_id": 1480108,
+							"fips_code": "TK"
 						},
 						"Floyd": {
-							"gnis_id": 1494354
+							"gnis_id": 1494354,
+							"fips_code": "TK"
 						},
 						"Franklin": {
-							"gnis_id": 1494434
+							"gnis_id": 1494434,
+							"fips_code": "TK"
 						},
 						"Grayson": {
-							"gnis_id": 1501196
+							"gnis_id": 1501196,
+							"fips_code": "TK"
 						},
 						"Henry": {
-							"gnis_id": 1502770
+							"gnis_id": 1502770,
+							"fips_code": "TK"
 						},
 						"Montgomery": {
 							"gnis_id": 1674630,
+							"fips_code": "TK",
 							"restriction": "southeast of I-81"
 						},
 						"Patrick": {
-							"gnis_id": 1497999
+							"gnis_id": 1497999,
+							"fips_code": "TK"
 						},
 						"Pulaski": {
 							"gnis_id": 1501465,
+							"fips_code": "TK",
 							"restriction": "southeast of I-81"
 						},
 						"Smyth": {
 							"gnis_id": 1500545,
+							"fips_code": "TK",
 							"restriction": "southeast of I-81"
 						},
 						"Washington": {
 							"gnis_id": 1498359,
+							"fips_code": "TK",
 							"restriction": "southeast of I-81"
 						},
 						"Wythe": {
 							"gnis_id": 1501379,
+							"fips_code": "TK",
 							"restriction": "southeast of I-81"
 						}
 					},
@@ -308,26 +371,33 @@
 				"4": {
 					"places": {
 						"Buchanan": {
-							"gnis_id": 1497431
+							"gnis_id": 1497431,
+							"fips_code": "TK"
 						},
 						"Dickenson": {
-							"gnis_id": 1497376
+							"gnis_id": 1497376,
+							"fips_code": "TK"
 						},
 						"Lee": {
-							"gnis_id": 1496538
+							"gnis_id": 1496538,
+							"fips_code": "TK"
 						},
 						"Russell": {
-							"gnis_id": 1497573
+							"gnis_id": 1497573,
+							"fips_code": "TK"
 						},
 						"Scott": {
-							"gnis_id": 1498172
+							"gnis_id": 1498172,
+							"fips_code": "TK"
 						},
 						"Washington": {
 							"gnis_id": 1674630,
+							"fips_code": "TK",
 							"restriction": "northwest of I-81 and west of Route 19"
 						},
 						"Wise": {
-							"gnis_id": 1496656
+							"gnis_id": 1496656,
+							"fips_code": "TK"
 						}
 					},
 					"season": {
@@ -340,109 +410,143 @@
 				"5": {
 					"places": {
 						"Amelia": {
-							"gnis_id": 1497770
+							"gnis_id": 1497770,
+							"fips_code": "TK"
 						},
 						"Appomattox": {
-							"gnis_id": 1497238
+							"gnis_id": 1497238,
+							"fips_code": "TK"
 						},
 						"Brunswick": {
-							"gnis_id": 1493961
+							"gnis_id": 1493961,
+							"fips_code": "TK"
 						},
 						"Buckingham": {
-							"gnis_id": 1501502
+							"gnis_id": 1501502,
+							"fips_code": "TK"
 						},
 						"Campbell": {
-							"gnis_id": 1674917
+							"gnis_id": 1674917,
+							"fips_code": "TK"
 						},
 						"Charles City": {
-							"gnis_id": 1480109
+							"gnis_id": 1480109,
+							"fips_code": "TK"
 						},
 						"Charlotte": {
-							"gnis_id": 1492442
+							"gnis_id": 1492442,
+							"fips_code": "TK"
 						},
 						"Cumberland": {
-							"gnis_id": 1494109
+							"gnis_id": 1494109,
+							"fips_code": "TK"
 						},
 						"Dinwiddie": {
-							"gnis_id": 1690739
+							"gnis_id": 1690739,
+							"fips_code": "TK"
 						},
 						"Essex": {
-							"gnis_id": 1480118
+							"gnis_id": 1480118,
+							"fips_code": "TK"
 						},
 						"Gloucester": {
-							"gnis_id": 1480126
+							"gnis_id": 1480126,
+							"fips_code": "TK"
 						},
 						"Greensville": {
-							"gnis_id": 1501122
+							"gnis_id": 1501122,
+							"fips_code": "TK"
 						},
 						"Halifax": {
-							"gnis_id": 1496705
+							"gnis_id": 1496705,
+							"fips_code": "TK"
 						},
 						"Isle of Wight": {
-							"gnis_id": 1702378
+							"gnis_id": 1702378,
+							"fips_code": "TK"
 						},
 						"James City": {
-							"gnis_id": 1480135
+							"gnis_id": 1480135,
+							"fips_code": "TK"
 						},
 						"King and Queen": {
-							"gnis_id": 1480136
+							"gnis_id": 1480136,
+							"fips_code": "TK"
 						},
 						"King George": {
-							"gnis_id": 1480137
+							"gnis_id": 1480137,
+							"fips_code": "TK"
 						},
 						"King William": {
 							"gnis_id": 1480138
 						},
 						"Lancaster": {
-							"gnis_id": 0
+							"gnis_id": "TK",
+							"fips_code": "TK"
 						},
 						"Lunenburg": {
-							"gnis_id": 1492239
+							"gnis_id": 1492239,
+							"fips_code": "TK"
 						},
 						"Mathews": {
-							"gnis_id": 1480145
+							"gnis_id": 1480145,
+							"fips_code": "TK"
 						},
 						"Mecklenburg": {
-							"gnis_id": 1500747
+							"gnis_id": 1500747,
+							"fips_code": "TK"
 						},
 						"Middlesex": {
-							"gnis_id": 1480147
+							"gnis_id": 1480147,
+							"fips_code": "TK"
 						},
 						"New Kent": {
-							"gnis_id": 1480150
+							"gnis_id": 1480150,
+							"fips_code": "TK"
 						},
 						"Northumberland": {
-							"gnis_id": 1480152
+							"gnis_id": 1480152,
+							"fips_code": "TK"
 						},
 						"Nottoway": {
-							"gnis_id": 1493928
+							"gnis_id": 1493928,
+							"fips_code": "TK"
 						},
 						"Pittsylvania": {
-							"gnis_id": 1480157
+							"gnis_id": 1480157,
+							"fips_code": "TK"
 						},
 						"Prince Edward": {
-							"gnis_id": 1492359
+							"gnis_id": 1492359,
+							"fips_code": "TK"
 						},
 						"Prince George": {
-							"gnis_id": 1480160
+							"gnis_id": 1480160,
+							"fips_code": "TK"
 						},
 						"Richmond": {
-							"gnis_id": 1480164
+							"gnis_id": 1480164,
+							"fips_code": "TK"
 						},
 						"Southampton": {
-							"gnis_id": 1480171
+							"gnis_id": 1480171,
+							"fips_code": "TK"
 						},
 						"Surry": {
-							"gnis_id": 1480174
+							"gnis_id": 1480174,
+							"fips_code": "TK"
 						},
 						"Sussex": {
-							"gnis_id": 1690257
+							"gnis_id": 1690257,
+							"fips_code": "TK"
 						},
 						"Westmoreland": {
-							"gnis_id": 1480179
+							"gnis_id": 1480179,
+							"fips_code": "TK"
 						},
 						"York": {
-							"gnis_id": 1480182
+							"gnis_id": 1480182,
+							"fips_code": "TK"
 						}
 					},
 					"season": {
