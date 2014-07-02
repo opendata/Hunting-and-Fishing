@@ -2,8 +2,8 @@
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2013-07-01",
-	"date_expires": "2014-06-30",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
 	"schema": "",
 	"schema_version": "1.0a",
 	"documentation": "",
@@ -26,8 +26,8 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-07-01",
-							"ends": "2014-06-30"
+							"starts": "2014-10-10",
+							"ends": "2015-03-10"
 						}
 					}
 				}

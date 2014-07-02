@@ -2,8 +2,8 @@
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2013-07-01",
-	"date_expires": "2014-06-30",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
 	"schema": "",
 	"schema_version": "1.0a",
 	"documentation": "",
@@ -25,8 +25,8 @@
 						},
 						"season": {
 							"date": {
-								"starts": "2013-07-01",
-								"ends": "2014-06-30"
+								"starts": "2014-07-01",
+								"ends": "2015-06-30"
 							}
 						}
 					}
@@ -37,8 +37,28 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2014-09-02",
-							"ends": "2014-03-10"
+							"starts": "2014-09-01",
+							"ends": "2015-03-10"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-04-11",
+							"ends": "2015-05-03"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "12:00:00"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-05-04",
+							"ends": "2015-05-16"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "sunset"
 						}
 					}
 				},
@@ -49,13 +69,13 @@
 					"season": {
 						"date": {
 							"starts": "2014-09-02",
-							"ends": "2014-03-10"
+							"ends": "2015-03-10"
 						}
 					},
 					"season": {
 						"date": {
-							"starts": "2014-04-12",
-							"ends": "2014-05-03"
+							"starts": "2015-04-11",
+							"ends": "2015-05-03"
 						},
 						"time": {
 							"starts": "30 minutes before sunrise",
@@ -64,12 +84,18 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2014-09-02",
-							"ends": "2014-03-10"
+							"starts": "2015-05-04",
+							"ends": "2015-05-16"
 						},
 						"time": {
 							"starts": "30 minutes before sunrise",
 							"ends": "sunset"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-06-06",
+							"ends": "2015-06-20"
 						}
 					}
 				}

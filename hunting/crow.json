@@ -2,8 +2,8 @@
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2013-07-01",
-	"date_expires": "2014-06-30",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
 	"schema": "",
 	"schema_version": "1.0a",
 	"documentation": "",
@@ -25,10 +25,10 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-08-17",
-							"ends": "2014-03-15"
+							"starts": "2014-08-16",
+							"ends": "2015-03-20"
 						},
-						"days": ["Monday", "Wednesday", "Friday", "Saturday"]
+						"days": ["Wednesday", "Friday", "Saturday", "Sunday"]
 					}
 				},
 				"2": {
@@ -38,10 +38,10 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-09-02",
-							"ends": "2014-03-10"
+							"starts": "2014-09-03",
+							"ends": "2015-03-18"
 						},
-						"days": ["Monday", "Wednesday", "Friday", "Saturday"]
+						"days": ["Wednesday", "Friday", "Saturday"]
 					}
 				}
 			},

@@ -2,8 +2,8 @@
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2013-07-01",
-	"date_expires": "2014-06-30",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
 	"schema": "",
 	"schema_version": "1.0a",
 	"documentation": "",
@@ -35,8 +35,8 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-10-05",
-							"ends": "2013-11-15"
+							"starts": "2014-10-04",
+							"ends": "2014-11-14"
 						}
 					}
 				}
@@ -49,7 +49,6 @@
 				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
 				"Flintlock, percussion, or electronic ignitions are permitted.",
 				"It is unlawful to have in immediate possession any firearm other than a muzzleloading gun while hunting with a muzzleloader. (See exception for valid concealed handgun permit holders).",
-				"It is unlawful to use muzzleloading pistols.",
 				"Must use at least 50 grains of black powder or black powder equivalent.",
 				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder of any type in any quantity in a muzzleloading firearm that is not specifically designed for it.",
 				"Scopes are permitted.",
@@ -66,8 +65,8 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-11-09",
-							"ends": "2013-11-15"
+							"starts": "2014-11-08",
+							"ends": "2014-11-14"
 						}
 					},
 					"comment": "Statewide in all areas where hunting with a muzzleloading rifle is permitted."
@@ -100,8 +99,8 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-10-01",
-							"ends": "2014-01-04"
+							"starts": "2014-10-01",
+							"ends": "2015-01-03"
 						}
 					}
 				},
@@ -304,8 +303,8 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-11-25",
-							"ends": "2014-01-04"
+							"starts": "2014-11-24",
+							"ends": "2015-01-03"
 						}
 					}
 				},
@@ -363,8 +362,8 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-12-02",
-							"ends": "2013-12-21"
+							"starts": "2014-12-01",
+							"ends": "2014-12-20"
 						}
 					}
 				},
@@ -402,8 +401,8 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-12-02",
-							"ends": "2014-01-04"
+							"starts": "2014-12-01",
+							"ends": "2015-01-03"
 						}
 					}
 				},
@@ -551,13 +550,13 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2013-12-02",
-							"ends": "2013-12-07"
+							"starts": "2014-12-01",
+							"ends": "2014-12-06"
 						}
 					}
 				}
 			},
-			"comment": "Dogs May Be Used to Hunt Bear Except:\\n1. During the firearms deer season in the counties west of the Blue Ridge and in the counties of Amherst (west of Rt. 29), Bedford, and Nelson (west of Rt. 151).\\n2. During the first 12 hunting days of the firearms deer season in Madison and Greene counties.\\n3. In the counties of Campbell (west of Norfolk Southern Railroad), Carroll (east of the New River), Fairfax, Floyd, Franklin, Grayson (east of the New River), Henry, Loudoun, Montgomery (south of I-81), Patrick, Pittsylvania (west of Norfolk Southern Railroad), Pulaski (south of I-81), Roanoke (south of I-81), and Wythe (southeast of the New River or that part bounded by Rt. 21 on the west, I-81 on the north, the county line on the east, the New River on the southeast and Cripple Creek on the south), and in the city of Lynchburg.\\n4. On the Amelia, Chester F. Phelps, Featherfin, G. Richard Thompson, Mattaponi, Merrimac Farm, and Pettigrew Wildlife Management Areas.\\n5. When hunting during the archery or muzzleloading bear seasons.\\n6. On Cavalier WMA dogs may only be used during the Bear Hound Training Season from August 10-31."
+			"comment": "Dogs May Not Be Used to Hunt Bear:\\n* During the firearms deer season in the counties west of the Blue Ridge and in the counties of Amherst (west of Rt. 29), Bedford, and Nelson (west of Rt. 151).\\n* During the first 14 hunting days of the firearms deer season in Madison and Greene counties.\\n* In the counties of Campbell (west of Norfolk Southern Railroad), Carroll (east of the New River), Fairfax, Floyd, Franklin, Grayson (east of the New River), Henry, Loudoun, Montgomery (south of I-81), Patrick, Pittsylvania (west of Norfolk Southern Railroad), Pulaski (south of I-81), Roanoke (south of I-81), and Wythe (southeast of the New River or that part bounded by Rt. 21 on the west, I-81 on the north, the county line on the east, the New River on the southeast and Cripple Creek on the south), and in the city of Lynchburg.\\n* On the Amelia, Chester F. Phelps, Featherfin, G. Richard Thompson, Mattaponi, Merrimac Farm, and Pettigrew Wildlife Management Areas.\\n* When hunting during the archery or muzzleloading bear seasons.\\n* On Cavalier WMA dogs may only be used during the Bear Hound Training Season from August 9-31.\\n* On Sundays while in possession of a weapon. The meaning of “possession” for the purpose of this section shall include, but not be limited to, having a firearm, bow, crossbow, or any weapon capable of taking a black bear in or on one’s person, vehicle, or conveyance. (See exception for valid concealed handgun permit holders.)"
 		}
 	}
 }
