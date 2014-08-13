@@ -1,0 +1,115 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Deer",
+		"taxonomy": "",
+		"bova_id": "TK",
+		"url": "TK"
+	},
+	"seasons": {
+		"season": {
+			"method": "archery",
+			"method_rules": [
+				"Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”",
+				"Archery tackle (including crossbows) only.",
+				"Broadhead widths must be at least 7/8-inch wide or expand upon impact to 7/8-inch.",
+				"Bows must be capable of propelling a broadhead arrow at least 125 yards.",
+				"It is unlawful to use explosive head arrows or arrows to which any drug, chemical, or toxic substance has been added.",
+				"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”).",
+				"It is unlawful to have a firearm in possession, except that a muzzleloading firearm as defined the muzzleloader bear season section, may also be in possession when and where there is an overlap with muzzleloading bear season where bear hunting with a rifle or muzzleloading firearm is permitted. (See exception for valid concealed handgun permit holders.)"
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-04",
+							"ends": "2014-11-14"
+						}
+					}
+				},
+				"2": {
+					"places": {
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-04",
+							"ends": "2014-11-14"
+						}
+					}
+				},
+				"3": {
+					"places": {
+						"Chesapeake": {
+							"gnis_id": 1496841,
+							"fips_code": "TK"
+						},
+						"Suffolk": {
+							"gnis_id": 1500187,
+							"fips_code": "TK",
+							"restriction": "east of the Dismal Swamp line"
+						},
+						"Virginia Beach": {
+							"gnis_id": 1500261,
+							"fips_code": "TK"
+						},
+						"Chester F. Phelps WMA": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Frederick": {
+							"gnis_id": "TK",
+							"fips_code": "TK",
+							"restriction": "on National Forest lands"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-12-01",
+							"ends": "2014-01-03"
+						}
+					}
+				},
+				"4": {
+					"places": {
+						"Floyd": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Franklin": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Henry": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Patrick": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-12-14",
+							"ends": "2014-01-03"
+						}
+					}
+				}
+			}
+		}		
+	}
+}
+]
