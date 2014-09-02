@@ -1,0 +1,30 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Brown Trout",
+		"taxonomy": "Salmo trutta",
+		"bova_id": 10051,
+		"images": [],
+		"aliases": [
+			"English brown trout",
+			"German brown trout",
+			"European trout"
+		],
+		"identification": "Trout family. Colors vary widely. Natural wild browns are olivebrown on the back, lighter on the sides, brilliant yellow-gold on their underside, with yellowish-green, unspotted fins. They have numerous black or dark brown spots on their sides, along with a sprinkling of red spots encircled with light blue rings. Hatchery-reared browns tend to be more silvery with dark brownish above with light yellow undersides and spots of a lighter shade."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Moomaw. Rivers and Streams: Little River, Mossy Creek, Potts Creek, Back Creek, Jackson River, Smith River and a wide array of others on either side of the Blue Ridge and in Southwestern Virginia.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Will rise to dry flies as well as hitting wet flies, streamers and nymphs. Worms, live nymphs, minnows and salmon eggs are good too. Brown trout tend to be bigger “meat eaters” in that they'll take larger live baits more readily and will hit spinners, spinner bucktail combinations, as well as small crankbaits and spoons. Live baits and wet flies are normally fished downstream while dry flies are fished upstream."
+}
+]

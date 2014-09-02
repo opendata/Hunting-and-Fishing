@@ -1,0 +1,31 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Brook Trout",
+		"taxonomy": "Salvelinus fontinalis",
+		"bova_id": 10052,
+		"images": [],
+		"aliases": [
+			"native",
+			"brookie",
+			"mountain trout",
+			"speckled trout"
+		],
+		"identification": "Trout family. Most colorful of our trout. Back is a dark olivegreen with light wavy or wormy markings. Sides are lighter, sometimes with a bluish cast, yellowish spots and red spots with a light blue halo around them. Belly is white with bright orange fins. Fins have outer edges of white with a black line separating it from the orange.\\nTen to 16 inches and 1 to 2 lbs. is a good-sized brookie. Native brookies seldom grow beyond 12 inches in Virginia streams."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Over 400 streams or portions of streams contain brook trout. Many of the streams and ponds in the Shenandoah National Park and the George Washington and Jefferson National Forest have native brook trout. Rivers and Streams: Crooked Creek, Little Stoney Creek, Rapidan River, Rose River, Hughes River, Jeremyís Run, Laurel Fork and Dry River. Lakes: Laurel Bed, Coles Creek and Mill Creek reservoirs, Lexington City Reservoir and Switzer Lake.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "For the purist, dry flies, wet flies, streamers and nymphs are used. Nymphs early in the season, dry flies when the natural insects hatch. Live bait anglers use garden worms and caddis, mayfly and stonefly nymphs also early in the year when these aquatic larvae are available naturally. In deep pools, small minnows may be effective year round."
+}
+]

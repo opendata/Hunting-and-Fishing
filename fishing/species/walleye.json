@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Walleye",
+		"taxonomy": "Sander vitreus",
+		"bova_id": 10216,
+		"images": [],
+		"aliases": [
+			"walleyed pike",
+			"jack"
+		],
+		"identification": "Perch family. Largest member of the perch family (Percidae).\\nGrows up to 21 inches, 3 and 4 lbs. by age three. Brassy-olive sides flecked with green and gold, and mottled by 6 to 8 obscure marking on top, white belly. Dorsal fins completely separate and unmarked, except for a distinct dark blotch at the rear base of the front dorsal fin. White blotch on tip of lower tail fin. The eye has a milky cornea, hence the name walleye."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Flannagan, South Holston, Gaston (especially below Kerr Dam), Leesville, Philpott, Chesdin, Anna, Whitehurst, Orange, Hungry Mother, Burke, and Brittle. Rivers: New, Staunton/Roanoke, South Holston, Clinch, Dan.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Jigs dressed with plastic grubs or tipped with live bait work well, especially in cold water. Three to five-inch minnow plugs are very effective when walleyes move into shallow water.\\nCrankbaits and jigging spoons work well when walleyes are deep. Trolling with nightcrawler harnesses (spinner rigs) is the preferred method in reservoirs during the summer months. Live baits such as minnows, shad or nightcrawlers are always a good option for walleye."
+}
+]

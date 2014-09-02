@@ -1,0 +1,28 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Rainbow Trout",
+		"taxonomy": "Oncorhynchus mykiss",
+		"bova_id": 10050,
+		"images": [],
+		"aliases": [
+			"rainbow"
+		],
+		"identification": "Trout family. The variety of rainbows has resulted in a variety of colors, hues and markings. Normally the back is olive-green with a silvery cast on its sides fading to a silvery-white belly. Apinkish or light rosy red band extends from its cheek to near its tail. Normally, they are well spotted with black spots, but vary from large spots to tiny specks to no markings at all."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Well established in streams of the southwestern region of the state and are found in a myriad of mountain streams in western Virginia. Lakes: Moomaw. Rivers and Streams: Smith River, Elk Creek, Dan River, Potts Creek, Cripple Creek, Roanoke River, Little Reed Island Creek, Jackson River, Crooked Creek and Big Tumbling Creek, and many others on both sides of the Blue Ridge. Some good wild streams are Whitetop Laurel, Fox Creek, and the South Fork Holston River.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Hits dry flies, wet flies, streamers, nymphs, small spinners and spinner-bucktails, spoons, as well as worms, live nymphs, minnows and salmon eggs. Hatchery trout readily take kernel corn and colored marshmallows. Berkeley Power Baits that give off a scent and can be shaped on the hook are used extensively by anglers."
+}
+]

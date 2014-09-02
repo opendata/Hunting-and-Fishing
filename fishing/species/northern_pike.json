@@ -1,0 +1,30 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Northern Pike",
+		"taxonomy": "Esox lucius",
+		"bova_id": 10364,
+		"images": [],
+		"aliases": [
+			"pike",
+			"pickerel",
+			"jackfish"
+		],
+		"identification": "Pike family. Member of the pike family (Esoxidae). A long, lean body, generally olive or dark green above fading to a light olive or gray-green to yellowish-green then to white on its belly. Its sides have light yellowish bean-shaped spots the length of its body.\\nStrongly toothed jaws have teeth arranged in rows, plus rows of teeth located on its tongue and palate; they angle inward so its prey cannot get loose. Cheek is fully scaled, gill cover is only half scaled."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Orange, Occoquan, Motts Run, and Arrowhead (Page)",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Still-fishing with large minnows or other baitfish, or casting or trolling with large spoons, spinner-bucktails or crankbaits."
+}
+]

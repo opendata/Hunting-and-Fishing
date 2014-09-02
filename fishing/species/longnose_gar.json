@@ -1,0 +1,31 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Longnose Gar",
+		"taxonomy": "Lepisosteus osseus",
+		"bova_id": 10033,
+		"images": [],
+		"aliases": [
+			"Billy gar",
+			"billfish",
+			"garfish",
+			"garpike"
+		],
+		"identification": "Living relic of prehistoric past; family dates back 245 million years. Nothing in Virginia is even remotely similar to the gar. The long narrow beak-like jaw, laden with sharp teeth, is the unmistakable feature. Very long, cylindrical fish with dorsal and anal fins set well back on the body, and a large rounded tail fin; note the armament of very large, hard, sharp, bony scales. Brownisholive on its back, fading to yellowish- or olive-green to white on its belly; 2 to 3 ft in length is not uncommon."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Western Branch, Prince, Chickahominy, Buggs Island. Rivers: Chickahominy, Pamunkey, James, Rappahannock.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Large minnows are best on medium to heavy casting and spinning tackle. They are adept at stripping bait from hooks and difficult to hook in their bony jaw. Feed at night, especially moonlit nights."
+}
+]

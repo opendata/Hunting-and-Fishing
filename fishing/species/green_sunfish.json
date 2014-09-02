@@ -1,0 +1,28 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Green Sunfish",
+		"taxonomy": "Lepomis cyanellus",
+		"bova_id": 10181,
+		"images": [],
+		"aliases": [
+			"Blue sunfish"
+		],
+		"identification": "Sunfish family. Basically bluish green in color, with faint, alternating blue, brown and brassy gold stripes. Olive colored on its head with pale blue spots and wavy lines on its upper lip. Has a dark opercle (gill flap) spot and some orange and yellow-olive on its lower fins. Is a stocky, thick fish with a large head and large mouth."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Small lakes, pond or quiet coves on large reservoirs where they have been introduced.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Found in almost any small lake, pond or quiet cove on large reservoirs. A ready striker of any small crankbait, spinnerbait, wet or dry flies as well as live nymphs, minnows and worms. Fish close up against the shore, often under the smallest of overhanging banks, or small dugout areas along a shallow shore."
+}
+]

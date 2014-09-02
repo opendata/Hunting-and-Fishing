@@ -1,0 +1,30 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Flathead Catfish",
+		"taxonomy": "Pylodictis olivaris",
+		"bova_id": 10130,
+		"images": [],
+		"aliases": [
+			"mud cat",
+			"shovelhead cat",
+			"yellow cat"
+		],
+		"identification": "Catfish family. Broadly flattened head with a lower jaw that projects beyond the upper jaw. Tail only slightly notched and adipose fin is relatively large. Body is yellowish or cream-colored, with black, dark brown or olive-brown mottling on back and sides, fading to dirty white or yellow. Younger fish have darker, bolder markings and the upper tip of the tails have white, triangular patches."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: James, New, Staunton/Roanoke and Occoquan Creek. Lakes: Occoquan, Claytor and, Flannagan, Smith and Buggs Island.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Use live bait since they arenít easily attracted to catfish baits normally used for other catfish, although chicken entrails, nightcrawlers, and minnows work well. Usually caught on the bottom of deep pools or in tailraces below dams."
+}
+]

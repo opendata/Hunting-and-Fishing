@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "White Bass",
+		"taxonomy": "Morone chrysops",
+		"bova_id": 10167,
+		"images": [],
+		"aliases": [
+			"Silver bass",
+			"linesides"
+		],
+		"identification": "Striped Bass family. Temperate “true” bass family. Light greenish back, light yellowish-green to silver sides to a silvery-white below, 6 to 8 horizontal faint stripes; stripes below later line are broken; the first stripe below the lateral line is not complete to tail. Deep-bodied with distinctively arched back, considerably smaller than its striped bass cousin. Single spine on gill cover; variable patch of teeth on tongue.\\nCommonly reaches 1/2 to 2 lbs."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: New, South Holston, and the Dan and Staunton (during spawning). Lakes: Buggs Island, Smith Mountain, Claytor, South Holston, and Leesville.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Spinning or spincasting outfits with live minnows, or artifcials imitating minnows, including jigs, spinner baits, streamers, spinner-bucktails, crankbaits, spoons. Easily caught during the spawning runs, also below dams in the tailraces, and by jump fishing schools in open water."
+}
+]

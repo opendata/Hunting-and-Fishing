@@ -1,0 +1,30 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Pumpkinseed",
+		"taxonomy": "Lepomis gibbosus",
+		"bova_id": 10182,
+		"images": [],
+		"aliases": [
+			"Pond perch",
+			"sun perch",
+			"sunny"
+		],
+		"identification": "Sunfish family. Dark, olive-green on its back, with mottled sides. Base color of sides, yellowish, spotted with orange, red and blue. Its belly is yellow to bright orange.\\nCheeks and gill covers marked with alternate worm-shaped bands of blue-green and yellow. Bluish-black gill cover flaps are edged with white, yellow, orange or blue, with a small half moon spot of red. Average 4 to 6 inches."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Most lakes, ponds and rivers. Best time to catch them is in spring and early summer when they move into the shallows to spawn, but are cooperative even in the hot summertime and is commonly caught near shore throughout the warmer months.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Found in most lakes, ponds and rivers. Best time to catch them is in spring and early summer when they move into the shallows to spawn, but are cooperative even in the hot summertime and is commonly caught near shore throughout the warmer months. Relatively easy to catch. Small garden worms, red wigglers, various grubs and crickets are good live baits.\\nAn ultra light spinning or spincast rod and reel is ideal rigged with 4 to 6 lb. line, lightly weighted and fitted with a small bobber is the best outfit for sunfish. Simply cast to openings in aquatic vegetation, the edges of aquatic vegetation or gravel clearings near shore. They will hit artificials, such as wet flies and nymphs, but fish them a little slower than other sunfish species."
+}
+]

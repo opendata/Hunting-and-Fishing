@@ -1,0 +1,31 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Channel Catfish",
+		"taxonomy": "Ictalurus punctatus",
+		"bova_id": 10125,
+		"images": [],
+		"aliases": [
+			"spotted catfish",
+			"speckled catfish",
+			"silver catfish",
+			"fork-tailed catfish"
+		],
+		"identification": "Catfish family. Deeply forked tail. Upper jaw is longer than, and overlaps the lower.\\nWhen small, its smooth-skinned body is usually spotted; however, these spots disappear in older fish (can be confused with blue catfish, see identification of blue catfish). Has a small dorsal fin with stiff spine standing high on its back. Varies in color, although generally dark brownish to slate-gray on top, fading to light brownish-gray on the sides. Has 25 to 29 rays in its anal fin."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Buggs Island, Gaston, South Holston, Claytor, Anna, Chesdin, Flannagan, and most small public lakes.\\nRivers: Rappahannock, Appomattox, Chickahominy, Mattaponi, Pamunkey, New, Shenandoah and North Landing.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Rod and reel anglers catch them on clam snouts, peeler crabs, large minnows, nightcrawlers, cut herring, chicken livers or entrails, shrimp, and a variety of stink or dough baits. They take a variety of artificials including crankbaits, jigs and spinners. Best at night or low-light conditions."
+}
+]

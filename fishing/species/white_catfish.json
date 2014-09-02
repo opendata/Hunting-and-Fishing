@@ -1,0 +1,28 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "White Catfish",
+		"taxonomy": "Ameiurus catus",
+		"bova_id": 10120,
+		"images": [],
+		"aliases": [
+			"forked-tailed cat"
+		],
+		"identification": "Catfish family. One of the bullhead catfishes. Average 8 to 18 inches, rarely 20. Has a moderately forked tail, a stocky body with its upper jaw extending slightly beyond lower. Color is basically bluegray above, fading to gray on its sides with a white underside. Occasionally mottled light gray on its sides."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Tidal rivers such as the Potomac, Rappahannock, James, and York and numerous lakes in southeast and central Virginia.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Many of the same methods used for other catfish.\\nWorms, minnows, scented baits, fished on or near the bottom."
+}
+]

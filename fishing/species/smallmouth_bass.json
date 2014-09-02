@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Smallmouth Bass",
+		"taxonomy": "Micropterus dolomieu",
+		"bova_id": 10186,
+		"images": [],
+		"aliases": [
+			"Bronzeback",
+			"black bass"
+		],
+		"identification": "Sunfish family. Coppery-brown above, with greenish-brown sides with darker vertical bars. Three dark bars radiate from the eye on the cheek and gill cover. Dorsal fin is not as deeply notched as the largemouth. Upper jaw extends back only in line with the middle of the eye. A 4 or 5 lb. fish is considered a trophy."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Claytor, Smith Mountain, Philpott, Moomaw, and South Holston Rivers: James (above the fall line); New; South Fork, North Fork, and mainstem Shenandoah; Rappahannock (above the fall line); Maury; North Fork Holston; and Clinch.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Fly, spinning, spincasting and baitcasting rods"
+}
+]

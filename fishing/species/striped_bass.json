@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Striped Bass",
+		"taxonomy": "Morone saxatilis",
+		"bova_id": 10168,
+		"images": [],
+		"aliases": [
+			"striper",
+			"rockfish"
+		],
+		"identification": "Striped Bass family. True bass family. Streamlined, elongate body; coloration shades from dark olive above through silvery sides to a white belly; 7 to 8 prominent unbroken black stripes originate behind the head and extend to the tail; more prominent than on the white bass.\\nTwo spines on the gill cover; two patches of teeth on tongue. Ten to 15 lb. fish are common with 30 to 40 lb. + fish landed each season."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Smith Mountain, Buggs Island, Anna, Claytor, Gaston, Leesville and Western Branch. Rivers:\\nStaunton/Roanoke and all tidal rivers.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Heavy baitcasting, spincasting or spinning outfits with a good backbone and 15 to 25 pound test line. Live bait includes large minnows or gizzard or threadfin shad. Large feathered or plastic jig combinations, spoons, crankbaits that imitate shad or other fish and bucktails. Trolling, drift fishing, jump fishing or deep jigging are usual fishing methods."
+}
+]

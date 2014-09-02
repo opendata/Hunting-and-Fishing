@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Roanoke Bass",
+		"taxonomy": "Ambloplites cavifrons",
+		"bova_id": 10174,
+		"images": [],
+		"aliases": [
+			"Redeye",
+			"rock bass"
+		],
+		"identification": "Sunfish family. Robust body much like the rock bass but with dark, olivegreen to olivebrown back, fading to grayish sides and white belly. Has smaller scale spots than the rock bass and lighter small whitish or yellowish spots on its upper body. Has a slightly concave outline over the eyes.\\nChecks scaleless or nearly so."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: Meherrin, Nottoway, Blackwater, of the Chowan drainage; Roanoke/Staunton, Blackwater and Pigg of the Roanoke drainage. Lakes: Leesville Reservoir, Smith Mountain.\\nMost of the trophy “rock bass” registered by anglers are really Roanoke bass.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Spinning and spincasting with small to medium spinner baits, small spoons and crankbaits. Live baits include minnows, crayfish, and worms."
+}
+]

@@ -1,0 +1,31 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Black Crappie",
+		"taxonomy": "Pomoxis nigromaculatus",
+		"bova_id": 10190,
+		"images": [],
+		"aliases": [
+			"papermouth",
+			"Calico bass",
+			"specks",
+			"speckled perch"
+		],
+		"identification": "Sunfish family. white. The black crappie is covered with dark, irregular blotches and has seven-rarely eight-dorsal spines. It shows more yellowish and greenish on its sides and its caudal (tail) and anal fins are heavily flecked."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Buggs Island, Chesdin, Chickahominy, Cohoon, Anna, Smith Mountain, Prince, Gaston, Claytor, Brittle, Moomaw, Orange, Burke, South Holston, and Western Branch.\\nRivers: tidal Chickahominy and its tributaries, tidal James, and South Fork Shenandoah.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Light spinning or spincasting rods and reels with tiny jigs, doll flies, streamers, small crank baits that imitate minnows, small spoons and spinner-bucktail combinations, and spinner-grubs. Best live baits are small to medium minnows."
+}
+]

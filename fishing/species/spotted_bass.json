@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Spotted Bass",
+		"taxonomy": "Micropterus punctulatus",
+		"bova_id": 10187,
+		"images": [],
+		"aliases": [
+			"Kentucky bass",
+			"spot"
+		],
+		"identification": "Sunfish family. Much like the largemouth and the smallmouth, it is called the “in-between” species. It is distinguished from the smallmouth by the dark, blotchy lateral band from head to tail. The back of spotted bass' upper jaw lines up with the middle rear of the eye, while largemouth jaws extends past the eye. It derives its name from the black spots on its belly scales. Most are about a 1 lb. or less."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Fishing: Lakes: Claytor and North Fork Pound. Rivers: Appamattox, New, Pamunkey, and South and North Anna.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Light to medium spin-casting and spinning outfits and medium bait casting rods and reels. Similar baits as for largemouth, but smaller. Spinnerbaits, top water plugs, crankbaits and fly rod popping bugs."
+}
+]

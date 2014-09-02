@@ -1,0 +1,30 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Chain Pickerel",
+		"taxonomy": "Esox niger",
+		"bova_id": 10056,
+		"images": [],
+		"aliases": [
+			"chainsides",
+			"jackpike",
+			"pike"
+		],
+		"identification": "Pike family. Amember of the pike family, it is named for its chain-like markings on its sides. Also has a black vertical mark under its eye. Normally its fin is unmarked.\\nAverages 1.5 to 3 lbs. Fully scaled on both cheek and gill cover."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: Nottoway, Blackwater, Chickahominy, Dragon Run. Lakes: Chickahominy, Gaston, Western Branch, Diascund, Burnt Mills, Prince, Anna, Cohoon, Little Creek, Moomaw, Douthat and many other rivers, ponds and lakes.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Best time is from October through March.\\nMost active when water temperatures are 55° to 70°F. Spinners, spoons, bucktails, jigs, pork rind baits and a variety of crankbaits will take pickerel. Minnows are the best live bait. Fish the edges of weed beds, lily pad beds, sunken brush or tree stumps."
+}
+]

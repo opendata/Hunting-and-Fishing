@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Largemouth Bass",
+		"taxonomy": "Micropterus salmoides",
+		"bova_id": 10188,
+		"images": [],
+		"aliases": [
+			"Black bass",
+			"bigmouth"
+		],
+		"identification": "Sunfish family. Basically dark greenish above fading to a whitish belly, but variable depending on the water it lives in. Shows a series of dark blotches that form a dark horizontal band along its midline to its tail. Named because of its big mouth. Upper jaw extends well beyond the eye. Dorsal fin deeply notched. Average weight is 2 to 4 lbs., with up to 10 lbs. occurring in some waters."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Anna, Gaston, Buggs Island, Chickahominy, Chesdin, Smith Mountain, Prince, Briery Creek, Western Branch and Flannagan. Rivers: Chickahominy (below Walkers Dam) and James (below the fall line).",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Fly, medium spincasting, spinning or baitcasting rods and reels can all be used. Plastic worms and other plastic imitations, crankbaits, spinner baits, surface lures, jigs and other lures imitating minnows, crayfish, frogs, salamanders and nightcrawlers.\\nFor flyrodders, streamer flies, bucktails and large poppers. Live bait includes small bluegills, minnows of many kinds, crayfish, nightcrawlers, frogs, etc."
+}
+]

@@ -1,0 +1,30 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Rock Bass",
+		"taxonomy": "Ambloplites rupestris",
+		"bova_id": 10175,
+		"images": [],
+		"aliases": [
+			"Redeye",
+			"google eye",
+			"rock sunfish"
+		],
+		"identification": "Sunfish family. Short, robust body and fairly large mouth. Lower jaw protrudes slightly. Back is olive-green with sides tarnished gold or brassy colored.\\nEach scale has a dark central spot. Large spots on its lower body forms a striped-like appearance.\\nHas a discernable dark outline on its anal fin. Has wide vertical blotches on its sides and a dark spot on its cheek. Average 6 to 8 inches, but will reach 12 to 14 inches and 11/2 to 2 lbs. Checks with obvious sacles."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: Roanoke, New, Jackson, Maury, James, Bullpasture, Calfpasture, Buffalo, North Fork Shenandoah and Clinch.\\nLakes: Smith Mountain Lake, Moomaw.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "Voracious feeders that readily strike spinners, jigs, small crankbaits and flies. Favored live baits include minnows, crayfish, nightcrawlers, mayfly nymphs and hellgrammites."
+}
+]

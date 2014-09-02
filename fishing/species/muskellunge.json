@@ -1,0 +1,29 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2013-07-01",
+	"date_expires": "2014-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Muskellunge",
+		"taxonomy": "Esox masquinongy",
+		"bova_id": 10365,
+		"images": [],
+		"aliases": [
+			"musky",
+			"muskie"
+		],
+		"identification": "Pike family. Largest member of the pike family. Normally olive to dark gray on its back, with grayish to bluish to yellowish sides.\\nSides may have faint vertical bars, spots or blotches."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: James, Clinch, Shenandoah and New. Lakes:\\nSmith Mountain, Claytor, Rural Retreat, Burke, and Flannagan.",
+		"lakes": {},
+		"rivers": {}
+	},
+	"fishing_techniques": "River fishermen use small boats with electric motors or small outboards to float larger pools and fish shoreline snags and submerged brush. Heavy bait casting rods and reels with 30+ lb. test line is used. Using large hooks, 4/0 or larger, some anglers simply allow 8 or 12-inch suckers, shad or carp to swim free.\\nMuskies are commonly caught in lakes by trolling deep water with large crankbaits, spoons andspinner-bucktail combinations. Early in the year, try trolling across shallow points."
+}
+]
