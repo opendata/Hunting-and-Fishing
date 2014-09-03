@@ -54,16 +54,10 @@
 			}
 		},
 		"rivers": {
-			"Chickahominy": {
+			"Chickahominy (below Walkers Dam)": {
 				"gnis_id": null
 			},
-			"below Walkers": {
-				"gnis_id": null
-			},
-			"James": {
-				"gnis_id": null
-			},
-			"below the fall": {
+			"James (below the fall line)": {
 				"gnis_id": null
 			}
 		}

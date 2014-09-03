@@ -45,6 +45,9 @@
 			}
 		},
 		"rivers": {
+			"Staunton": {
+				"gnis_id": null
+			},
 			"Roanoke": {
 				"gnis_id": null
 			},

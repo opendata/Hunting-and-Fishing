@@ -61,7 +61,6 @@ function parseBestFishing(str) {
 		"lakes": {}, 
 		"rivers": {} 
 	};
-	var regex = /([\w \.]+)(?:,? (?:and )?|$)/g;
 
 	var riverIndex = str.indexOf("Rivers:");
 	if (riverIndex == -1) riverIndex = str.indexOf("Rivers and Streams:");
@@ -78,19 +77,22 @@ function parseBestFishing(str) {
 			index2 = str.indexOf(altOtherMarker);
 			otherMarker = altOtherMarker;
 		}
-
+		// TODO: comment field of place object
 		if (index1 != -1) {
-			var end = index2 > index1 ? index2 : str.length - 1;
+			var end = index2 > index1 ? index2 : str.length;
 			var list = str.substring(index1 + marker.length, end);
-			var match;
-			while ((match = regex.exec(list)) != null) {
-				var name = match[1].trim().replace(/\./,'');
-				name.split(/\band\b/g).forEach(function (n) {
-					if (n && n.length > 1) {
-						obj[prop][n.trim()] = { "gnis_id": null }; // TODO: GNIS lookup
-					}
+			list.split(',').forEach(function(i) {
+				i.split(/\band\b/).forEach(function(j) {
+					j.split('/').forEach(function(k) {
+						k.split(';').forEach(function(m) {
+							var name = m.replace('.', '').trim();
+							if (name && name.length > 1) {
+								obj[prop][name] = { "gnis_id": null }; // TODO: GNIS lookup
+							}
+						});
+					});
 				});
-			}
+			});
 		}
 	}
 

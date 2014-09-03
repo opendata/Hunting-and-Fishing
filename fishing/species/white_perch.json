@@ -54,10 +54,7 @@
 			}
 		},
 		"rivers": {
-			"Tidal rivers": {
-				"gnis_id": null
-			},
-			"Pamunkey": {
+			"Tidal rivers (Pamunkey": {
 				"gnis_id": null
 			},
 			"James": {
@@ -76,6 +73,9 @@
 				"gnis_id": null
 			},
 			"Northwest": {
+				"gnis_id": null
+			},
+			"Potomac)": {
 				"gnis_id": null
 			},
 			"most of their tributary creeks": {

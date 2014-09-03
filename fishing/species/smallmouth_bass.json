@@ -39,10 +39,10 @@
 			}
 		},
 		"rivers": {
-			"James": {
+			"James (above the fall line)": {
 				"gnis_id": null
 			},
-			"above the fall": {
+			"New": {
 				"gnis_id": null
 			},
 			"South Fork": {
@@ -51,10 +51,16 @@
 			"North Fork": {
 				"gnis_id": null
 			},
-			"mainstem": {
+			"mainstem Shenandoah": {
 				"gnis_id": null
 			},
-			"Rappahannock": {
+			"Rappahannock (above the fall line)": {
+				"gnis_id": null
+			},
+			"Maury": {
+				"gnis_id": null
+			},
+			"North Fork Holston": {
 				"gnis_id": null
 			},
 			"Clinch": {
