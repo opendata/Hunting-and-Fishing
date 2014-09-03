@@ -3,8 +3,6 @@
 // it runs under node.js
 // it will not overwrite any existing files
 
-// TODO: fix í = '
-
 var fs = require('fs');
 
 var fishes = require('./Fishes.json');
