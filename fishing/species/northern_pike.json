@@ -24,16 +24,24 @@
 		"description": "Lakes: Orange, Occoquan, Motts Run, and Arrowhead (Page)",
 		"lakes": {
 			"Orange": {
-				"gnis_id": null
+				"gnis_id": 1471939,
+				"latitude": 38.2261655,
+				"longitude": -78.0189351
 			},
 			"Occoquan": {
-				"gnis_id": null
+				"gnis_id": 1502086,
+				"latitude": 38.7195919,
+				"longitude": -77.3381337
 			},
 			"Motts Run": {
-				"gnis_id": null
+				"gnis_id": 1502078,
+				"latitude": 38.3145242,
+				"longitude": -77.5539564
 			},
 			"Arrowhead (Page)": {
-				"gnis_id": null
+				"gnis_id": 1462560,
+				"latitude": 38.5001243,
+				"longitude": -77.5447077
 			}
 		},
 		"rivers": {}

@@ -23,7 +23,9 @@
 		"description": "Fishing: Lakes: Claytor and North Fork Pound. Rivers: Appamattox, New, Pamunkey, and South and North Anna.",
 		"lakes": {
 			"Claytor": {
-				"gnis_id": null
+				"gnis_id": 1501983,
+				"latitude": 37.0373452,
+				"longitude": -80.6593262
 			},
 			"North Fork Pound": {
 				"gnis_id": null
@@ -34,16 +36,24 @@
 				"gnis_id": null
 			},
 			"New": {
-				"gnis_id": null
+				"gnis_id": 1552301,
+				"latitude": 38.1617741,
+				"longitude": -81.1964965
 			},
 			"Pamunkey": {
-				"gnis_id": null
+				"gnis_id": 1472035,
+				"latitude": 38.1062475,
+				"longitude": -77.837494
 			},
 			"South": {
-				"gnis_id": null
+				"gnis_id": 1474846,
+				"latitude": 37.7395879,
+				"longitude": -78.1908344
 			},
 			"North Anna": {
-				"gnis_id": null
+				"gnis_id": 1471574,
+				"latitude": 37.8034747,
+				"longitude": -77.4077593
 			}
 		}
 	},

@@ -25,13 +25,19 @@
 		"description": "Lakes: Western Branch, Prince, Chickahominy, Buggs Island. Rivers: Chickahominy, Pamunkey, James, Rappahannock.",
 		"lakes": {
 			"Western Branch": {
-				"gnis_id": null
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
 			},
 			"Prince": {
-				"gnis_id": null
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
 			},
 			"Chickahominy": {
-				"gnis_id": null
+				"gnis_id": 1478078,
+				"latitude": 37.4037577,
+				"longitude": -76.956077
 			},
 			"Buggs Island": {
 				"gnis_id": null
@@ -39,16 +45,24 @@
 		},
 		"rivers": {
 			"Chickahominy": {
-				"gnis_id": null
+				"gnis_id": 1478374,
+				"latitude": 37.2334815,
+				"longitude": -76.8896853
 			},
 			"Pamunkey": {
-				"gnis_id": null
+				"gnis_id": 1472035,
+				"latitude": 38.1062475,
+				"longitude": -77.837494
 			},
 			"James": {
-				"gnis_id": null
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
 			},
 			"Rappahannock": {
-				"gnis_id": null
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
 			}
 		}
 	},

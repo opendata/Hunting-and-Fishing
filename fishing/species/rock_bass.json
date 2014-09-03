@@ -24,42 +24,66 @@
 		"description": "Rivers: Roanoke, New, Jackson, Maury, James, Bullpasture, Calfpasture, Buffalo, North Fork Shenandoah and Clinch. Lakes: Smith Mountain Lake, Moomaw.",
 		"lakes": {
 			"Smith Mountain Lake": {
-				"gnis_id": null
+				"gnis_id": 1502131,
+				"latitude": 37.062907,
+				"longitude": -79.7660301
 			},
 			"Moomaw": {
-				"gnis_id": null
+				"gnis_id": 1502172,
+				"latitude": 37.9515137,
+				"longitude": -79.9553351
 			}
 		},
 		"rivers": {
 			"Roanoke": {
-				"gnis_id": null
+				"gnis_id": 1473295,
+				"latitude": 36.8804197,
+				"longitude": -78.6958369
 			},
 			"New": {
-				"gnis_id": null
+				"gnis_id": 1552301,
+				"latitude": 38.1617741,
+				"longitude": -81.1964965
 			},
 			"Jackson": {
-				"gnis_id": null
+				"gnis_id": 1468598,
+				"latitude": 37.5459677,
+				"longitude": -76.3268878
 			},
 			"Maury": {
-				"gnis_id": null
+				"gnis_id": 1485231,
+				"latitude": 37.624024,
+				"longitude": -79.4442022
 			},
 			"James": {
-				"gnis_id": null
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
 			},
 			"Bullpasture": {
-				"gnis_id": null
+				"gnis_id": 1482164,
+				"latitude": 38.1895698,
+				"longitude": -79.5636565
 			},
 			"Calfpasture": {
-				"gnis_id": null
+				"gnis_id": 1482221,
+				"latitude": 37.9492961,
+				"longitude": -79.4594846
 			},
 			"Buffalo": {
-				"gnis_id": null
+				"gnis_id": 1464033,
+				"latitude": 37.0798285,
+				"longitude": -82.3501457
 			},
 			"North Fork Shenandoah": {
-				"gnis_id": null
+				"gnis_id": 1487065,
+				"latitude": 38.9442772,
+				"longitude": -78.1872223
 			},
 			"Clinch": {
-				"gnis_id": null
+				"gnis_id": 1307258,
+				"latitude": 35.8634079,
+				"longitude": -84.5318786
 			}
 		}
 	},

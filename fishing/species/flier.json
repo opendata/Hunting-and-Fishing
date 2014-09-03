@@ -23,25 +23,37 @@
 		"description": "Lakes: Drummond, Airfield, Kilby, Cohoon, Meade, Lee Hall, Motts Run. Rivers: Dismal Swamp Canal, Nottoway, Blackwater.",
 		"lakes": {
 			"Drummond": {
-				"gnis_id": null
+				"gnis_id": 1478508,
+				"latitude": 36.6028263,
+				"longitude": -76.4697358
 			},
 			"Airfield": {
-				"gnis_id": null
+				"gnis_id": 1501938,
+				"latitude": 36.9077671,
+				"longitude": -77.033419
 			},
 			"Kilby": {
-				"gnis_id": null
+				"gnis_id": 1502052,
+				"latitude": 36.7236792,
+				"longitude": -76.6072356
 			},
 			"Cohoon": {
-				"gnis_id": null
+				"gnis_id": 1502117,
+				"latitude": 36.7572092,
+				"longitude": -76.645278
 			},
 			"Meade": {
-				"gnis_id": null
+				"gnis_id": 1479073,
+				"latitude": 36.7325115,
+				"longitude": -76.6075666
 			},
 			"Lee Hall": {
 				"gnis_id": null
 			},
 			"Motts Run": {
-				"gnis_id": null
+				"gnis_id": 1502078,
+				"latitude": 38.3145242,
+				"longitude": -77.5539564
 			}
 		},
 		"rivers": {
@@ -49,10 +61,14 @@
 				"gnis_id": null
 			},
 			"Nottoway": {
-				"gnis_id": null
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
 			},
 			"Blackwater": {
-				"gnis_id": null
+				"gnis_id": 1277619,
+				"latitude": 36.5442572,
+				"longitude": -83.0976705
 			}
 		}
 	},

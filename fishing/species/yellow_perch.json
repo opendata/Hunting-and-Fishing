@@ -24,42 +24,64 @@
 		"description": "Brackish-water tributaries of the Chesapeake Bay. Top waters here include Machodoc, Maddox, Aquia and Occoquan creeks. Lakes: Western Branch, Prince, Waller Mill, Little Creek, Holliday, Moomaw and Claytor. Rivers: Potomac, Rappahannock, Chickahominy, Nottoway and New.",
 		"lakes": {
 			"Western Branch": {
-				"gnis_id": null
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
 			},
 			"Prince": {
-				"gnis_id": null
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
 			},
 			"Waller Mill": {
-				"gnis_id": null
+				"gnis_id": 1502152,
+				"latitude": 37.3071908,
+				"longitude": -76.706479
 			},
 			"Little Creek": {
-				"gnis_id": null
+				"gnis_id": 1469523,
+				"latitude": 37.230962,
+				"longitude": -78.6051891
 			},
 			"Holliday": {
 				"gnis_id": null
 			},
 			"Moomaw": {
-				"gnis_id": null
+				"gnis_id": 1502172,
+				"latitude": 37.9515137,
+				"longitude": -79.9553351
 			},
 			"Claytor": {
-				"gnis_id": null
+				"gnis_id": 1501983,
+				"latitude": 37.0373452,
+				"longitude": -80.6593262
 			}
 		},
 		"rivers": {
 			"Potomac": {
-				"gnis_id": null
+				"gnis_id": 1472708,
+				"latitude": 38.3473481,
+				"longitude": -77.2863695
 			},
 			"Rappahannock": {
-				"gnis_id": null
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
 			},
 			"Chickahominy": {
-				"gnis_id": null
+				"gnis_id": 1478374,
+				"latitude": 37.2334815,
+				"longitude": -76.8896853
 			},
 			"Nottoway": {
-				"gnis_id": null
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
 			},
 			"New": {
-				"gnis_id": null
+				"gnis_id": 1552301,
+				"latitude": 38.1617741,
+				"longitude": -81.1964965
 			}
 		}
 	},

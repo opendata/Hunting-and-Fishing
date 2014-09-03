@@ -24,27 +24,41 @@
 		"description": "Lakes: Moomaw. Rivers and Streams: Little River, Mossy Creek, Potts Creek, Back Creek, Jackson River, Smith River and a wide array of others on either side of the Blue Ridge and in Southwestern Virginia.",
 		"lakes": {
 			"Moomaw": {
-				"gnis_id": null
+				"gnis_id": 1502172,
+				"latitude": 37.9515137,
+				"longitude": -79.9553351
 			}
 		},
 		"rivers": {
 			"Little River": {
-				"gnis_id": null
+				"gnis_id": 1469626,
+				"latitude": 36.6048497,
+				"longitude": -81.0611951
 			},
 			"Mossy Creek": {
-				"gnis_id": null
+				"gnis_id": 1485566,
+				"latitude": 38.3898481,
+				"longitude": -79.0114193
 			},
 			"Potts Creek": {
-				"gnis_id": null
+				"gnis_id": 1486390,
+				"latitude": 37.7534586,
+				"longitude": -79.997835
 			},
 			"Back Creek": {
-				"gnis_id": null
+				"gnis_id": 1304907,
+				"latitude": 36.5187144,
+				"longitude": -82.2601355
 			},
 			"Jackson River": {
-				"gnis_id": null
+				"gnis_id": 1484390,
+				"latitude": 37.7842957,
+				"longitude": -79.7758812
 			},
 			"Smith River": {
-				"gnis_id": null
+				"gnis_id": 1023457,
+				"latitude": 36.4806937,
+				"longitude": -79.7511464
 			},
 			"a wide array of others on either side of the Blue Ridge": {
 				"gnis_id": null

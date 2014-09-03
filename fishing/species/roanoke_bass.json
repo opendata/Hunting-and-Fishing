@@ -23,7 +23,9 @@
 		"description": "Rivers: Meherrin, Nottoway, Blackwater, of the Chowan drainage; Roanoke/Staunton, Blackwater and Pigg of the Roanoke drainage. Lakes: Leesville Reservoir, Smith Mountain. Most of the trophy “rock bass” registered by anglers are really Roanoke bass.",
 		"lakes": {
 			"Leesville Reservoir": {
-				"gnis_id": null
+				"gnis_id": 1490560,
+				"latitude": 37.0868104,
+				"longitude": -79.4014153
 			},
 			"Smith Mountain Most of the trophy “rock bass” registered by anglers are really Roanoke bass.": {
 				"gnis_id": null
@@ -31,22 +33,32 @@
 		},
 		"rivers": {
 			"Meherrin": {
-				"gnis_id": null
+				"gnis_id": 1025518,
+				"latitude": 36.4315425,
+				"longitude": -76.9480157
 			},
 			"Nottoway": {
-				"gnis_id": null
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
 			},
 			"Blackwater": {
-				"gnis_id": null
+				"gnis_id": 1277619,
+				"latitude": 36.5442572,
+				"longitude": -83.0976705
 			},
 			"of the Chowan drainage": {
 				"gnis_id": null
 			},
 			"Roanoke": {
-				"gnis_id": null
+				"gnis_id": 1473295,
+				"latitude": 36.8804197,
+				"longitude": -78.6958369
 			},
 			"Staunton": {
-				"gnis_id": null
+				"gnis_id": 1475098,
+				"latitude": 38.4437377,
+				"longitude": -78.3691724
 			},
 			"Pigg of the Roanoke drainage": {
 				"gnis_id": null

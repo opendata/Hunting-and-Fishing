@@ -23,10 +23,14 @@
 		"description": "Lakes: Claytor and Flannagan.",
 		"lakes": {
 			"Claytor": {
-				"gnis_id": null
+				"gnis_id": 1501983,
+				"latitude": 37.0373452,
+				"longitude": -80.6593262
 			},
 			"Flannagan": {
-				"gnis_id": null
+				"gnis_id": 1484463,
+				"latitude": 37.1767904,
+				"longitude": -82.3933472
 			}
 		},
 		"rivers": {}

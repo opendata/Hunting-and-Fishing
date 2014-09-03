@@ -24,28 +24,42 @@
 		"description": "Lakes: Western Branch, Prince, Cohoon, Chickahominy, Robertson, Gatewood, Briery Creek, Burke, and many others.",
 		"lakes": {
 			"Western Branch": {
-				"gnis_id": null
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
 			},
 			"Prince": {
-				"gnis_id": null
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
 			},
 			"Cohoon": {
-				"gnis_id": null
+				"gnis_id": 1502117,
+				"latitude": 36.7572092,
+				"longitude": -76.645278
 			},
 			"Chickahominy": {
-				"gnis_id": null
+				"gnis_id": 1478078,
+				"latitude": 37.4037577,
+				"longitude": -76.956077
 			},
 			"Robertson": {
-				"gnis_id": null
+				"gnis_id": 1488819,
+				"latitude": 37.8033179,
+				"longitude": -79.6077461
 			},
 			"Gatewood": {
-				"gnis_id": null
+				"gnis_id": 1483599,
+				"latitude": 37.0426752,
+				"longitude": -80.8754
 			},
 			"Briery Creek": {
 				"gnis_id": null
 			},
 			"Burke": {
-				"gnis_id": null
+				"gnis_id": 1464110,
+				"latitude": 38.7626447,
+				"longitude": -77.2992494
 			},
 			"many others": {
 				"gnis_id": null

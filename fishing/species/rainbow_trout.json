@@ -22,36 +22,56 @@
 		"description": "Well established in streams of the southwestern region of the state and are found in a myriad of mountain streams in western Virginia. Lakes: Moomaw. Rivers and Streams: Smith River, Elk Creek, Dan River, Potts Creek, Cripple Creek, Roanoke River, Little Reed Island Creek, Jackson River, Crooked Creek and Big Tumbling Creek, and many others on both sides of the Blue Ridge. Some good wild streams are Whitetop Laurel, Fox Creek, and the South Fork Holston River.",
 		"lakes": {
 			"Moomaw": {
-				"gnis_id": null
+				"gnis_id": 1502172,
+				"latitude": 37.9515137,
+				"longitude": -79.9553351
 			}
 		},
 		"rivers": {
 			"Smith River": {
-				"gnis_id": null
+				"gnis_id": 1023457,
+				"latitude": 36.4806937,
+				"longitude": -79.7511464
 			},
 			"Elk Creek": {
-				"gnis_id": null
+				"gnis_id": 1466213,
+				"latitude": 38.0229162,
+				"longitude": -77.7513804
 			},
 			"Dan River": {
-				"gnis_id": null
+				"gnis_id": 1465581,
+				"latitude": 36.6559735,
+				"longitude": -78.5986127
 			},
 			"Potts Creek": {
-				"gnis_id": null
+				"gnis_id": 1486390,
+				"latitude": 37.7534586,
+				"longitude": -79.997835
 			},
 			"Cripple Creek": {
-				"gnis_id": null
+				"gnis_id": 1465437,
+				"latitude": 37.2462221,
+				"longitude": -82.1126346
 			},
 			"Roanoke River": {
-				"gnis_id": null
+				"gnis_id": 1502110,
+				"latitude": 35.9423835,
+				"longitude": -76.6949441
 			},
 			"Little Reed Island Creek": {
-				"gnis_id": null
+				"gnis_id": 1484962,
+				"latitude": 36.9317891,
+				"longitude": -80.7495148
 			},
 			"Jackson River": {
-				"gnis_id": null
+				"gnis_id": 1484390,
+				"latitude": 37.7842957,
+				"longitude": -79.7758812
 			},
 			"Crooked Creek": {
-				"gnis_id": null
+				"gnis_id": 1465458,
+				"latitude": 36.7762546,
+				"longitude": -78.1411086
 			},
 			"Big Tumbling Creek": {
 				"gnis_id": null
@@ -60,10 +80,14 @@
 				"gnis_id": null
 			},
 			"Fox Creek": {
-				"gnis_id": null
+				"gnis_id": 1466824,
+				"latitude": 37.3859772,
+				"longitude": -76.6421774
 			},
 			"the South Fork Holston River": {
-				"gnis_id": null
+				"gnis_id": 1327068,
+				"latitude": 36.5476,
+				"longitude": -82.6118209
 			}
 		}
 	},

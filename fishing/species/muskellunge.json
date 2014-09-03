@@ -23,33 +23,51 @@
 		"description": "Rivers: James, Clinch, Shenandoah and New. Lakes: Smith Mountain, Claytor, Rural Retreat, Burke, and Flannagan.",
 		"lakes": {
 			"Smith Mountain": {
-				"gnis_id": null
+				"gnis_id": 1502131,
+				"latitude": 37.062907,
+				"longitude": -79.7660301
 			},
 			"Claytor": {
-				"gnis_id": null
+				"gnis_id": 1501983,
+				"latitude": 37.0373452,
+				"longitude": -80.6593262
 			},
 			"Rural Retreat": {
-				"gnis_id": null
+				"gnis_id": 1486818,
+				"latitude": 36.8662351,
+				"longitude": -81.2828418
 			},
 			"Burke": {
-				"gnis_id": null
+				"gnis_id": 1464110,
+				"latitude": 38.7626447,
+				"longitude": -77.2992494
 			},
 			"Flannagan": {
-				"gnis_id": null
+				"gnis_id": 1484463,
+				"latitude": 37.1767904,
+				"longitude": -82.3933472
 			}
 		},
 		"rivers": {
 			"James": {
-				"gnis_id": null
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
 			},
 			"Clinch": {
-				"gnis_id": null
+				"gnis_id": 1307258,
+				"latitude": 35.8634079,
+				"longitude": -84.5318786
 			},
 			"Shenandoah": {
-				"gnis_id": null
+				"gnis_id": 1556740,
+				"latitude": 39.3226009,
+				"longitude": -77.7277704
 			},
 			"New": {
-				"gnis_id": null
+				"gnis_id": 1552301,
+				"latitude": 38.1617741,
+				"longitude": -81.1964965
 			}
 		}
 	},

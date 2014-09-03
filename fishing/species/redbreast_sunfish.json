@@ -25,22 +25,34 @@
 		"lakes": {},
 		"rivers": {
 			"South Fork Shenandoah": {
-				"gnis_id": null
+				"gnis_id": 1487411,
+				"latitude": 38.9442772,
+				"longitude": -78.1875001
 			},
 			"Nottoway": {
-				"gnis_id": null
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
 			},
 			"Rapidan": {
-				"gnis_id": null
+				"gnis_id": 1472976,
+				"latitude": 38.36778,
+				"longitude": -77.61889
 			},
 			"Rappahannock": {
-				"gnis_id": null
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
 			},
 			"Maury": {
-				"gnis_id": null
+				"gnis_id": 1485231,
+				"latitude": 37.624024,
+				"longitude": -79.4442022
 			},
 			"Cowpasture": {
-				"gnis_id": null
+				"gnis_id": 1482763,
+				"latitude": 37.7845734,
+				"longitude": -79.7758812
 			}
 		}
 	},

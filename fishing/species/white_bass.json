@@ -26,30 +26,44 @@
 				"gnis_id": null
 			},
 			"Smith Mountain": {
-				"gnis_id": null
+				"gnis_id": 1502131,
+				"latitude": 37.062907,
+				"longitude": -79.7660301
 			},
 			"Claytor": {
-				"gnis_id": null
+				"gnis_id": 1501983,
+				"latitude": 37.0373452,
+				"longitude": -80.6593262
 			},
 			"South Holston": {
-				"gnis_id": null
+				"gnis_id": 1327073,
+				"latitude": 36.5585741,
+				"longitude": -82.0043899
 			},
 			"Leesville": {
-				"gnis_id": null
+				"gnis_id": 1469281,
+				"latitude": 37.0615089,
+				"longitude": -79.4270476
 			}
 		},
 		"rivers": {
 			"New": {
-				"gnis_id": null
+				"gnis_id": 1552301,
+				"latitude": 38.1617741,
+				"longitude": -81.1964965
 			},
 			"South Holston": {
 				"gnis_id": null
 			},
 			"the Dan": {
-				"gnis_id": null
+				"gnis_id": 1465581,
+				"latitude": 36.6559735,
+				"longitude": -78.5986127
 			},
 			"Staunton (during spawning)": {
-				"gnis_id": null
+				"gnis_id": 1475098,
+				"latitude": 38.4437377,
+				"longitude": -78.3691724
 			}
 		}
 	},

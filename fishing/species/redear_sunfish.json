@@ -22,25 +22,39 @@
 		"description": "Lakes: Cohoon, Meade, Prince, Little Creek, Chickahominy, Robertson, Western Branch, Lone Star, and Briery Creek.Rivers: Nottoway.",
 		"lakes": {
 			"Cohoon": {
-				"gnis_id": null
+				"gnis_id": 1502117,
+				"latitude": 36.7572092,
+				"longitude": -76.645278
 			},
 			"Meade": {
-				"gnis_id": null
+				"gnis_id": 1479073,
+				"latitude": 36.7325115,
+				"longitude": -76.6075666
 			},
 			"Prince": {
-				"gnis_id": null
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
 			},
 			"Little Creek": {
-				"gnis_id": null
+				"gnis_id": 1469523,
+				"latitude": 37.230962,
+				"longitude": -78.6051891
 			},
 			"Chickahominy": {
-				"gnis_id": null
+				"gnis_id": 1478078,
+				"latitude": 37.4037577,
+				"longitude": -76.956077
 			},
 			"Robertson": {
-				"gnis_id": null
+				"gnis_id": 1488819,
+				"latitude": 37.8033179,
+				"longitude": -79.6077461
 			},
 			"Western Branch": {
-				"gnis_id": null
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
 			},
 			"Lone Star": {
 				"gnis_id": null
@@ -51,7 +65,9 @@
 		},
 		"rivers": {
 			"Nottoway": {
-				"gnis_id": null
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
 			}
 		}
 	},

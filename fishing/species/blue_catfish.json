@@ -29,22 +29,34 @@
 		},
 		"rivers": {
 			"James": {
-				"gnis_id": null
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
 			},
 			"Mattaponi": {
-				"gnis_id": null
+				"gnis_id": 1470192,
+				"latitude": 37.517367,
+				"longitude": -76.791628
 			},
 			"Pamunkey": {
-				"gnis_id": null
+				"gnis_id": 1472035,
+				"latitude": 38.1062475,
+				"longitude": -77.837494
 			},
 			"Rappahannock": {
-				"gnis_id": null
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
 			},
 			"Staunton": {
-				"gnis_id": null
+				"gnis_id": 1475098,
+				"latitude": 38.4437377,
+				"longitude": -78.3691724
 			},
 			"Appomattox": {
-				"gnis_id": null
+				"gnis_id": 1501617,
+				"latitude": 37.320704,
+				"longitude": -77.2755329
 			}
 		}
 	},

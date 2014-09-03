@@ -9,6 +9,8 @@ var fs = require('fs');
 
 var fishes = require('./Fishes.json');
 
+var places = require('../gnis_places.json');
+
 // loop through the species and write out each file
 var species = fishes.forEach(function(f) {
 	var filename = 'species/' + f.CommonName.toLowerCase().replace(/ +/, '_') + '.json';
@@ -87,7 +89,7 @@ function parseBestFishing(str) {
 						k.split(';').forEach(function(m) {
 							var name = m.replace('.', '').trim();
 							if (name && name.length > 1) {
-								obj[prop][name] = { "gnis_id": null }; // TODO: GNIS lookup
+								obj[prop][name] = lookupGnis(name, prop);
 							}
 						});
 					});
@@ -116,4 +118,55 @@ function getIdentificationString(family, identification) {
 	var fam = families[family];
 	if (fam == undefined) return identification;
 	return fam + ' family. ' + identification;
+}
+
+var _lookupGnisCache = {};
+function lookupGnis(name, type, contains) {
+	var cached;
+	if (cached = _lookupGnisCache[type + "/" + name])
+		return cached;
+
+	// some cleanup
+	name = name.replace(/(\bthe\b|\btidal\b|\bmainstem\b|\(.*|\))/,'').trim();
+	// type is 'rivers' or 'lakes'
+	var obj = { "gnis_id": null };
+	var classes = [];
+	var names = [];
+	if (type == 'rivers') {
+		classes = ['Stream'];
+		names = [ name, name + ' River', name + ' Creek' ];
+	} else if (type == 'lakes') {
+		classes = ['Reservoir', 'Lake'];
+		names = [ name, name + ' Lake', 'Lake ' + name, name + ' Reservoir', name + ' Lake (historical)' ];
+	} else return obj;
+
+	var matches = places.filter(function(p) {
+		if (!contains) {
+			return classes.indexOf(p.feature_class) != -1 &&
+				names.indexOf(p.feature_name) != -1;
+		} else {
+			return classes.indexOf(p.feature_class) != -1 &&
+				p.feature_name.indexOf(name) != -1;
+		}
+	});
+
+	if (matches.length == 0) {
+		// no exact matches, try contains match
+		if (!contains) return lookupGnis(name, type, true);
+		console.log('GNIS: No match for', name);
+	} else if (matches.length == 1 || !contains) {
+		// multiple exact match results considered equivalent
+		obj.gnis_id = matches[0].feature_id;
+		// new fields
+		obj.latitude = matches[0].prim_lat_dec;
+		obj.longitude = matches[0].prim_long_dec;
+	} else {
+		console.log('GNIS: Found', matches.length, 'matches for', name);
+		matches.forEach(function (m) {
+			console.log('*', m.feature_name, '/', m.prim_lat_dec, ',', m.prim_long_dec);
+		});
+	}
+
+	_lookupGnisCache[type + "/" + name] = obj;
+	return obj;
 }

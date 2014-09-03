@@ -28,10 +28,14 @@
 		},
 		"rivers": {
 			"Clinch": {
-				"gnis_id": null
+				"gnis_id": 1307258,
+				"latitude": 35.8634079,
+				"longitude": -84.5318786
 			},
 			"Powell": {
-				"gnis_id": null
+				"gnis_id": 1306921,
+				"latitude": 36.49963,
+				"longitude": -83.6772
 			}
 		}
 	},

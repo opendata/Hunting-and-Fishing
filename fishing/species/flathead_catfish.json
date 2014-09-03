@@ -24,16 +24,24 @@
 		"description": "Rivers: James, New, Staunton/Roanoke and Occoquan Creek. Lakes: Occoquan, Claytor and, Flannagan, Smith and Buggs Island.",
 		"lakes": {
 			"Occoquan": {
-				"gnis_id": null
+				"gnis_id": 1502086,
+				"latitude": 38.7195919,
+				"longitude": -77.3381337
 			},
 			"Claytor": {
-				"gnis_id": null
+				"gnis_id": 1501983,
+				"latitude": 37.0373452,
+				"longitude": -80.6593262
 			},
 			"Flannagan": {
-				"gnis_id": null
+				"gnis_id": 1484463,
+				"latitude": 37.1767904,
+				"longitude": -82.3933472
 			},
 			"Smith": {
-				"gnis_id": null
+				"gnis_id": 1479577,
+				"latitude": 36.8929253,
+				"longitude": -76.1629918
 			},
 			"Buggs Island": {
 				"gnis_id": null
@@ -41,16 +49,24 @@
 		},
 		"rivers": {
 			"James": {
-				"gnis_id": null
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
 			},
 			"New": {
-				"gnis_id": null
+				"gnis_id": 1552301,
+				"latitude": 38.1617741,
+				"longitude": -81.1964965
 			},
 			"Staunton": {
-				"gnis_id": null
+				"gnis_id": 1475098,
+				"latitude": 38.4437377,
+				"longitude": -78.3691724
 			},
 			"Roanoke": {
-				"gnis_id": null
+				"gnis_id": 1473295,
+				"latitude": 36.8804197,
+				"longitude": -78.6958369
 			},
 			"Occoquan Creek": {
 				"gnis_id": null
