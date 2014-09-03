@@ -21,8 +21,46 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Claytor, Smith Mountain, Philpott, Moomaw, and South Holston Rivers: James (above the fall line); New; South Fork, North Fork, and mainstem Shenandoah; Rappahannock (above the fall line); Maury; North Fork Holston; and Clinch.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Claytor": {
+				"gnis_id": null
+			},
+			"Smith Mountain": {
+				"gnis_id": null
+			},
+			"Philpott": {
+				"gnis_id": null
+			},
+			"Moomaw": {
+				"gnis_id": null
+			},
+			"South Holston": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"James": {
+				"gnis_id": null
+			},
+			"above the fall": {
+				"gnis_id": null
+			},
+			"South Fork": {
+				"gnis_id": null
+			},
+			"North Fork": {
+				"gnis_id": null
+			},
+			"mainstem": {
+				"gnis_id": null
+			},
+			"Rappahannock": {
+				"gnis_id": null
+			},
+			"Clinch": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Fly, spinning, spincasting and baitcasting rods"
 }

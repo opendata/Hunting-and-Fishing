@@ -21,8 +21,67 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Western Branch, Whitehurst, Gaston, Buggs Island, Motts Run, Occoquan, Anna, Waller Mill Reservoir, Harwoods Mill Reservoir, and Back Bay. Rivers: Tidal rivers (Pamunkey, James, Rappahannock, Chickahominy, Mattaponi, North Landing, Northwest and Potomac) and most of their tributary creeks.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Western Branch": {
+				"gnis_id": null
+			},
+			"Whitehurst": {
+				"gnis_id": null
+			},
+			"Gaston": {
+				"gnis_id": null
+			},
+			"Buggs Island": {
+				"gnis_id": null
+			},
+			"Motts Run": {
+				"gnis_id": null
+			},
+			"Occoquan": {
+				"gnis_id": null
+			},
+			"Anna": {
+				"gnis_id": null
+			},
+			"Waller Mill Reservoir": {
+				"gnis_id": null
+			},
+			"Harwoods Mill Reservoir": {
+				"gnis_id": null
+			},
+			"Back Bay": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Tidal rivers": {
+				"gnis_id": null
+			},
+			"Pamunkey": {
+				"gnis_id": null
+			},
+			"James": {
+				"gnis_id": null
+			},
+			"Rappahannock": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Mattaponi": {
+				"gnis_id": null
+			},
+			"North Landing": {
+				"gnis_id": null
+			},
+			"Northwest": {
+				"gnis_id": null
+			},
+			"most of their tributary creeks": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Live bait such as minnows, grass shrimp and blood worms, plus artificials such as small spinnerbaits and jigs.\\nFish near structure such as old wharves, pilings, and sunken logs, on a falling tide, which moves baitfish and shrimp out of cover."
 }

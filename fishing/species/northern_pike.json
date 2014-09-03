@@ -22,7 +22,23 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Orange, Occoquan, Motts Run, and Arrowhead (Page)",
-		"lakes": {},
+		"lakes": {
+			"Orange": {
+				"gnis_id": null
+			},
+			"Occoquan": {
+				"gnis_id": null
+			},
+			"Motts Run": {
+				"gnis_id": null
+			},
+			"Arrowhead": {
+				"gnis_id": null
+			},
+			"Page": {
+				"gnis_id": null
+			}
+		},
 		"rivers": {}
 	},
 	"fishing_techniques": "Still-fishing with large minnows or other baitfish, or casting or trolling with large spoons, spinner-bucktails or crankbaits."

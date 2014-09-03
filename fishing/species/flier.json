@@ -21,8 +21,40 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Drummond, Airfield, Kilby, Cohoon, Meade, Lee Hall, Motts Run. Rivers: Dismal Swamp Canal, Nottoway, Blackwater.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Drummond": {
+				"gnis_id": null
+			},
+			"Airfield": {
+				"gnis_id": null
+			},
+			"Kilby": {
+				"gnis_id": null
+			},
+			"Cohoon": {
+				"gnis_id": null
+			},
+			"Meade": {
+				"gnis_id": null
+			},
+			"Lee Hall": {
+				"gnis_id": null
+			},
+			"Motts Run": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Dismal Swamp Canal": {
+				"gnis_id": null
+			},
+			"Nottoway": {
+				"gnis_id": null
+			},
+			"Blackwater": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Most are probably caught incidentally by fishermen fishing for crappies in early spring. They will hit dry and wet flies, as well as small minnows and worms using typical small panfish rigs. Fish around stumps, sunken brush, cypress trunks and knees and near or under bridges."
 }

@@ -21,7 +21,14 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Claytor and Flannagan.",
-		"lakes": {},
+		"lakes": {
+			"Claytor": {
+				"gnis_id": null
+			},
+			"Flannagan": {
+				"gnis_id": null
+			}
+		},
 		"rivers": {}
 	},
 	"fishing_techniques": "Tackle and techniques very similar to striped bass, but often with a little lighter tackle. Shiners and a variety of spoons, crankbaits, and jigs are favorite baits."

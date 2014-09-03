@@ -22,8 +22,31 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Rivers: James, Mattaponi, Pamunkey, Rappahannock, Staunton and Appomattox. Lakes: Buggs Island.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Buggs Island": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"James": {
+				"gnis_id": null
+			},
+			"Mattaponi": {
+				"gnis_id": null
+			},
+			"Pamunkey": {
+				"gnis_id": null
+			},
+			"Rappahannock": {
+				"gnis_id": null
+			},
+			"Staunton": {
+				"gnis_id": null
+			},
+			"Appomattox": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "March through May are the best months, but they are caught year round. Use heavy tackle with cut bait, live herring, shad, or peeler crabs. Best at night or low-light conditions."
 }

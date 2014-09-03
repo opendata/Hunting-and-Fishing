@@ -21,8 +21,34 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Chickahominy, Little Creek and Diascund. Rivers: Chickahominy, Mattaponi, Pamunkey, Nottoway and Blackwater.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Little Creek": {
+				"gnis_id": null
+			},
+			"Diascund": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Mattaponi": {
+				"gnis_id": null
+			},
+			"Pamunkey": {
+				"gnis_id": null
+			},
+			"Nottoway": {
+				"gnis_id": null
+			},
+			"Blackwater": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "They are strong, muscular fighters and strike viscously at all manner of live bait and many artificials. Often fools an angler into thinking it's whipped, and then suddenly explodes back into life. Minnows and a variety of jigs are best baits. Use a good stiff rod with at least 15 lb test line. Steel leaders may be necessary and donít try to lip hold these fish! Food value is generally considered poor."
 }

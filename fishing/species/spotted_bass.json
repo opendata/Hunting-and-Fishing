@@ -21,8 +21,31 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Fishing: Lakes: Claytor and North Fork Pound. Rivers: Appamattox, New, Pamunkey, and South and North Anna.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Claytor": {
+				"gnis_id": null
+			},
+			"North Fork Pound": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Appamattox": {
+				"gnis_id": null
+			},
+			"New": {
+				"gnis_id": null
+			},
+			"Pamunkey": {
+				"gnis_id": null
+			},
+			"South": {
+				"gnis_id": null
+			},
+			"North Anna": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Light to medium spin-casting and spinning outfits and medium bait casting rods and reels. Similar baits as for largemouth, but smaller. Spinnerbaits, top water plugs, crankbaits and fly rod popping bugs."
 }

@@ -22,8 +22,46 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Brackish-water tributaries of the Chesapeake Bay. Top waters here include Machodoc, Maddox, Aquia and Occoquan creeks. Lakes: Western Branch, Prince, Waller Mill, Little Creek, Holliday, Moomaw and Claytor. Rivers: Potomac, Rappahannock, Chickahominy, Nottoway and New.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Western Branch": {
+				"gnis_id": null
+			},
+			"Prince": {
+				"gnis_id": null
+			},
+			"Waller Mill": {
+				"gnis_id": null
+			},
+			"Little Creek": {
+				"gnis_id": null
+			},
+			"Holliday": {
+				"gnis_id": null
+			},
+			"Moomaw": {
+				"gnis_id": null
+			},
+			"Claytor": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Potomac": {
+				"gnis_id": null
+			},
+			"Rappahannock": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Nottoway": {
+				"gnis_id": null
+			},
+			"New": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Ready feeders, but cautious biters and slow movers. Locate schools of fish by drift fishing or use deep jigging methods. Small minnows are the best overall bait. Other popular live baits include mummichogs, mayfly nymphs, worms and grubs.\\nThey'll also hit fish eyes, cut bait and pork rind, as well as artificials tipped with some of the above, including small spoons, spoon hooks, spinners, bucktails, spinner baits and streamers."
 }

@@ -20,8 +20,52 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Well established in streams of the southwestern region of the state and are found in a myriad of mountain streams in western Virginia. Lakes: Moomaw. Rivers and Streams: Smith River, Elk Creek, Dan River, Potts Creek, Cripple Creek, Roanoke River, Little Reed Island Creek, Jackson River, Crooked Creek and Big Tumbling Creek, and many others on both sides of the Blue Ridge. Some good wild streams are Whitetop Laurel, Fox Creek, and the South Fork Holston River.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Moomaw": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Smith River": {
+				"gnis_id": null
+			},
+			"Elk Creek": {
+				"gnis_id": null
+			},
+			"Dan River": {
+				"gnis_id": null
+			},
+			"Potts Creek": {
+				"gnis_id": null
+			},
+			"Cripple Creek": {
+				"gnis_id": null
+			},
+			"Roanoke River": {
+				"gnis_id": null
+			},
+			"Little Reed Island Creek": {
+				"gnis_id": null
+			},
+			"Jackson River": {
+				"gnis_id": null
+			},
+			"Crooked Creek": {
+				"gnis_id": null
+			},
+			"Big Tumbling Creek": {
+				"gnis_id": null
+			},
+			"many others on both sides of the Blue Ridge Some good wild streams are Whitetop Laurel": {
+				"gnis_id": null
+			},
+			"Fox Creek": {
+				"gnis_id": null
+			},
+			"the South Fork Holston River": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Hits dry flies, wet flies, streamers, nymphs, small spinners and spinner-bucktails, spoons, as well as worms, live nymphs, minnows and salmon eggs. Hatchery trout readily take kernel corn and colored marshmallows. Berkeley Power Baits that give off a scent and can be shaped on the hook are used extensively by anglers."
 }

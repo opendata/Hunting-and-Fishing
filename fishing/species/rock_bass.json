@@ -21,9 +21,47 @@
 	},
 	"limits": {},
 	"best_fishing": {
-		"description": "Rivers: Roanoke, New, Jackson, Maury, James, Bullpasture, Calfpasture, Buffalo, North Fork Shenandoah and Clinch.\\nLakes: Smith Mountain Lake, Moomaw.",
-		"lakes": {},
-		"rivers": {}
+		"description": "Rivers: Roanoke, New, Jackson, Maury, James, Bullpasture, Calfpasture, Buffalo, North Fork Shenandoah and Clinch. Lakes: Smith Mountain Lake, Moomaw.",
+		"lakes": {
+			"Smith Mountain Lake": {
+				"gnis_id": null
+			},
+			"Moomaw": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Roanoke": {
+				"gnis_id": null
+			},
+			"New": {
+				"gnis_id": null
+			},
+			"Jackson": {
+				"gnis_id": null
+			},
+			"Maury": {
+				"gnis_id": null
+			},
+			"James": {
+				"gnis_id": null
+			},
+			"Bullpasture": {
+				"gnis_id": null
+			},
+			"Calfpasture": {
+				"gnis_id": null
+			},
+			"Buffalo": {
+				"gnis_id": null
+			},
+			"North Fork Shenandoah": {
+				"gnis_id": null
+			},
+			"Clinch": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Voracious feeders that readily strike spinners, jigs, small crankbaits and flies. Favored live baits include minnows, crayfish, nightcrawlers, mayfly nymphs and hellgrammites."
 }

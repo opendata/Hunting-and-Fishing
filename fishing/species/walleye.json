@@ -21,8 +21,64 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Flannagan, South Holston, Gaston (especially below Kerr Dam), Leesville, Philpott, Chesdin, Anna, Whitehurst, Orange, Hungry Mother, Burke, and Brittle. Rivers: New, Staunton/Roanoke, South Holston, Clinch, Dan.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Flannagan": {
+				"gnis_id": null
+			},
+			"South Holston": {
+				"gnis_id": null
+			},
+			"Gaston": {
+				"gnis_id": null
+			},
+			"especially below Kerr": {
+				"gnis_id": null
+			},
+			"Leesville": {
+				"gnis_id": null
+			},
+			"Philpott": {
+				"gnis_id": null
+			},
+			"Chesdin": {
+				"gnis_id": null
+			},
+			"Anna": {
+				"gnis_id": null
+			},
+			"Whitehurst": {
+				"gnis_id": null
+			},
+			"Orange": {
+				"gnis_id": null
+			},
+			"Hungry Mother": {
+				"gnis_id": null
+			},
+			"Burke": {
+				"gnis_id": null
+			},
+			"Brittle": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"New": {
+				"gnis_id": null
+			},
+			"Roanoke": {
+				"gnis_id": null
+			},
+			"South Holston": {
+				"gnis_id": null
+			},
+			"Clinch": {
+				"gnis_id": null
+			},
+			"Dan": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Jigs dressed with plastic grubs or tipped with live bait work well, especially in cold water. Three to five-inch minnow plugs are very effective when walleyes move into shallow water.\\nCrankbaits and jigging spoons work well when walleyes are deep. Trolling with nightcrawler harnesses (spinner rigs) is the preferred method in reservoirs during the summer months. Live baits such as minnows, shad or nightcrawlers are always a good option for walleye."
 }

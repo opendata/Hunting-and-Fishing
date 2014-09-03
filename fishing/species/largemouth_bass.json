@@ -21,8 +21,52 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Anna, Gaston, Buggs Island, Chickahominy, Chesdin, Smith Mountain, Prince, Briery Creek, Western Branch and Flannagan. Rivers: Chickahominy (below Walkers Dam) and James (below the fall line).",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Anna": {
+				"gnis_id": null
+			},
+			"Gaston": {
+				"gnis_id": null
+			},
+			"Buggs Island": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Chesdin": {
+				"gnis_id": null
+			},
+			"Smith Mountain": {
+				"gnis_id": null
+			},
+			"Prince": {
+				"gnis_id": null
+			},
+			"Briery Creek": {
+				"gnis_id": null
+			},
+			"Western Branch": {
+				"gnis_id": null
+			},
+			"Flannagan": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"below Walkers": {
+				"gnis_id": null
+			},
+			"James": {
+				"gnis_id": null
+			},
+			"below the fall": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Fly, medium spincasting, spinning or baitcasting rods and reels can all be used. Plastic worms and other plastic imitations, crankbaits, spinner baits, surface lures, jigs and other lures imitating minnows, crayfish, frogs, salamanders and nightcrawlers.\\nFor flyrodders, streamer flies, bucktails and large poppers. Live bait includes small bluegills, minnows of many kinds, crayfish, nightcrawlers, frogs, etc."
 }

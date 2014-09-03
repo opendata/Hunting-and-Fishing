@@ -23,8 +23,49 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Over 400 streams or portions of streams contain brook trout. Many of the streams and ponds in the Shenandoah National Park and the George Washington and Jefferson National Forest have native brook trout. Rivers and Streams: Crooked Creek, Little Stoney Creek, Rapidan River, Rose River, Hughes River, Jeremyís Run, Laurel Fork and Dry River. Lakes: Laurel Bed, Coles Creek and Mill Creek reservoirs, Lexington City Reservoir and Switzer Lake.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Laurel Bed": {
+				"gnis_id": null
+			},
+			"Coles Creek": {
+				"gnis_id": null
+			},
+			"Mill Creek reservoirs": {
+				"gnis_id": null
+			},
+			"Lexington City Reservoir": {
+				"gnis_id": null
+			},
+			"Switzer Lake": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Crooked Creek": {
+				"gnis_id": null
+			},
+			"Little Stoney Creek": {
+				"gnis_id": null
+			},
+			"Rapidan River": {
+				"gnis_id": null
+			},
+			"Rose River": {
+				"gnis_id": null
+			},
+			"Hughes River": {
+				"gnis_id": null
+			},
+			"s Run": {
+				"gnis_id": null
+			},
+			"Laurel Fork": {
+				"gnis_id": null
+			},
+			"Dry River": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "For the purist, dry flies, wet flies, streamers and nymphs are used. Nymphs early in the season, dry flies when the natural insects hatch. Live bait anglers use garden worms and caddis, mayfly and stonefly nymphs also early in the year when these aquatic larvae are available naturally. In deep pools, small minnows may be effective year round."
 }

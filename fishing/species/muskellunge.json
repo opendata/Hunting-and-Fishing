@@ -20,9 +20,38 @@
 	},
 	"limits": {},
 	"best_fishing": {
-		"description": "Rivers: James, Clinch, Shenandoah and New. Lakes:\\nSmith Mountain, Claytor, Rural Retreat, Burke, and Flannagan.",
-		"lakes": {},
-		"rivers": {}
+		"description": "Rivers: James, Clinch, Shenandoah and New. Lakes: Smith Mountain, Claytor, Rural Retreat, Burke, and Flannagan.",
+		"lakes": {
+			"Smith Mountain": {
+				"gnis_id": null
+			},
+			"Claytor": {
+				"gnis_id": null
+			},
+			"Rural Retreat": {
+				"gnis_id": null
+			},
+			"Burke": {
+				"gnis_id": null
+			},
+			"Flannagan": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"James": {
+				"gnis_id": null
+			},
+			"Clinch": {
+				"gnis_id": null
+			},
+			"Shenandoah": {
+				"gnis_id": null
+			},
+			"New": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "River fishermen use small boats with electric motors or small outboards to float larger pools and fish shoreline snags and submerged brush. Heavy bait casting rods and reels with 30+ lb. test line is used. Using large hooks, 4/0 or larger, some anglers simply allow 8 or 12-inch suckers, shad or carp to swim free.\\nMuskies are commonly caught in lakes by trolling deep water with large crankbaits, spoons andspinner-bucktail combinations. Early in the year, try trolling across shallow points."
 }

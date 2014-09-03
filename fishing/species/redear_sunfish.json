@@ -20,8 +20,40 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Cohoon, Meade, Prince, Little Creek, Chickahominy, Robertson, Western Branch, Lone Star, and Briery Creek.Rivers: Nottoway.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Cohoon": {
+				"gnis_id": null
+			},
+			"Meade": {
+				"gnis_id": null
+			},
+			"Prince": {
+				"gnis_id": null
+			},
+			"Little Creek": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Robertson": {
+				"gnis_id": null
+			},
+			"Western Branch": {
+				"gnis_id": null
+			},
+			"Lone Star": {
+				"gnis_id": null
+			},
+			"Briery Creek": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Nottoway": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Best time to catch redears is in the spring when they come up to the spawning beds. Being bottom feeders, most redears are caught by letting live nymphs, red wigglers or garden worms lie on the bottom near shore. Artificial jigs and grubs fished slowly and near the bottom will work as well."
 }

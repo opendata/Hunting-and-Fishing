@@ -3,6 +3,8 @@
 // it runs under node.js
 // it will not overwrite any existing files
 
+// TODO: fix í = '
+
 var fs = require('fs');
 
 var fishes = require('./Fishes.json');
@@ -52,12 +54,48 @@ var species = fishes.forEach(function(f) {
 });
 
 function parseBestFishing(str) {
+	var str = str.replace(/\\n/,' ');
 	var obj = {
 		// this is a new field, to save the full best fishing text for convenience
 		"description": str, 
 		"lakes": {}, 
 		"rivers": {} 
 	};
+	var regex = /([\w \.]+)(?:,? (?:and )?|$)/g;
+
+	var riverIndex = str.indexOf("Rivers:");
+	if (riverIndex == -1) riverIndex = str.indexOf("Rivers and Streams:");
+	var lakeIndex = str.indexOf("Lakes:");
+
+	var parseInternal = function(prop, marker, otherMarker, altMarker, altOtherMarker) {
+		var index1 = str.indexOf(marker);
+		if (index1 == -1 && altMarker) {
+			index1 = str.indexOf(altMarker);
+			marker = altMarker;
+		}
+		var index2 = str.indexOf(otherMarker);
+		if (index2 == -1 && altOtherMarker) {
+			index2 = str.indexOf(altOtherMarker);
+			otherMarker = altOtherMarker;
+		}
+
+		if (index1 != -1) {
+			var end = index2 > index1 ? index2 : str.length - 1;
+			var list = str.substring(index1 + marker.length, end);
+			var match;
+			while ((match = regex.exec(list)) != null) {
+				var name = match[1].trim().replace(/\./,'');
+				name.split(/\band\b/g).forEach(function (n) {
+					if (n && n.length > 1) {
+						obj[prop][n.trim()] = { "gnis_id": null }; // TODO: GNIS lookup
+					}
+				});
+			}
+		}
+	}
+
+	parseInternal("lakes", "Lakes:", "Rivers:", null, "Rivers and Streams:");
+	parseInternal("rivers", "Rivers:", "Lakes:", "Rivers and Streams:", null);
 
 	return obj;
 }

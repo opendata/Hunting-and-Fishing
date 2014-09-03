@@ -22,9 +22,68 @@
 	},
 	"limits": {},
 	"best_fishing": {
-		"description": "Lakes: Buggs Island, Chesdin, Chickahominy, Cohoon, Anna, Smith Mountain, Prince, Gaston, Claytor, Brittle, Moomaw, Orange, Burke, South Holston, and Western Branch.\\nRivers: tidal Chickahominy and its tributaries, tidal James, and South Fork Shenandoah.",
-		"lakes": {},
-		"rivers": {}
+		"description": "Lakes: Buggs Island, Chesdin, Chickahominy, Cohoon, Anna, Smith Mountain, Prince, Gaston, Claytor, Brittle, Moomaw, Orange, Burke, South Holston, and Western Branch. Rivers: tidal Chickahominy and its tributaries, tidal James, and South Fork Shenandoah.",
+		"lakes": {
+			"Buggs Island": {
+				"gnis_id": null
+			},
+			"Chesdin": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Cohoon": {
+				"gnis_id": null
+			},
+			"Anna": {
+				"gnis_id": null
+			},
+			"Smith Mountain": {
+				"gnis_id": null
+			},
+			"Prince": {
+				"gnis_id": null
+			},
+			"Gaston": {
+				"gnis_id": null
+			},
+			"Claytor": {
+				"gnis_id": null
+			},
+			"Brittle": {
+				"gnis_id": null
+			},
+			"Moomaw": {
+				"gnis_id": null
+			},
+			"Orange": {
+				"gnis_id": null
+			},
+			"Burke": {
+				"gnis_id": null
+			},
+			"South Holston": {
+				"gnis_id": null
+			},
+			"Western Branch": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"tidal Chickahominy": {
+				"gnis_id": null
+			},
+			"its tributaries": {
+				"gnis_id": null
+			},
+			"tidal James": {
+				"gnis_id": null
+			},
+			"South Fork Shenandoah": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Light spinning or spincasting rods and reels with tiny jigs, doll flies, streamers, small crank baits that imitate minnows, small spoons and spinner-bucktail combinations, and spinner-grubs. Best live baits are small to medium minnows."
 }

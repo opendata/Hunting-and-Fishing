@@ -20,9 +20,38 @@
 	},
 	"limits": {},
 	"best_fishing": {
-		"description": "Lakes: Smith Mountain, Buggs Island, Anna, Claytor, Gaston, Leesville and Western Branch. Rivers:\\nStaunton/Roanoke and all tidal rivers.",
-		"lakes": {},
-		"rivers": {}
+		"description": "Lakes: Smith Mountain, Buggs Island, Anna, Claytor, Gaston, Leesville and Western Branch. Rivers: Staunton/Roanoke and all tidal rivers.",
+		"lakes": {
+			"Smith Mountain": {
+				"gnis_id": null
+			},
+			"Buggs Island": {
+				"gnis_id": null
+			},
+			"Anna": {
+				"gnis_id": null
+			},
+			"Claytor": {
+				"gnis_id": null
+			},
+			"Gaston": {
+				"gnis_id": null
+			},
+			"Leesville": {
+				"gnis_id": null
+			},
+			"Western Branch": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Roanoke": {
+				"gnis_id": null
+			},
+			"all tidal rivers": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Heavy baitcasting, spincasting or spinning outfits with a good backbone and 15 to 25 pound test line. Live bait includes large minnows or gizzard or threadfin shad. Large feathered or plastic jig combinations, spoons, crankbaits that imitate shad or other fish and bucktails. Trolling, drift fishing, jump fishing or deep jigging are usual fishing methods."
 }

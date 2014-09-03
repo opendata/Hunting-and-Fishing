@@ -20,9 +20,41 @@
 	},
 	"limits": {},
 	"best_fishing": {
-		"description": "Rivers: Meherrin, Nottoway, Blackwater, of the Chowan drainage; Roanoke/Staunton, Blackwater and Pigg of the Roanoke drainage. Lakes: Leesville Reservoir, Smith Mountain.\\nMost of the trophy “rock bass” registered by anglers are really Roanoke bass.",
-		"lakes": {},
-		"rivers": {}
+		"description": "Rivers: Meherrin, Nottoway, Blackwater, of the Chowan drainage; Roanoke/Staunton, Blackwater and Pigg of the Roanoke drainage. Lakes: Leesville Reservoir, Smith Mountain. Most of the trophy “rock bass” registered by anglers are really Roanoke bass.",
+		"lakes": {
+			"Leesville Reservoir": {
+				"gnis_id": null
+			},
+			"Smith Mountain Most of the trophy": {
+				"gnis_id": null
+			},
+			"rock": {
+				"gnis_id": null
+			},
+			"registered by anglers are really Roanoke bass": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Meherrin": {
+				"gnis_id": null
+			},
+			"Nottoway": {
+				"gnis_id": null
+			},
+			"Blackwater": {
+				"gnis_id": null
+			},
+			"of the Chowan": {
+				"gnis_id": null
+			},
+			"Staunton": {
+				"gnis_id": null
+			},
+			"Pigg of the Roanoke drainage": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Spinning and spincasting with small to medium spinner baits, small spoons and crankbaits. Live baits include minnows, crayfish, and worms."
 }

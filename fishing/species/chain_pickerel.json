@@ -22,8 +22,64 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Rivers: Nottoway, Blackwater, Chickahominy, Dragon Run. Lakes: Chickahominy, Gaston, Western Branch, Diascund, Burnt Mills, Prince, Anna, Cohoon, Little Creek, Moomaw, Douthat and many other rivers, ponds and lakes.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Gaston": {
+				"gnis_id": null
+			},
+			"Western Branch": {
+				"gnis_id": null
+			},
+			"Diascund": {
+				"gnis_id": null
+			},
+			"Burnt Mills": {
+				"gnis_id": null
+			},
+			"Prince": {
+				"gnis_id": null
+			},
+			"Anna": {
+				"gnis_id": null
+			},
+			"Cohoon": {
+				"gnis_id": null
+			},
+			"Little Creek": {
+				"gnis_id": null
+			},
+			"Moomaw": {
+				"gnis_id": null
+			},
+			"Douthat": {
+				"gnis_id": null
+			},
+			"many other rivers": {
+				"gnis_id": null
+			},
+			"ponds": {
+				"gnis_id": null
+			},
+			"lakes": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Nottoway": {
+				"gnis_id": null
+			},
+			"Blackwater": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Dragon Run": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Best time is from October through March.\\nMost active when water temperatures are 55° to 70°F. Spinners, spoons, bucktails, jigs, pork rind baits and a variety of crankbaits will take pickerel. Minnows are the best live bait. Fish the edges of weed beds, lily pad beds, sunken brush or tree stumps."
 }

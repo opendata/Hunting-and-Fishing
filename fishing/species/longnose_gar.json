@@ -23,8 +23,34 @@
 	"limits": {},
 	"best_fishing": {
 		"description": "Lakes: Western Branch, Prince, Chickahominy, Buggs Island. Rivers: Chickahominy, Pamunkey, James, Rappahannock.",
-		"lakes": {},
-		"rivers": {}
+		"lakes": {
+			"Western Branch": {
+				"gnis_id": null
+			},
+			"Prince": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Buggs Island": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Pamunkey": {
+				"gnis_id": null
+			},
+			"James": {
+				"gnis_id": null
+			},
+			"Rappahannock": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Large minnows are best on medium to heavy casting and spinning tackle. They are adept at stripping bait from hooks and difficult to hook in their bony jaw. Feed at night, especially moonlit nights."
 }

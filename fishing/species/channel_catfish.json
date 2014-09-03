@@ -22,9 +22,59 @@
 	},
 	"limits": {},
 	"best_fishing": {
-		"description": "Lakes: Buggs Island, Gaston, South Holston, Claytor, Anna, Chesdin, Flannagan, and most small public lakes.\\nRivers: Rappahannock, Appomattox, Chickahominy, Mattaponi, Pamunkey, New, Shenandoah and North Landing.",
-		"lakes": {},
-		"rivers": {}
+		"description": "Lakes: Buggs Island, Gaston, South Holston, Claytor, Anna, Chesdin, Flannagan, and most small public lakes. Rivers: Rappahannock, Appomattox, Chickahominy, Mattaponi, Pamunkey, New, Shenandoah and North Landing.",
+		"lakes": {
+			"Buggs Island": {
+				"gnis_id": null
+			},
+			"Gaston": {
+				"gnis_id": null
+			},
+			"South Holston": {
+				"gnis_id": null
+			},
+			"Claytor": {
+				"gnis_id": null
+			},
+			"Anna": {
+				"gnis_id": null
+			},
+			"Chesdin": {
+				"gnis_id": null
+			},
+			"Flannagan": {
+				"gnis_id": null
+			},
+			"most small public lakes": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Rappahannock": {
+				"gnis_id": null
+			},
+			"Appomattox": {
+				"gnis_id": null
+			},
+			"Chickahominy": {
+				"gnis_id": null
+			},
+			"Mattaponi": {
+				"gnis_id": null
+			},
+			"Pamunkey": {
+				"gnis_id": null
+			},
+			"New": {
+				"gnis_id": null
+			},
+			"Shenandoah": {
+				"gnis_id": null
+			},
+			"North Landing": {
+				"gnis_id": null
+			}
+		}
 	},
 	"fishing_techniques": "Rod and reel anglers catch them on clam snouts, peeler crabs, large minnows, nightcrawlers, cut herring, chicken livers or entrails, shrimp, and a variety of stink or dough baits. They take a variety of artificials including crankbaits, jigs and spinners. Best at night or low-light conditions."
 }
