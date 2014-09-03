@@ -15,6 +15,11 @@ var species = fishes.forEach(function(f) {
 			console.log('skipping', f.CommonName);
 			return;
 		}
+		// illegal to catch herring, skip this family
+		if (f.Family == 7) {
+			console.log('skipping herring family species', f.CommonName);
+			return;
+		}
 		fs.writeFile(
 			filename,
 			'[\n' + JSON.stringify(
@@ -65,8 +70,7 @@ function getIdentificationString(family, identification) {
 		3: "Perch",
 		4: "Pike",
 		5: "Trout",
-		6: "Catfish",
-		7: "Shad/Herring"
+		6: "Catfish"
 	};
 
 	var fam = families[family];
