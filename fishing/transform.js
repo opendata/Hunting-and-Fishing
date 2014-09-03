@@ -54,6 +54,8 @@ var species = fishes.forEach(function(f) {
 	});
 });
 
+// parse a 'BestFishingNarrative' string to extract place names.
+// returns a 'best_fishing' object with lakes and rivers populated.
 function parseBestFishing(str) {
 	var str = str.replace(/\\n/,' ');
 	var obj = {
@@ -63,16 +65,17 @@ function parseBestFishing(str) {
 		"rivers": {} 
 	};
 
-	var riverIndex = str.indexOf("Rivers:");
-	if (riverIndex == -1) riverIndex = str.indexOf("Rivers and Streams:");
-	var lakeIndex = str.indexOf("Lakes:");
-
+	// this function parses either rivers or lakes depending on what is passed
+	// supports alternate marker text because sometimes the rivers start with 
+	// 'Rivers:' and sometimes 'Rivers and Streams:'
 	var parseInternal = function(prop, marker, otherMarker, altMarker, altOtherMarker) {
+		// this is the start index of the section we want
 		var index1 = str.indexOf(marker);
 		if (index1 == -1 && altMarker) {
 			index1 = str.indexOf(altMarker);
 			marker = altMarker;
 		}
+		// this is the start index of the other section, so we know where to stop
 		var index2 = str.indexOf(otherMarker);
 		if (index2 == -1 && altOtherMarker) {
 			index2 = str.indexOf(altOtherMarker);
@@ -80,14 +83,18 @@ function parseBestFishing(str) {
 		}
 		// TODO: comment field of place object
 		if (index1 != -1) {
+			// determine the end of our list
 			var end = index2 > index1 ? index2 : str.length;
+			// get the text minus the initial marker
 			var list = str.substring(index1 + marker.length, end);
+			// successively split until we have a single place name
 			list.split(',').forEach(function(i) {
 				i.split(/\band\b/).forEach(function(j) {
 					j.split('/').forEach(function(k) {
 						k.split(';').forEach(function(m) {
 							var name = m.replace('.', '').trim();
 							if (name && name.length > 1) {
+								// populate the object with the GNIS lookup result
 								obj[prop][name] = lookupGnis(name, prop);
 							}
 						});
@@ -97,12 +104,14 @@ function parseBestFishing(str) {
 		}
 	}
 
+	// now we actually call the parsing function with different parameters
 	parseInternal("lakes", "Lakes:", "Rivers:", null, "Rivers and Streams:");
 	parseInternal("rivers", "Rivers:", "Lakes:", "Rivers and Streams:", null);
 
 	return obj;
 }
 
+// get the identification string we need - if the family is known we prepend it
 function getIdentificationString(family, identification) {	
 	// from fish_families.json, easier to just hardcode it
 	var families = {
@@ -120,6 +129,9 @@ function getIdentificationString(family, identification) {
 }
 
 var _lookupGnisCache = {};
+// look up a place name in GNIS and return a place object
+// optionally, do a contains, rather than exact, match
+// also cache it if it's already been done
 function lookupGnis(name, type, contains) {
 	var cached;
 	if (cached = _lookupGnisCache[type + "/" + name])
@@ -128,6 +140,7 @@ function lookupGnis(name, type, contains) {
 	// some cleanup
 	name = name.replace(/(\bthe\b|\btidal\b|\bmainstem\b|\(.*|\))/,'').trim();
 	// type is 'rivers' or 'lakes'
+	// populate the basic object and then some matches to do
 	var obj = { "gnis_id": null };
 	var classes = [];
 	var names = [];
@@ -139,6 +152,7 @@ function lookupGnis(name, type, contains) {
 		names = [ name, name + ' Lake', 'Lake ' + name, name + ' Reservoir', name + ' Lake (historical)' ];
 	} else return obj;
 
+	// do the filter and handle the results
 	var matches = places.filter(function(p) {
 		if (!contains) {
 			return classes.indexOf(p.feature_class) != -1 &&
@@ -160,6 +174,7 @@ function lookupGnis(name, type, contains) {
 		obj.latitude = matches[0].prim_lat_dec;
 		obj.longitude = matches[0].prim_long_dec;
 	} else {
+		// do not add ambiguous places, this only happens on contains matches
 		console.log('GNIS: Found', matches.length, 'matches for', name);
 		matches.forEach(function (m) {
 			console.log('*', m.feature_name, '/', m.prim_lat_dec, ',', m.prim_long_dec);
