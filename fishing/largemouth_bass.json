@@ -40,7 +40,9 @@
 			"2": {
 				"places": {
 					"Buggs Island": {
-						"gnis_id": null
+						"gnis_id": 1501629,
+						"latitude": 36.5984761,
+						"longitude": -78.2983298
 					}
 				},
 				"description": "Only 2 of 5 bass less than 14 inches"
@@ -61,7 +63,9 @@
 				"longitude": -78.0552001
 			},
 			"Buggs Island": {
-				"gnis_id": null
+				"gnis_id": 1501629,
+				"latitude": 36.5984761,
+				"longitude": -78.2983298
 			},
 			"Chickahominy": {
 				"gnis_id": 1478078,

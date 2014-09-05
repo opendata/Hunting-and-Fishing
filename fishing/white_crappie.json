@@ -55,7 +55,9 @@
 						"gnis_id": null
 					},
 					"Buggs Island Reservoir": {
-						"gnis_id": null
+						"gnis_id": 1501629,
+						"latitude": 36.5984761,
+						"longitude": -78.2983298
 					},
 					"New River": {
 						"gnis_id": null,
@@ -68,7 +70,11 @@
 	"best_fishing": {
 		"description": "Lakes: Buggs Island, Chesdin, Chickahominy, Cohoon, Anna, Smith Mountain, Prince, Gaston, Claytor, Brittle, Moomaw, Orange, Burke, South Holston, and Western Branch. Rivers: tidal Chickahominy and its tributaries, tidal James, and South Fork Shenandoah.",
 		"lakes": {
-			"Buggs Island": {},
+			"Buggs Island": {
+				"gnis_id": 1501629,
+				"latitude": 36.5984761,
+				"longitude": -78.2983298
+			},
 			"Chesdin": {
 				"gnis_id": 1474230,
 				"latitude": 37.2775822,

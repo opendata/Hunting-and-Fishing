@@ -23,7 +23,9 @@
 		"description": "Rivers: New, South Holston, and the Dan and Staunton (during spawning). Lakes: Buggs Island, Smith Mountain, Claytor, South Holston, and Leesville.",
 		"lakes": {
 			"Buggs Island": {
-				"gnis_id": null
+				"gnis_id": 1501629,
+				"latitude": 36.5984761,
+				"longitude": -78.2983298
 			},
 			"Smith Mountain": {
 				"gnis_id": 1502131,

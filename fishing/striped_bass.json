@@ -28,7 +28,9 @@
 				"longitude": -79.7660301
 			},
 			"Buggs Island": {
-				"gnis_id": null
+				"gnis_id": 1501629,
+				"latitude": 36.5984761,
+				"longitude": -78.2983298
 			},
 			"Anna": {
 				"gnis_id": 1501942,

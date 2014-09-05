@@ -55,7 +55,9 @@
 						"gnis_id": null
 					},
 					"Buggs Island Reservoir": {
-						"gnis_id": null
+						"gnis_id": 1501629,
+						"latitude": 36.5984761,
+						"longitude": -78.2983298,
 					},
 					"New River": {
 						"gnis_id": null,
@@ -68,7 +70,9 @@
 	"best_fishing": {
 		"lakes": {
 			"Buggs Island": {
-				"gnis_id": null
+				"gnis_id": 1501629,
+				"latitude": 36.5984761,
+				"longitude": -78.2983298,
 			},
 			"Chesdin": {
 				"gnis_id": 1474230,
