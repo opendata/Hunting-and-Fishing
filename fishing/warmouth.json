@@ -1,0 +1,55 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Warmouth",
+		"taxonomy": "Lepomis gulosus",
+		"bova_id": 10177,
+		"images": [],
+		"aliases": [
+			"Openmouth",
+			"warmouth bass",
+			"Indian fish"
+		],
+		"identification": "Sunfish family. A large-mouthed, robust fish with mottled sides and wavy lines on its cheek. Basically dark brownish above, with mottled and barred sides, and mottled or spotted fins.\\nCan be olive-brown colored with greenish cast. Seldom gets larger than 8 or 9 inches."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Numerous small lakes, ponds such as lakes Orange, Lee Hall, and Airfield; and slow-moving, swampy rivers and streams, such as Dragon Run and Nottoway River.",
+		"lakes": {
+			"Airfield": {
+				"gnis_id": 1501938,
+				"latitude": 36.9077671,
+				"longitude": -77.033419
+			},
+			"Lee Hall": {
+				"gnis_id": null
+			},
+			"Orange": {
+				"gnis_id": 1471939,
+				"latitude": 38.2261655,
+				"longitude": -78.0189351
+			}
+		},
+		"rivers": {
+			"Dragon Run": {
+				"gnis_id": 1465940,
+				"latitude": 37.7979172,
+				"longitude": -76.8419076
+			},
+			"Nottoway": {
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
+			}
+		}
+	},
+	"fishing_techniques": "Caught incidental to other fishing activities. Will take a variety of small artificials, as well as worms, and small crayfish and minnows."
+}
+]

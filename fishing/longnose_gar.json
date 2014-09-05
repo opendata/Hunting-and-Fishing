@@ -1,0 +1,71 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Longnose Gar",
+		"taxonomy": "Lepisosteus osseus",
+		"bova_id": 10033,
+		"images": [],
+		"aliases": [
+			"Billy gar",
+			"billfish",
+			"garfish",
+			"garpike"
+		],
+		"identification": "Living relic of prehistoric past; family dates back 245 million years. Nothing in Virginia is even remotely similar to the gar. The long narrow beak-like jaw, laden with sharp teeth, is the unmistakable feature. Very long, cylindrical fish with dorsal and anal fins set well back on the body, and a large rounded tail fin; note the armament of very large, hard, sharp, bony scales. Brownisholive on its back, fading to yellowish- or olive-green to white on its belly; 2 to 3 ft in length is not uncommon."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Western Branch, Prince, Chickahominy, Buggs Island. Rivers: Chickahominy, Pamunkey, James, Rappahannock.",
+		"lakes": {
+			"Western Branch": {
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
+			},
+			"Prince": {
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
+			},
+			"Chickahominy": {
+				"gnis_id": 1478078,
+				"latitude": 37.4037577,
+				"longitude": -76.956077
+			},
+			"Buggs Island": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Chickahominy": {
+				"gnis_id": 1478374,
+				"latitude": 37.2334815,
+				"longitude": -76.8896853
+			},
+			"Pamunkey": {
+				"gnis_id": 1472035,
+				"latitude": 38.1062475,
+				"longitude": -77.837494
+			},
+			"James": {
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
+			},
+			"Rappahannock": {
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
+			}
+		}
+	},
+	"fishing_techniques": "Large minnows are best on medium to heavy casting and spinning tackle. They are adept at stripping bait from hooks and difficult to hook in their bony jaw. Feed at night, especially moonlit nights."
+}
+]

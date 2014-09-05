@@ -1,0 +1,88 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Brook Trout",
+		"taxonomy": "Salvelinus fontinalis",
+		"bova_id": 10052,
+		"images": [],
+		"aliases": [
+			"native",
+			"brookie",
+			"mountain trout",
+			"speckled trout"
+		],
+		"identification": "Trout family. Most colorful of our trout. Back is a dark olive green with light wavy or wormy markings. Sides are lighter, sometimes with a bluish cast, yellowish spots and red spots with a light blue halo around them. Belly is white with bright orange fins. Fins have outer edges of white with a black line separating it from the orange. Ten to 16 inches and 1 to 2 lbs. is a good-sized brookie. Native brookies seldom grow beyond 12 inches in Virginia streams."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Over 400 streams or portions of streams contain brook trout. Many of the streams and ponds in the Shenandoah National Park and the George Washington and Jefferson National Forest have native brook trout. Rivers and Streams: Crooked Creek, Little Stoney Creek, Rapidan River, Rose River, Hughes River, Jeremy's Run, Laurel Fork and Dry River. Lakes: Laurel Bed, Coles Creek and Mill Creek reservoirs, Lexington City Reservoir and Switzer Lake.",
+		"lakes": {
+			"Laurel Bed": {
+				"gnis_id": 1490824,
+				"latitude": 36.9619768,
+				"longitude": -81.804099
+			},
+			"Coles Creek": {
+				"gnis_id": null
+			},
+			"Mill Creek reservoirs": {
+				"gnis_id": null
+			},
+			"Lexington City Reservoir": {
+				"gnis_id": null
+			},
+			"Switzer Lake": {
+				"gnis_id": 1488814,
+				"latitude": 38.571509,
+				"longitude": -79.1369795
+			}
+		},
+		"rivers": {
+			"Crooked Creek": {
+				"gnis_id": 1465458,
+				"latitude": 36.7762546,
+				"longitude": -78.1411086
+			},
+			"Little Stoney Creek": {
+				"gnis_id": null
+			},
+			"Rapidan River": {
+				"gnis_id": 1472976,
+				"latitude": 38.36778,
+				"longitude": -77.61889
+			},
+			"Rose River": {
+				"gnis_id": 1473537,
+				"latitude": 38.4730112,
+				"longitude": -78.3150101
+			},
+			"Hughes River": {
+				"gnis_id": 1468361,
+				"latitude": 38.5237357,
+				"longitude": -78.1697226
+			},
+			"Jeremy's Run": {
+				"gnis_id": null
+			},
+			"Laurel Fork": {
+				"gnis_id": 1469175,
+				"latitude": 37.1837257,
+				"longitude": -81.618443
+			},
+			"Dry River": {
+				"gnis_id": 1483126,
+				"latitude": 38.3923481,
+				"longitude": -78.980585
+			}
+		}
+	},
+	"fishing_techniques": "For the purist, dry flies, wet flies, streamers and nymphs are used. Nymphs early in the season, dry flies when the natural insects hatch. Live bait anglers use garden worms and caddis, mayfly and stonefly nymphs also early in the year when these aquatic larvae are available naturally. In deep pools, small minnows may be effective year round."
+}
+]

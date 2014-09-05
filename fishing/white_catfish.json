@@ -1,0 +1,49 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "White Catfish",
+		"taxonomy": "Ameiurus catus",
+		"bova_id": 10120,
+		"images": [],
+		"aliases": [
+			"forked-tailed cat"
+		],
+		"identification": "Catfish family. One of the bullhead catfishes. Average 8 to 18 inches, rarely 20. Has a moderately forked tail, a stocky body with its upper jaw extending slightly beyond lower. Color is basically bluegray above, fading to gray on its sides with a white underside. Occasionally mottled light gray on its sides."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Tidal rivers such as the Potomac, Rappahannock, James, and York and numerous lakes in southeast and central Virginia.",
+		"lakes": {},
+		"rivers": {
+			"James": {
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
+			},
+			"Potomac": {
+				"gnis_id": 1472708,
+				"latitude": 38.3473481,
+				"longitude": -77.2863695
+			},
+			"Rappahannock": {
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
+			},
+			"York": {
+				"gnis_id": 1479591,
+				"latitude": 37.2476419,
+				"longitude": -76.3824455
+			}
+		}
+	},
+	"fishing_techniques": "Many of the same methods used for other catfish. Worms, minnows, scented baits, fished on or near the bottom."
+}
+]

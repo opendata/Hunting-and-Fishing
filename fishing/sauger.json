@@ -1,0 +1,40 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Sauger",
+		"taxonomy": "Sander canadensis",
+		"bova_id": 10215,
+		"images": [],
+		"aliases": [
+			"sand pike",
+			"jack salmon"
+		],
+		"identification": "Perch family. A member of the perch family, very similar to walleye. Its best identifying marks are its spotted spiny dorsal. Its body colors are more of a dusky-brown to yellowish-olive, with large, irregular patches on its side, peppered in between with smaller dark markings and a white underside. Very slim build in comparison to walleye. Has a silvery, reflective eye similar to the walleye’s, and a mouth full of canine teeth. When handled, it flares out its gills, flattens its head and shivers as if bracing itself for the hook removal. Typically 10 to 19 inches."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: Clinch and Powell.",
+		"lakes": {},
+		"rivers": {
+			"Clinch": {
+				"gnis_id": 1307258,
+				"latitude": 35.8634079,
+				"longitude": -84.5318786
+			},
+			"Powell": {
+				"gnis_id": 1306921,
+				"latitude": 36.49963,
+				"longitude": -83.6772
+			}
+		}
+	},
+	"fishing_techniques": "Minnows are the best bait. Sauger tend to feed on or near the bottom. Some of the best fishing is below dams in the tailwaters. Early morning and evening are best times. They will hit fairly large minnows and are “lazy” hitters. Are quite adept at “stealing” bait. Will hit spoons, jigs or spinners, especially if tipped with a minnow."
+}
+]

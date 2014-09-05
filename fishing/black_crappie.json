@@ -2,8 +2,8 @@
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2013-07-01",
-	"date_expires": "2014-06-30",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
 	"schema": "",
 	"schema_version": "1.0a",
 	"documentation": "",
@@ -19,7 +19,7 @@
 			}
 		],
 		"aliases": ["papermouth", "Calico bass", "specks", "speckled perch"],
-		"identification": "Sunfish family. There are two species of crappie—the black and the white. The black crappie is covered with dark, irregular blotches and has seven—rarely eight— dorsal spines. It shows more yellow and green on its sides and its caudal (tail) and anal fins are heavily flecked. The white crappie has six dorsal spines—rarely five—and it has noticeable vertical bars on its silvery sides as well as a light pearlescent color or iridescent blue and lavendar. Both have protruding lower jaws."
+		"identification": "Sunfish family. The black crappie is covered with dark, irregular blotches and has seven—rarely eight—dorsal spines. It shows more yellow and green on its sides and its caudal (tail) and anal fins are heavily flecked. Has protruding lower jaws."
 	},
 	"limits": {
 		"creel": {
@@ -34,10 +34,10 @@
 			"1": {
 				"places": {
 					"Flannagan Reservoir": {
-						"gnis_id": TK
+						"gnis_id": null
 					},
 					"South Holston Reservoir": {
-						"gnis_id": TK
+						"gnis_id": null
 					}
 				},
 				"creel": {
@@ -52,13 +52,13 @@
 			"2": {
 				"places": {
 					"Gaston Reservoir": {
-						"gnis_id": TK
+						"gnis_id": null
 					},
 					"Buggs Island Reservoir": {
-						"gnis_id": TK
+						"gnis_id": null
 					},
 					"New River": {
-						"gnis_id": TK,
+						"gnis_id": null,
 						"restriction": "From the VA–NC state line downstream to the confluence of the New and Little rivers in Grayson County"
 					}
 				}
@@ -67,60 +67,96 @@
 	},
 	"best_fishing": {
 		"lakes": {
-			"Buggs Island": {},
+			"Buggs Island": {
+				"gnis_id": null
+			},
 			"Chesdin": {
-				"gnis_id": 1474230
+				"gnis_id": 1474230,
+				"latitude": 37.2775822,
+				"longitude": -77.6623003
 			},
 			"Chickahominy": {
-				"gnis_id": 1478078
+				"gnis_id": 1478078,
+				"latitude": 37.4037577,
+				"longitude": -76.956077
 			},
 			"Cohoon": {
-				"gnis_id": 1501680
+				"gnis_id": 1502117,
+				"latitude": 36.7572092,
+				"longitude": -76.645278
 			},
 			"Anna": {
-				"gnis_id": 1501942
+				"gnis_id": 1501942,
+				"latitude": 38.0611819,
+				"longitude": -77.8344649
 			},
 			"Smith Mountain": {
-				"gnis_id": 1502131
+				"gnis_id": 1502131,
+				"latitude": 37.062907,
+				"longitude": -79.7660301
 			},
 			"Prince": {
-				"gnis_id": 1502102
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
 			},
 			"Gaston": {
-				"gnis_id": 985605
+				"gnis_id": 985605,
+				"latitude": 36.5358582,
+				"longitude": -78.0552001
 			},
 			"Claytor": {
-				"gnis_id": 1501983
+				"gnis_id": 1501983,
+				"latitude": 37.0373452,
+				"longitude": -80.6593262
 			},
 			"Brittle": {
-				"gnis_id": 1501961
+				"gnis_id": 1501961,
+				"latitude": 38.751701,
+				"longitude": -77.6943356
 			},
 			"Moomaw": {
-				"gnis_id": 1502172
+				"gnis_id": 1502172,
+				"latitude": 37.9515137,
+				"longitude": -79.9553351
 			},
 			"Orange": {
-				"gnis_id": 1471939
+				"gnis_id": 1471939,
+				"latitude": 38.2261655,
+				"longitude": -78.0189351
 			},
 			"Burke": {
-				"gnis_id": 1464110
+				"gnis_id": 1464110,
+				"latitude": 38.7626447,
+				"longitude": -77.2992494
 			},
 			"South Holston": {
-				"gnis_id": 1327073
+				"gnis_id": 1327073,
+				"latitude": 36.5585741,
+				"longitude": -82.0043899
 			},
 			"Western Branch": {
-				"gnis_id": 1479861
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
 			}
 		},
 		"rivers": {
 			"Tidal Chickahominy": {
 				"gnis_id": 1478374,
+				"latitude": 37.2334815,
+				"longitude": -76.8896853,
 				"comment": "and its tributaries"
 			},
 			"Tidal James": {
-				"gnis_id": 1488853
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
 			},
 			"South Fork Shenandoah": {
-				"gnis_id": 1487411
+				"gnis_id": 1487411,
+				"latitude": 38.9442772,
+				"longitude": -78.1875001
 			}
 		}
 	},

@@ -1,0 +1,61 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Redbreast Sunfish",
+		"taxonomy": "Lepomis auritus",
+		"bova_id": 10180,
+		"images": [],
+		"aliases": [
+			"Yellowbreast sunfish",
+			"redbelly",
+			"red throat"
+		],
+		"identification": "Sunfish family. Basically olive to brownish gray along the back, merging to blue with a golden cast along its sides and a bright orange to yellow underside.\\nHas several irregular bluish stripes on its cheek and gill cover. Identifiable by a long, black opercular (gill) flap. Reaches about 8 inches."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: South Fork Shenandoah, Nottoway, Rapidan, Rappahannock, Maury and Cowpasture.",
+		"lakes": {},
+		"rivers": {
+			"South Fork Shenandoah": {
+				"gnis_id": 1487411,
+				"latitude": 38.9442772,
+				"longitude": -78.1875001
+			},
+			"Nottoway": {
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
+			},
+			"Rapidan": {
+				"gnis_id": 1472976,
+				"latitude": 38.36778,
+				"longitude": -77.61889
+			},
+			"Rappahannock": {
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
+			},
+			"Maury": {
+				"gnis_id": 1485231,
+				"latitude": 37.624024,
+				"longitude": -79.4442022
+			},
+			"Cowpasture": {
+				"gnis_id": 1482763,
+				"latitude": 37.7845734,
+				"longitude": -79.7758812
+			}
+		}
+	},
+	"fishing_techniques": "Small spinner baits, spinner bucktails, grubs and tiny crankbaits. Spring and fall are the best times, but they are active throughout the summer."
+}
+]

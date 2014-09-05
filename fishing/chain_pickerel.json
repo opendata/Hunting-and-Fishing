@@ -1,0 +1,107 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Chain Pickerel",
+		"taxonomy": "Esox niger",
+		"bova_id": 10056,
+		"images": [],
+		"aliases": [
+			"chainsides",
+			"jackpike",
+			"pike"
+		],
+		"identification": "Pike family. A member of the pike family, it is named for its chain-like markings on its sides. Also has a black vertical mark under its eye. Normally its fin is unmarked. Averages 1.5 to 3 lbs. Fully scaled on both cheek and gill cover."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Rivers: Nottoway, Blackwater, Chickahominy, Dragon Run. Lakes: Chickahominy, Gaston, Western Branch, Diascund, Burnt Mills, Prince, Anna, Cohoon, Little Creek, Moomaw, Douthat and many other rivers, ponds and lakes.",
+		"lakes": {
+			"Chickahominy": {
+				"gnis_id": 1478078,
+				"latitude": 37.4037577,
+				"longitude": -76.956077
+			},
+			"Gaston": {
+				"gnis_id": 985605,
+				"latitude": 36.5358582,
+				"longitude": -78.0552001
+			},
+			"Western Branch": {
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
+			},
+			"Diascund": {
+				"gnis_id": 1490449,
+				"latitude": 37.4324956,
+				"longitude": -76.8875798
+			},
+			"Burnt Mills": {
+				"gnis_id": 1501968,
+				"latitude": 36.8416934,
+				"longitude": -76.6495684
+			},
+			"Prince": {
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
+			},
+			"Anna": {
+				"gnis_id": 1501942,
+				"latitude": 38.0611819,
+				"longitude": -77.8344649
+			},
+			"Cohoon": {
+				"gnis_id": 1502117,
+				"latitude": 36.7572092,
+				"longitude": -76.645278
+			},
+			"Little Creek": {
+				"gnis_id": 1469523,
+				"latitude": 37.230962,
+				"longitude": -78.6051891
+			},
+			"Moomaw": {
+				"gnis_id": 1502172,
+				"latitude": 37.9515137,
+				"longitude": -79.9553351
+			},
+			"Douthat": {
+				"gnis_id": 1483077,
+				"latitude": 37.9058696,
+				"longitude": -79.800276
+			}
+		},
+		"rivers": {
+			"Nottoway": {
+				"gnis_id": 1471681,
+				"latitude": 36.5437634,
+				"longitude": -76.9160718
+			},
+			"Blackwater": {
+				"gnis_id": 1277619,
+				"latitude": 36.5442572,
+				"longitude": -83.0976705
+			},
+			"Chickahominy": {
+				"gnis_id": 1478374,
+				"latitude": 37.2334815,
+				"longitude": -76.8896853
+			},
+			"Dragon Run": {
+				"gnis_id": 1465940,
+				"latitude": 37.7979172,
+				"longitude": -76.8419076
+			}
+		}
+	},
+	"fishing_techniques": "Best time is from October through March. Most active when water temperatures are 55° to 70°F. Spinners, spoons, bucktails, jigs, pork rind baits and a variety of crankbaits will take pickerel. Minnows are the best live bait. Fish the edges of weed beds, lily pad beds, sunken brush or tree stumps."
+}
+]

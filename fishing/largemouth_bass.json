@@ -2,8 +2,8 @@
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2013-07-01",
-	"date_expires": "2014-06-30",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
 	"schema": "",
 	"schema_version": "1.0a",
 	"documentation": "",
@@ -32,7 +32,7 @@
 			"1": {
 				"places": {
 					"Briery Creek Lake": {
-						"gnis_id": TK
+						"gnis_id": null
 					}
 				},
 				"description": "No bass 16 to 24 inches, only 1 per day longer than 24 inches"
@@ -40,7 +40,7 @@
 			"2": {
 				"places": {
 					"Buggs Island": {
-						"gnis_id": TK
+						"gnis_id": null
 					}
 				},
 				"description": "Only 2 of 5 bass less than 14 inches"
@@ -48,43 +48,66 @@
 		}
 	},
 	"best_fishing": {
+		"description": "Lakes: Anna, Gaston, Buggs Island, Chickahominy, Chesdin, Smith Mountain, Prince, Briery Creek, Western Branch and Flannagan. Rivers: Chickahominy (below Walkers Dam) and James (below the fall line).",
 		"lakes": {
 			"Anna": {
-				"gnis_id": 1501942
+				"gnis_id": 1501942,
+				"latitude": 38.0611819,
+				"longitude": -77.8344649
 			},
 			"Gaston": {
-				"gnis_id": 1500911
+				"gnis_id": 985605,
+				"latitude": 36.5358582,
+				"longitude": -78.0552001
 			},
-			"Buggs Island": {},
+			"Buggs Island": {
+				"gnis_id": null
+			},
 			"Chickahominy": {
-				"gnis_id": 1478078
+				"gnis_id": 1478078,
+				"latitude": 37.4037577,
+				"longitude": -76.956077
 			},
 			"Chesdin": {
-				"gnis_id": 1474230
+				"gnis_id": 1474230,
+				"latitude": 37.2775822,
+				"longitude": -77.6623003
 			},
 			"Smith Mountain": {
-				"gnis_id": 1502131
+				"gnis_id": 1502131,
+				"latitude": 37.062907,
+				"longitude": -79.7660301
 			},
 			"Prince": {
-				"gnis_id": 1502102
+				"gnis_id": 1502102,
+				"latitude": 36.806427,
+				"longitude": -76.6466867
 			},
-			"Briery Creek": {},
-			"Sandy River": {},
+			"Briery Creek": {
+				"gnis_id": null
+			},
 			"Western Branch": {
-				"gnis_id": 1479861
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
 			},
-			"Witten": {},
 			"Flannagan": {
-				"gnis_id": 1484463
+				"gnis_id": 1484463,
+				"latitude": 37.1767904,
+				"longitude": -82.3933472
 			}
 		},
 		"rivers": {
 			"Chickahominy": {
 				"gnis_id": 1478374,
+				"latitude": 37.2334815,
+				"longitude": -76.8896853,
 				"comment": "below Walkers Dam"
 			},
 			"James": {
 				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588,
 				"comment": "below the fall line"
 			}
 		}

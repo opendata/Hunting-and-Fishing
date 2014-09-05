@@ -1,0 +1,117 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "White Perch",
+		"taxonomy": "Morone americana",
+		"bova_id": 10166,
+		"images": [],
+		"aliases": [
+			"stiffback",
+			"silver perch"
+		],
+		"identification": "Striped Bass family. Not really a perch, but a member of the temperate bass family along with white and striped bass. Averages 8 to 10 inches but reaches up to 2 lbs. Silver gray above, fading to silvery-white below with no longitudinal lines. Has a deep notch between spiny dorsal and soft-rayed dorsal. No teeth on tongue."
+	},
+	"limits": {},
+	"best_fishing": {
+		"description": "Lakes: Western Branch, Whitehurst, Gaston, Buggs Island, Motts Run, Occoquan, Anna, Waller Mill Reservoir, Harwoods Mill Reservoir, and Back Bay. Rivers: Tidal rivers (Pamunkey, James, Rappahannock, Chickahominy, Mattaponi, North Landing, Northwest and Potomac) and most of their tributary creeks.",
+		"lakes": {
+			"Western Branch": {
+				"gnis_id": 1479861,
+				"latitude": 36.8060143,
+				"longitude": -76.6182993
+			},
+			"Whitehurst": {
+				"gnis_id": 1479882,
+				"latitude": 36.9101473,
+				"longitude": -76.1866038
+			},
+			"Gaston": {
+				"gnis_id": 985605,
+				"latitude": 36.5358582,
+				"longitude": -78.0552001
+			},
+			"Buggs Island": {
+				"gnis_id": null
+			},
+			"Motts Run": {
+				"gnis_id": 1502078,
+				"latitude": 38.3145242,
+				"longitude": -77.5539564
+			},
+			"Occoquan": {
+				"gnis_id": 1502086,
+				"latitude": 38.7195919,
+				"longitude": -77.3381337
+			},
+			"Anna": {
+				"gnis_id": 1501942,
+				"latitude": 38.0611819,
+				"longitude": -77.8344649
+			},
+			"Waller Mill Reservoir": {
+				"gnis_id": 1502152,
+				"latitude": 37.3071908,
+				"longitude": -76.706479
+			},
+			"Harwoods Mill Reservoir": {
+				"gnis_id": 1467810,
+				"latitude": 37.1455428,
+				"longitude": -76.4713713
+			},
+			"Back Bay": {
+				"gnis_id": null
+			}
+		},
+		"rivers": {
+			"Pamunkey": {
+				"gnis_id": 1472037,				
+				"latitude": 37.5176448,
+				"longitude": -76.791628
+			},
+			"James": {
+				"gnis_id": 1488853,
+				"latitude": 36.9415369,
+				"longitude": -76.4435588
+			},
+			"Rappahannock": {
+				"gnis_id": 1479404,
+				"latitude": 37.5876333,
+				"longitude": -76.2891091
+			},
+			"Chickahominy": {
+				"gnis_id": 1478374,
+				"latitude": 37.2334815,
+				"longitude": -76.8896853
+			},
+			"Mattaponi": {
+				"gnis_id": 1470192,
+				"latitude": 37.517367,
+				"longitude": -76.791628
+			},
+			"North Landing": {
+				"gnis_id": 1023741,
+				"latitude": 36.4598777,
+				"longitude": -75.9524244
+			},
+			"Northwest": {
+				"gnis_id": 1025587,
+				"latitude": 36.512098,
+				"longitude": -76.0746523
+			},
+			"Potomac": {
+				"gnis_id": 1472708,
+				"latitude": 38.3473481,
+				"longitude": -77.2863695
+			}
+		}
+	},
+	"fishing_techniques": "Live bait such as minnows, grass shrimp and blood worms, plus artificials such as small spinnerbaits and jigs.\\nFish near structure such as old wharves, pilings, and sunken logs, on a falling tide, which moves baitfish and shrimp out of cover."
+}
+]
