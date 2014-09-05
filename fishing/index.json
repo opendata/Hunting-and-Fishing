@@ -2,8 +2,8 @@
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2013-07-01",
-	"date_expires": "2014-06-30",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
 	"schema": "",
 	"schema_version": "1.0a",
 	"documentation": "",
@@ -11,13 +11,143 @@
 	"species": [
 		{			
 			"name": "Largemouth Bass",
-			"taxonomy": "Micropterus salmoides",
 			"file": "largemouth_bass.json"
 		},
 		{
-			"name": "Crappie",
-			"taxonomy": "Pomoxis",
-			"file": "crappie.json"
+			"name": "black crappie",
+			"file": "black_crappie.json"
+		},
+		{
+			"name": "blue catfish",
+			"file": "blue_catfish.json"
+		},
+		{
+			"name": "bluegill",
+			"file": "bluegill.json"
+		},
+		{
+			"name": "bowfin",
+			"file": "bowfin.json"
+		},
+		{
+			"name": "brook trout",
+			"file": "brook_trout.json"
+		},
+		{
+			"name": "brown trout",
+			"file": "brown_trout.json"
+		},
+		{
+			"name": "carp",
+			"file": "carp.json"
+		},
+		{
+			"name": "chain pickerel",
+			"file": "chain_pickerel.json"
+		},
+		{
+			"name": "channel catfish",
+			"file": "channel_catfish.json"
+		},
+		{
+			"name": "flathead catfish",
+			"file": "flathead_catfish.json"
+		},
+		{
+			"name": "flier",
+			"file": "flier.json"
+		},
+		{
+			"name": "freshwater drum",
+			"file": "freshwater_drum.json"
+		},
+		{
+			"name": "green sunfish",
+			"file": "green_sunfish.json"
+		},
+		{
+			"name": "hybrid striped bass",
+			"file": "hybrid_striped bass.json"
+		},
+		{
+			"name": "longnose gar",
+			"file": "longnose_gar.json"
+		},
+		{
+			"name": "muskellunge",
+			"file": "muskellunge.json"
+		},
+		{
+			"name": "northern pike",
+			"file": "northern_pike.json"
+		},
+		{
+			"name": "pumpkinseed",
+			"file": "pumpkinseed.json"
+		},
+		{
+			"name": "rainbow trout",
+			"file": "rainbow_trout.json"
+		},
+		{
+			"name": "redbreast sunfish",
+			"file": "redbreast_sunfish.json"
+		},
+		{
+			"name": "redear sunfish",
+			"file": "redear_sunfish.json"
+		},
+		{
+			"name": "roanoke bass",
+			"file": "roanoke_bass.json"
+		},
+		{
+			"name": "rock bass",
+			"file": "rock_bass.json"
+		},
+		{
+			"name": "sauger",
+			"file": "sauger.json"
+		},
+		{
+			"name": "smallmouth bass",
+			"file": "smallmouth_bass.json"
+		},
+		{
+			"name": "spotted bass",
+			"file": "spotted_bass.json"
+		},
+		{
+			"name": "striped bass",
+			"file": "striped_bass.json"
+		},
+		{
+			"name": "walleye",
+			"file": "walleye.json"
+		},
+		{
+			"name": "warmouth",
+			"file": "warmouth.json"
+		},
+		{
+			"name": "white bass",
+			"file": "white_bass.json"
+		},
+		{
+			"name": "white catfish",
+			"file": "white_catfish.json"
+		},
+		{
+			"name": "white crappie",
+			"file": "white_crappie.json"
+		},
+		{
+			"name": "white perch",
+			"file": "white_perch.json"
+		},
+		{
+			"name": "yellow perch",
+			"file": "yellow_perch.json"
 		}
 	]
 }
