@@ -24,7 +24,9 @@
 		],
 		"identification": "Perch family. A member of the perch family, very similar to walleye. Its best identifying marks are its spotted spiny dorsal. Its body colors are more of a dusky-brown to yellowish-olive, with large, irregular patches on its side, peppered in between with smaller dark markings and a white underside. Very slim build in comparison to walleye. Has a silvery, reflective eye similar to the walleye’s, and a mouth full of canine teeth. When handled, it flares out its gills, flattens its head and shivers as if bracing itself for the hook removal. Typically 10 to 19 inches."
 	},
-	"limits": {},
+	"limits": {
+		"description": "2 per day. No statewide length limits."
+	},
 	"best_fishing": {
 		"description": "Rivers: Clinch and Powell.",
 		"lakes": {},
