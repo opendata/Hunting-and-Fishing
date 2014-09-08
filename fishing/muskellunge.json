@@ -11,7 +11,13 @@
 		"name": "Muskellunge",
 		"taxonomy": "Esox masquinongy",
 		"bova_id": 10365,
-		"images": [],
+		"images": [
+			{
+				"name": "Muskellunge",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010365.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"musky",
 			"muskie"

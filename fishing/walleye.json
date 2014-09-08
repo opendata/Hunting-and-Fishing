@@ -11,7 +11,13 @@
 		"name": "Walleye",
 		"taxonomy": "Sander vitreus",
 		"bova_id": 10216,
-		"images": [],
+		"images": [
+			{
+				"name": "Walleye",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010216.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"walleyed pike",
 			"jack"

@@ -11,7 +11,13 @@
 		"name": "Redear Sunfish",
 		"taxonomy": "Lepomis microlophus",
 		"bova_id": 10185,
-		"images": [],
+		"images": [
+			{
+				"name": "Redear Sunfish",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010185.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Shellcracker"
 		],

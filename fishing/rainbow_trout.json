@@ -11,7 +11,13 @@
 		"name": "Rainbow Trout",
 		"taxonomy": "Oncorhynchus mykiss",
 		"bova_id": 10050,
-		"images": [],
+		"images": [
+			{
+				"name": "Rainbow Trout",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010050.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"rainbow"
 		],

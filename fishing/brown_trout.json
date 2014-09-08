@@ -11,7 +11,13 @@
 		"name": "Brown Trout",
 		"taxonomy": "Salmo trutta",
 		"bova_id": 10051,
-		"images": [],
+		"images": [
+			{
+				"name": "Brown Trout",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010051.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"English brown trout",
 			"German brown trout",

@@ -11,7 +11,13 @@
 		"name": "Warmouth",
 		"taxonomy": "Lepomis gulosus",
 		"bova_id": 10177,
-		"images": [],
+		"images": [
+			{
+				"name": "Warmouth",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010177.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Openmouth",
 			"warmouth bass",

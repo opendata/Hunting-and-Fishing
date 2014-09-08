@@ -11,7 +11,13 @@
 		"name": "Blue Catfish",
 		"taxonomy": "Ictalurus furcatus",
 		"bova_id": 10390,
-		"images": [],
+		"images": [
+			{
+				"name": "Blue Catfish",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010390.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"forked-tailed cat",
 			"humpback blue",

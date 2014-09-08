@@ -11,7 +11,13 @@
 		"name": "Sauger",
 		"taxonomy": "Sander canadensis",
 		"bova_id": 10215,
-		"images": [],
+		"images": [
+			{
+				"name": "Sauger",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010215.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"sand pike",
 			"jack salmon"

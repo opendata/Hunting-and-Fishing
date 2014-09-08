@@ -11,7 +11,13 @@
 		"name": "Chain Pickerel",
 		"taxonomy": "Esox niger",
 		"bova_id": 10056,
-		"images": [],
+		"images": [
+			{
+				"name": "Chain Pickerel",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010056.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"chainsides",
 			"jackpike",

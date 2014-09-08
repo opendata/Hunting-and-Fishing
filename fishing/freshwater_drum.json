@@ -11,7 +11,13 @@
 		"name": "Freshwater Drum",
 		"taxonomy": "Aplodinotus grunniens",
 		"bova_id": 10405,
-		"images": [],
+		"images": [
+			{
+				"name": "Freshwater Drum",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010405.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Drum",
 			"sheepshead"

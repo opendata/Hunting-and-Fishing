@@ -11,7 +11,13 @@
 		"name": "Flathead Catfish",
 		"taxonomy": "Pylodictis olivaris",
 		"bova_id": 10130,
-		"images": [],
+		"images": [
+			{
+				"name": "Flathead Catfish",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010130.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"mud cat",
 			"shovelhead cat",

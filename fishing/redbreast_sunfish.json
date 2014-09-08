@@ -11,7 +11,13 @@
 		"name": "Redbreast Sunfish",
 		"taxonomy": "Lepomis auritus",
 		"bova_id": 10180,
-		"images": [],
+		"images": [
+			{
+				"name": "Redbreast Sunfish",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010180.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Yellowbreast sunfish",
 			"redbelly",

@@ -11,7 +11,13 @@
 		"name": "Longnose Gar",
 		"taxonomy": "Lepisosteus osseus",
 		"bova_id": 10033,
-		"images": [],
+		"images": [
+			{
+				"name": "Longnose Gar",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010033.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Billy gar",
 			"billfish",

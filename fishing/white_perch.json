@@ -11,7 +11,13 @@
 		"name": "White Perch",
 		"taxonomy": "Morone americana",
 		"bova_id": 10166,
-		"images": [],
+		"images": [
+			{
+				"name": "White Perch",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010166.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"stiffback",
 			"silver perch"

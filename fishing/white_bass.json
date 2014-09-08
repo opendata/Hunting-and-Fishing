@@ -11,7 +11,13 @@
 		"name": "White Bass",
 		"taxonomy": "Morone chrysops",
 		"bova_id": 10167,
-		"images": [],
+		"images": [
+			{
+				"name": "White Bass",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010167.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Silver bass",
 			"linesides"

@@ -11,7 +11,13 @@
 		"name": "Flier",
 		"taxonomy": "Centrarchus macropterus",
 		"bova_id": 10176,
-		"images": [],
+		"images": [
+			{
+				"name": "Flier",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010176.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Round sunfihs",
 			"millpond flier"

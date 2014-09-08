@@ -11,7 +11,13 @@
 		"name": "Brook Trout",
 		"taxonomy": "Salvelinus fontinalis",
 		"bova_id": 10052,
-		"images": [],
+		"images": [
+			{
+				"name": "Brook Trout",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010052.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"native",
 			"brookie",

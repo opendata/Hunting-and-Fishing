@@ -11,7 +11,13 @@
 		"name": "Striped Bass",
 		"taxonomy": "Morone saxatilis",
 		"bova_id": 10168,
-		"images": [],
+		"images": [
+			{
+				"name": "Striped Bass",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010168.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"striper",
 			"rockfish"

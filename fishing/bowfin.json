@@ -11,7 +11,13 @@
 		"name": "Bowfin",
 		"taxonomy": "Amia calva",
 		"bova_id": 10034,
-		"images": [],
+		"images": [
+			{
+				"name": "Bowfin",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010034.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"grindle",
 			"grinnel"

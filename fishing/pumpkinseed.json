@@ -11,7 +11,13 @@
 		"name": "Pumpkinseed",
 		"taxonomy": "Lepomis gibbosus",
 		"bova_id": 10182,
-		"images": [],
+		"images": [
+			{
+				"name": "Pumpkinseed",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010182.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Pond perch",
 			"sun perch",

@@ -11,7 +11,13 @@
 		"name": "Northern Pike",
 		"taxonomy": "Esox lucius",
 		"bova_id": 10364,
-		"images": [],
+		"images": [
+			{
+				"name": "Northern Pike",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010364.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"pike",
 			"pickerel",

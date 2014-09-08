@@ -11,7 +11,13 @@
 		"name": "Spotted Bass",
 		"taxonomy": "Micropterus punctulatus",
 		"bova_id": 10187,
-		"images": [],
+		"images": [
+			{
+				"name": "Spotted Bass",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010187.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Kentucky bass",
 			"spot"

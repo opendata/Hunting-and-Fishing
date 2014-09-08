@@ -11,7 +11,13 @@
 		"name": "Roanoke Bass",
 		"taxonomy": "Ambloplites cavifrons",
 		"bova_id": 10174,
-		"images": [],
+		"images": [
+			{
+				"name": "Roanoke Bass",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010174.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Redeye",
 			"rock bass"

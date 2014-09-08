@@ -11,7 +11,13 @@
 		"name": "Hybrid Striped Bass",
 		"taxonomy": "Morone hybrid",
 		"bova_id": 10447,
-		"images": [],
+		"images": [
+			{
+				"name": "Hybrid Striped Bass",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010447.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"hybrid",
 			"hybrid striper"

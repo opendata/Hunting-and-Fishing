@@ -11,7 +11,13 @@
 		"name": "Channel Catfish",
 		"taxonomy": "Ictalurus punctatus",
 		"bova_id": 10125,
-		"images": [],
+		"images": [
+			{
+				"name": "Channel Catfish",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010125.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"spotted catfish",
 			"speckled catfish",

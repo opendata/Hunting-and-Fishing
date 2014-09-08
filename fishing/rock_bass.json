@@ -11,7 +11,13 @@
 		"name": "Rock Bass",
 		"taxonomy": "Ambloplites rupestris",
 		"bova_id": 10175,
-		"images": [],
+		"images": [
+			{
+				"name": "Rock Bass",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010175.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Redeye",
 			"google eye",

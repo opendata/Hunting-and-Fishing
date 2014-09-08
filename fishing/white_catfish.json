@@ -11,7 +11,13 @@
 		"name": "White Catfish",
 		"taxonomy": "Ameiurus catus",
 		"bova_id": 10120,
-		"images": [],
+		"images": [
+			{
+				"name": "White Catfish",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010120.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"forked-tailed cat"
 		],

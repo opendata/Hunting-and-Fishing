@@ -11,7 +11,13 @@
 		"name": "Bluegill",
 		"taxonomy": "Lepomis macrochirus",
 		"bova_id": 10183,
-		"images": [],
+		"images": [
+			{
+				"name": "Bluegill",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010183.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Bream",
 			"bluegill sunfish",

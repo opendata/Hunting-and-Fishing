@@ -11,7 +11,13 @@
 		"name": "Smallmouth Bass",
 		"taxonomy": "Micropterus dolomieu",
 		"bova_id": 10186,
-		"images": [],
+		"images": [
+			{
+				"name": "Smallmouth Bass",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010186.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Bronzeback",
 			"black bass"

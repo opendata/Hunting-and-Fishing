@@ -11,7 +11,13 @@
 		"name": "Green Sunfish",
 		"taxonomy": "Lepomis cyanellus",
 		"bova_id": 10181,
-		"images": [],
+		"images": [
+			{
+				"name": "Green Sunfish",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010181.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"Blue sunfish"
 		],

@@ -11,7 +11,13 @@
 		"name": "Carp",
 		"taxonomy": "Cyprinus carpio",
 		"bova_id": 10062,
-		"images": [],
+		"images": [
+			{
+				"name": "Carp",
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/images/010062.jpg",
+				"credit": "Duane Raver, U.S. Fish and Wildlife Service"
+			}
+		],
 		"aliases": [
 			"German carp",
 			"European carp",
