@@ -25,7 +25,9 @@
 		],
 		"identification": "Pike family. Member of the pike family (Esoxidae). A long, lean body, generally olive or dark green above fading to a light olive or gray-green to yellowish-green then to white on its belly. Its sides have light yellowish bean-shaped spots the length of its body. Strongly toothed jaws have teeth arranged in rows, plus rows of teeth located on its tongue and palate; they angle inward so its prey cannot get loose. Cheek is fully scaled, gill cover is only half scaled."
 	},
-	"limits": {},
+	"limits": {
+		"description": "2 per day. No pike less than 20 inches."
+	},
 	"best_fishing": {
 		"description": "Lakes: Orange, Occoquan, Motts Run, and Arrowhead (Page)",
 		"lakes": {
