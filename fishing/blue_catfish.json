@@ -29,9 +29,8 @@
 		"description": "20 per day, only 1 blue catfish per day longer than 32 inches",
 		"exceptions": {
 			"1": {
-				"place": "Virginia",
-				"description": "all rivers below the fall line",
-				"limits": "no daily limit, except only 1 blue catfish per day longer than 32 inches"
+				"place": "all rivers below the fall line",
+				"description": "no daily limit, except only 1 blue catfish per day longer than 32 inches"
 			}
 		}
 	},

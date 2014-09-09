@@ -26,7 +26,15 @@
 		],
 		"identification": "Catfish family. Deeply forked tail. Upper jaw is longer than, and overlaps the lower. When small, its smooth-skinned body is usually spotted; however, these spots disappear in older fish (can be confused with blue catfish, see identification of blue catfish). Has a small dorsal fin with stiff spine standing high on its back. Varies in color, although generally dark brownish to slate-gray on top, fading to light brownish-gray on the sides. Has 25 to 29 rays in its anal fin."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "All rivers below the fall line",
+				"description": "No daily limit"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Buggs Island, Gaston, South Holston, Claytor, Anna, Chesdin, Flannagan, and most small public lakes. Rivers: Rappahannock, Appomattox, Chickahominy, Mattaponi, Pamunkey, New, Shenandoah and North Landing.",
 		"lakes": {

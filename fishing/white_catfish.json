@@ -23,7 +23,15 @@
 		],
 		"identification": "Catfish family. One of the bullhead catfishes. Average 8 to 18 inches, rarely 20. Has a moderately forked tail, a stocky body with its upper jaw extending slightly beyond lower. Color is basically bluegray above, fading to gray on its sides with a white underside. Occasionally mottled light gray on its sides."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "All rivers below the fall line",
+				"description": "No daily limit"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Tidal rivers such as the Potomac, Rappahannock, James, and York and numerous lakes in southeast and central Virginia.",
 		"lakes": {},

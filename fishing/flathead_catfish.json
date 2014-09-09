@@ -25,7 +25,15 @@
 		],
 		"identification": "Catfish family. Broadly flattened head with a lower jaw that projects beyond the upper jaw. Tail only slightly notched and adipose fin is relatively large. Body is yellowish or cream-colored, with black, dark brown or olive-brown mottling on back and sides, fading to dirty white or yellow. Younger fish have darker, bolder markings and the upper tip of the tails have white, triangular patches."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "All rivers below the fall line",
+				"description": "No daily limit"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: James, New, Staunton/Roanoke and Occoquan Creek. Lakes: Occoquan, Claytor and, Flannagan, Smith and Buggs Island.",
 		"lakes": {
