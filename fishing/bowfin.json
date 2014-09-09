@@ -24,7 +24,15 @@
 		],
 		"identification": "Bowfin are living relics, with primitive roots back 70 million years ago. Has a long, soft-rayed dorsal which arches in a bow over most of the length of its body. Tail is rounded, with distinct black spot rimmed with orange on males; black spot on females faint or absent and no orange rim. Its back and sides are brownishgreen or olive-green, with mottled sides fading to yellowish or white. During spawning, its underside turns a bright yellow-green.\\nHas a cylindrical body and a wide flattened head, almost snake-like, with deep-set dark eyes. Snout is rounded with short nasal barbels.\\nMouth is large and has conical-shaped teeth. Note: While the bowfin shares similar coloration and body shape with the northern snakehead (recently introduced to the Potomac River), the anal fin of a bowfin is much shorter than that of the snakehead, and snakeheads will not have the spot found on bowfin."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Chickahominy, Little Creek and Diascund. Rivers: Chickahominy, Mattaponi, Pamunkey, Nottoway and Blackwater.",
 		"lakes": {

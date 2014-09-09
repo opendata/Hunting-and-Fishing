@@ -24,7 +24,15 @@
 		],
 		"identification": "Freshwater drum have a humped back, stout body and large scales. The fins and body are silvery brown. The trailing edge of the caudal fin is rounded or almost triangular."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: Clinch and Powell. Lakes: Buggs Island.",
 		"lakes": {

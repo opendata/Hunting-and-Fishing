@@ -23,7 +23,15 @@
 		],
 		"identification": "Sunfish family. Yellow-green or olive, with faint vertical bars and random dark spots. During spawning, the margin of the male's gill cover flap turns bright red. Body is rounded like other sunfish and has a relatively small mouth.\\nPectoral fins are long and pointed. They grow faster and larger than other sunfish; 1 lb. fish not uncommon and often reaching 2 lbs."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Cohoon, Meade, Prince, Little Creek, Chickahominy, Robertson, Western Branch, Lone Star, and Briery Creek. Rivers: Nottoway.",
 		"lakes": {

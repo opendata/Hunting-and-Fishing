@@ -25,7 +25,15 @@
 		],
 		"identification": "Sunfish family. A large-mouthed, robust fish with mottled sides and wavy lines on its cheek. Basically dark brownish above, with mottled and barred sides, and mottled or spotted fins.\\nCan be olive-brown colored with greenish cast. Seldom gets larger than 8 or 9 inches."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Numerous small lakes, ponds such as lakes Orange, Lee Hall, and Airfield; and slow-moving, swampy rivers and streams, such as Dragon Run and Nottoway River.",
 		"lakes": {

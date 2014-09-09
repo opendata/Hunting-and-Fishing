@@ -26,7 +26,15 @@
 		],
 		"identification": "Living relic of prehistoric past; family dates back 245 million years. Nothing in Virginia is even remotely similar to the gar. The long narrow beak-like jaw, laden with sharp teeth, is the unmistakable feature. Very long, cylindrical fish with dorsal and anal fins set well back on the body, and a large rounded tail fin; note the armament of very large, hard, sharp, bony scales. Brownisholive on its back, fading to yellowish- or olive-green to white on its belly; 2 to 3 ft in length is not uncommon."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Western Branch, Prince, Chickahominy, Buggs Island. Rivers: Chickahominy, Pamunkey, James, Rappahannock.",
 		"lakes": {

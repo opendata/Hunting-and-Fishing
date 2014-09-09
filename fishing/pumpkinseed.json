@@ -25,7 +25,15 @@
 		],
 		"identification": "Sunfish family. Dark, olive-green on its back, with mottled sides. Base color of sides, yellowish, spotted with orange, red and blue. Its belly is yellow to bright orange. Cheeks and gill covers marked with alternate worm-shaped bands of blue-green and yellow. Bluish-black gill cover flaps are edged with white, yellow, orange or blue, with a small half moon spot of red. Average 4 to 6 inches."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Most lakes, ponds and rivers.",
 		"lakes": {},

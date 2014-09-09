@@ -24,7 +24,15 @@
 		],
 		"identification": "Striped Bass family. Not really a perch, but a member of the temperate bass family along with white and striped bass. Averages 8 to 10 inches but reaches up to 2 lbs. Silver gray above, fading to silvery-white below with no longitudinal lines. Has a deep notch between spiny dorsal and soft-rayed dorsal. No teeth on tongue."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Western Branch, Whitehurst, Gaston, Buggs Island, Motts Run, Occoquan, Anna, Waller Mill Reservoir, Harwoods Mill Reservoir, and Back Bay. Rivers: Tidal rivers (Pamunkey, James, Rappahannock, Chickahominy, Mattaponi, North Landing, Northwest and Potomac) and most of their tributary creeks.",
 		"lakes": {

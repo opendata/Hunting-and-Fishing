@@ -26,7 +26,15 @@
 		],
 		"identification": "Very large member of the minnow family. Thick bodied, with a brassy sheen, humped back, very large scales, large lips, barbles extending from lips, and spines on the front of dorsal and anal fins. Commonly attain 15 to 20 lbs."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day. No length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Western Branch, Claytor and Prince. Rivers: Rappahannock, Pamunkey, Chickahominy, Potomac, Shenandoah and James.",
 		"lakes": {
