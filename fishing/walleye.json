@@ -24,7 +24,19 @@
 		],
 		"identification": "Perch family. Largest member of the perch family (Percidae). Grows up to 21 inches, 3 and 4 lbs. by age three. Brassy-olive sides flecked with green and gold, and mottled by 6 to 8 obscure marking on top, white belly. Dorsal fins completely separate and unmarked, except for a distinct dark blotch at the rear base of the front dorsal fin. White blotch on tip of lower tail fin. The eye has a milky cornea, hence the name walleye."
 	},
-	"limits": {},
+	"limits": {
+		"description": "5 per day. No walleye less than 18 inches.",
+		"exceptions": {
+			"1": {
+				"place": "New River upstream of Buck Dam in Carroll County",
+				"description": "No walleye less than 20 inches",
+			},
+			"2": {
+				"place": "Claytor Lake and the New River upstream of Claytor Lake Dam to Buck Dam in Carroll County",
+				"description": "February 1–May 31: 2 walleye per day; no walleye 19 to 28 inches. June 1–January 31: 5 walleye per day; no walleye less than 20 inches",
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Flannagan, South Holston, Gaston (especially below Kerr Dam), Leesville, Philpott, Chesdin, Anna, Whitehurst, Orange, Hungry Mother, Burke, and Brittle. Rivers: New, Staunton/Roanoke, South Holston, Clinch, Dan.",
 		"lakes": {
