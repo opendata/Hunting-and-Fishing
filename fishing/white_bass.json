@@ -24,7 +24,15 @@
 		],
 		"identification": "Striped Bass family. Temperate “true” bass family. Light greenish back, light yellowish-green to silver sides to a silvery-white below, 6 to 8 horizontal faint stripes; stripes below later line are broken; the first stripe below the lateral line is not complete to tail. Deep-bodied with distinctively arched back, considerably smaller than its striped bass cousin. Single spine on gill cover; variable patch of teeth on tongue. Commonly reaches 1/2 to 2 lbs."
 	},
-	"limits": {},
+	"limits": {
+		"description": "5 per day. No statewide length limits.",
+		"exceptions": {
+			"1": {
+				"place": "South Holston Reservoir",
+				"description": "No harvest or possession (catch and release only)"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: New, South Holston, and the Dan and Staunton (during spawning). Lakes: Buggs Island, Smith Mountain, Claytor, South Holston, and Leesville.",
 		"lakes": {

@@ -25,7 +25,15 @@
 		],
 		"identification": "Sunfish family. Colors are variable. Dark green, olive-green, olive brown, or bluish-black on its back, fading to yellowish-green or silvery. Normally has five to seven vertical bars extending down on each side. Lower parts of its cheek and gill cover are bluish. Its “throat” is yellow on females to bright orange on the male, brighter during spawning. Has a black, ear-like flap on its opercle (gill cover) and a black blotch at the back base of its spiny dorsal fin. Typically under 1 lb. in Virginia."
 	},
-	"limits": {},
+	"limits": {
+		"description": "50 per day in the aggregate (combined). No statewide length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Gaston and Buggs Island (Kerr) reservoirs and that portion of the New River from the VA–NC state line downstream to the confluence of the New and Little rivers in Grayson County",
+				"description": "No daily limit"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Lakes: Western Branch, Prince, Cohoon, Chickahominy, Robertson, Gatewood, Briery Creek, Burke, and many others.",
 		"lakes": {

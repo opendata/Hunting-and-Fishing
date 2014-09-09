@@ -24,7 +24,15 @@
 		],
 		"identification": "Pike family. Largest member of the pike family. Normally olive to dark gray on its back, with grayish to bluish to yellowish sides. Sides may have faint vertical bars, spots or blotches."
 	},
-	"limits": {},
+	"limits": {
+		"description": "2 per day. No muskellunge less than 30 inches.",
+		"exceptions": {
+			"1": {
+				"place": "New River–Fields Dam (Grayson County) downstream to the VA–WV state line, including Claytor Lake",
+				"description": "1 per day. No muskellunge less than 42 inches."
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: James, Clinch, Shenandoah and New. Lakes: Smith Mountain, Claytor, Rural Retreat, Burke, and Flannagan.",
 		"lakes": {

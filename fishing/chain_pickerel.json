@@ -25,7 +25,15 @@
 		],
 		"identification": "Pike family. A member of the pike family, it is named for its chain-like markings on its sides. Also has a black vertical mark under its eye. Normally its fin is unmarked. Averages 1.5 to 3 lbs. Fully scaled on both cheek and gill cover."
 	},
-	"limits": {},
+	"limits": {
+		"description": "5 per day. No statewide length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Gaston and Buggs Island (Kerr) reservoirs",
+				"description": "No daily limit"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: Nottoway, Blackwater, Chickahominy, Dragon Run. Lakes: Chickahominy, Gaston, Western Branch, Diascund, Burnt Mills, Prince, Anna, Cohoon, Little Creek, Moomaw, Douthat and many other rivers, ponds and lakes.",
 		"lakes": {

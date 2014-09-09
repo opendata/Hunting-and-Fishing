@@ -25,14 +25,23 @@
 		],
 		"identification": "Catfish family. Heavy-bodied with a wide head and high spot forward of center near the head called the dorsal hump. Upper jaw projects well beyond the lower. Bluish-gray body above, fading to white on sides and belly. No spots and a deeply forked tail. Smaller blue cats are often confused with channel catfish. Blue cats are often confused with channel catfish. Small channel cats typically will have spots lacking in small blue cats. However, large channel cats and medium-sized blue cats can be more difficult to tell apart, often having similar coloration and general body shape. The margin, or edge, of the anal fin can be used to identify these fish; blue cats have an anal fin with a very straight margin, in channel cats the anal fin has a rounded margin. Biologists and anglers can definitively distinguish between the two species by counting anal fin rays; 30-35 rays in the blue cat's anal fin verses the channel cat's 25 to 29 rays."
 	},
-	"limits": {},
+	"limits": {
+		"description": "20 per day, only 1 blue catfish per day longer than 32 inches",
+		"exceptions": {
+			"1": {
+				"place": "Virginia",
+				"description": "all rivers below the fall line",
+				"limits": "no daily limit, except only 1 blue catfish per day longer than 32 inches"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: James, Mattaponi, Pamunkey, Rappahannock, Staunton and Appomattox. Lakes: Buggs Island.",
 		"lakes": {
 			"Buggs Island": {
 				"gnis_id": 1501629,
 				"latitude": 36.5984761,
-				"longitude": -78.2983298,
+				"longitude": -78.2983298
 			}
 		},
 		"rivers": {

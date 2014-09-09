@@ -25,7 +25,15 @@
 		],
 		"identification": "Perch family. Member of the perch family, which includes the walleye, sauger and numerous small darters. Generally olive-green above, fading down the sides to green or yellow-green, to yellow or golden yellow. Has eight vertical dusky bars on its side and a silvery underside. Dorsal fins have a distinctive dusky blotch. Ventral and anal fins are yellow to orange, turning a bright orange on breeding males. Average 6 to 8 inches, but commonly reach 14 to 15 inches and 1.5 to 2 lbs."
 	},
-	"limits": {},
+	"limits": {
+		"description": "No statewide daily limit.",
+		"exceptions": {
+			"1": {
+				"place": "Lake Moomaw",
+				"description": "10 per day"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Brackish-water tributaries of the Chesapeake Bay. Top waters here include Machodoc, Maddox, Aquia and Occoquan creeks. Lakes: Western Branch, Prince, Waller Mill, Little Creek, Holliday, Moomaw and Claytor. Rivers: Potomac, Rappahannock, Chickahominy, Nottoway and New.",
 		"lakes": {

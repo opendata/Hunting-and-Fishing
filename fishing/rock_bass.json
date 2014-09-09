@@ -25,7 +25,23 @@
 		],
 		"identification": "Sunfish family. Short, robust body and fairly large mouth. Lower jaw protrudes slightly. Back is olive-green with sides tarnished gold or brassy colored. Each scale has a dark central spot. Large spots on its lower body forms a striped-like appearance. Has a discernable dark outline on its anal fin. Has wide vertical blotches on its sides and a dark spot on its cheek. Average 6 to 8 inches, but will reach 12 to 14 inches and 11/2 to 2 lbs. Checks with obvious sacles."
 	},
-	"limits": {},
+	"limits": {
+		"description": "25 per day. No statewide length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Gaston and Buggs Island (Kerr) reservoirs and that portion of the New River from the VA–NC state line downstream to the confluence of the New and Little rivers in Grayson County",
+				"description": "No daily limit"
+			},
+			"2": {
+				"place": "Nottoway and Meherrin rivers and their tributaries",
+				"description": "5 per day in the aggregate (combined) with Roanoke bass. No rock bass less than 8 inches."
+			},
+			"3": {
+				"place": "South Holston Reservoir",
+				"description": "20 per day"
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: Roanoke, New, Jackson, Maury, James, Bullpasture, Calfpasture, Buffalo, North Fork Shenandoah and Clinch. Lakes: Smith Mountain Lake, Moomaw.",
 		"lakes": {

@@ -24,7 +24,15 @@
 		],
 		"identification": "Sunfish family. Robust body much like the rock bass but with dark, olivegreen to olivebrown back, fading to grayish sides and white belly. Has smaller scale spots than the rock bass and lighter small whitish or yellowish spots on its upper body. Has a slightly concave outline over the eyes. Checks scaleless or nearly so. Most of the trophy “rock bass” registered by anglers are really Roanoke bass."
 	},
-	"limits": {},
+	"limits": {
+		"description": "No statewide daily limit. No statewide length limits.",
+		"exceptions": {
+			"1": {
+				"place": "Nottoway and Meherrin rivers and their tributaries",
+				"description": "5 per day in the aggregate (combined) with rock bass. No Roanoke bass less than 8 inches."
+			}
+		}
+	},
 	"best_fishing": {
 		"description": "Rivers: Meherrin, Nottoway, Blackwater, of the Chowan drainage; Roanoke/Staunton, Blackwater and Pigg of the Roanoke drainage. Lakes: Leesville Reservoir, Smith Mountain.",
 		"lakes": {
