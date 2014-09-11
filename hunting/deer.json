@@ -30,7 +30,7 @@
 					"places": {
 						"Virginia": {
 							"gnis_id": "TK",
-							"fips_code": "TK"
+							"fips_code": 51
 						}
 					},
 					"season": {
