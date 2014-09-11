@@ -1,0 +1,48 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Coyote",
+		"taxonomy": "Canis latrans",
+		"bova_id": 50125,
+		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050125"
+	},
+	"seasons": {
+		"season": {
+			"method": "firearms",
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": 51
+						},
+						"season": {
+							"date": {
+								"starts": "2014-07-01",
+								"ends": "2015-06-30"
+							}
+						}
+					},
+					"exceptions": {
+						"National Forest Lands": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Department Lands": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						}
+					}
+				}
+			}
+		}
+	}
+}
+]
