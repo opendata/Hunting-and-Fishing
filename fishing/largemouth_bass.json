@@ -22,31 +22,95 @@
 		"identification": "Sunfish family. Basically dark greenish above fading to a whitish belly, but variable depending on the water it lives in. Shows a series of dark blotches that form a dark horizontal band along its midline to its tail. Named because of its big mouth. Upper jaw extends well beyond the eye. Dorsal fin deeply notched. Average weight is 2 to 4 lbs., with up to 10 lbs. occurring in some waters."
 	},
 	"limits": {
-		"creel": {
-			"number": 5
-		},
-		"length": {
-			"unit": null,
-			"maximum": null
-		},
+		"description": "5 per day in the aggregate (combined). No statewide length limits.",
 		"exceptions": {
 			"1": {
-				"places": {
-					"Briery Creek Lake": {
-						"gnis_id": null
-					}
-				},
-				"description": "No bass 16 to 24 inches, only 1 per day longer than 24 inches"
+				"place": "Briery Creek Lake",
+				"description": "No bass 16 to 24 inches, only. 1 per day longer than 24 inches."
 			},
 			"2": {
-				"places": {
-					"Buggs Island": {
-						"gnis_id": 1501629,
-						"latitude": 36.5984761,
-						"longitude": -78.2983298
-					}
-				},
+				"place": "Buggs Island (Kerr)",
 				"description": "Only 2 of 5 bass less than 14 inches"
+			},
+			"3": {
+				"place": "Claytor Lake",
+				"description": "No bass less than 12 inches"
+			},
+			"4": {
+				"place": "Flannagan Reservoir",
+				"description": "No bass less than 12 inches"
+			},
+			"5": {
+				"place": "Lake Gaston",
+				"description": "Only 2 of 5 bass less than 14 inches"
+			},
+			"6": {
+				"place": "Leesville Reservoir",
+				"description": "Only 2 of 5 bass less than 14 inches"
+			},
+			"7": {
+				"place": "Lake Moomaw",
+				"description": "No bass less than 12 inches"
+			},
+			"8": {
+				"place": "Philpott Reservoir",
+				"description": "No bass less than 12 inches"
+			},
+			"9": {
+				"place": "Quantico Marine Base waters",
+				"description": "No bass 12 to 15 inches"
+			},
+			"10": {
+				"place": "Smith Mt. Lake and its tributaries below Niagara Dam",
+				"description": "Only 2 of 5 bass less than 14 inches"
+			},
+			"11": {
+				"place": "South Holston Reservoir",
+				"description": "No smallmouth less than 15 inches 15 spotted bass per day"
+			},
+			"12": {
+				"place": "Clinch River–within the boundaries of Scott, Wise, Russell or Tazewell counties",
+				"description": "No bass 11 to 14 inches"
+			},
+			"13": {
+				"place": "Dan River and tributaries downstream from the Union Street Dam, Danville",
+				"description": "Only 2 of 5 bass less than 14 inches"
+			},
+			"14": {
+				"place": "James River–Confluence of the Jackson and Cowpasture rivers (Botetourt County) downstream to the the 14th Street Bridge in Richmond",
+				"description": "No bass 14 to 22 inches, only 1 per day longer than 22 inches"
+			},
+			"15": {
+				"place": "New River–Fields Dam (Grayson County) downstream to the VA-WV State line and its tributary Little River downstream from Little River Dam in Montgomery County (This does not include Claytor Lake which is delineated as: the upper end of the island at Allisonia downstream to the Dam.)",
+				"description": "No bass 14 to 20 inches, only 1 per day longer than 20 inches"
+			},
+			"16": {
+				"place": "North Fork Holston River—Rt. 91 Bridge upstream of Saltville, Va downstream to the VA–TN state line",
+				"description": "No bass less than 20 inches, only 1 per day longer than 20 inches"
+			},
+			"17": {
+				"place": "North Fork Shenandoah River—Rt. 42 bridge, Rockingham Co. downstream to the confluence with S. Fork Shenandoah at Front Royal",
+				"description": "No bass 11 to 14 inches"
+			},
+			"18": {
+				"place": "Potomac River—Virginia tidal tributaries above Rt. 301 bridge",
+				"description": "No bass less than 15 inches from March 1 through June 15"
+			},
+			"19": {
+				"place": "Roanoke (Staunton) River–and its tributaries below Difficult Creek, Charlotte County",
+				"description": "Only 2 of 5 bass less than 14 inches"
+			},
+			"20": {
+				"place": "Shenandoah River—Confluence of South Fork and North Fork rivers, Front Royal, downstream to the Warren Dam, near Front Royal. Base of Warren Dam, near Front Royal downstream to Rt. 17/50 bridge. Rt. 17/50 bridge downstream VA–WV state line.",
+				"description": "No bass 11 to 14 inches. No bass 14 to 20 inches, only 1 per day longer than 20 inches. No bass 11 to 14 inches."
+			},
+			"21": {
+				"place": "South Fork Shenandoah River—Confluence of North and South rivers, below Port Republic, downstream to Shenandoah Dam, near Town of Shenandoah. Base of Shenandoah Dam, near Town of Shenandoah, downstream to Luray Dam, near Luray. Base of Luray Dam, near Luray, downstream to the confluence with North Fork of Shenandoah, Front Royal.",
+				"description": "No bass 11 to 14 inches. No bass 14 to 20 inches, only 1 per day longer than 20 inches. No bass 11 to 14 inches."
+			},
+			"22": {
+				"place": "Staunton River–Leesville Dam (Campbell County) downstream to the mouth of Difficult Creek, Charlotte Cty.",
+				"description": "No smallmouth bass less than 20 inches, only 1 per day longer than 20 inches."
 			}
 		}
 	},
