@@ -1,0 +1,57 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Rabbit",
+		"taxonomy": [
+			"Lepus americanus",
+			"Lepus americanus virginianus",
+			"Sylvilagus floridanus mallurus",
+			"Sylvilagus floridanus hitchensis",
+			"Sylvilagus floridanus mearnsii",
+			"Sylvilagus obscurus",
+			"Sylvilagus palustris palustris",
+			"Lepus californicus"
+		],
+		"bova_id": [
+			50102,
+			50103,
+			50104,
+			50105,
+			50106,
+			50107,
+			50132,
+			50129
+		],
+		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050001"
+	},
+	"seasons": {
+		"season": {
+			"method": "firearm",
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-01",
+							"ends": "2015-02-28"
+						}
+					}
+				}
+			},
+			"bag_limit": "Six per day."
+		}
+	}
+}
+]
