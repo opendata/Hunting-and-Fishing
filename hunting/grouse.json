@@ -1,0 +1,41 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "Grouse",
+		"taxonomy": "Bonasa umbellus",
+		"bova_id": 40099,
+		"url": "http://www.dgif.virginia.gov/wildlife/grouse/"
+	},
+	"seasons": {
+		"season": {
+			"method": ["modern_firearms", "archery", "crossbows", "muzzleloading_firearms"],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": 51
+						},
+						"season": {
+							"date": {
+								"starts": "2014-10-25",
+								"ends": "2015-02-14"
+							}
+						}
+					},
+					"exceptions": {
+						"East of I-95": {}
+					}
+				}
+			}
+		}
+	}
+}
+]
