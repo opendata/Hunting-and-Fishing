@@ -1,0 +1,38 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "muskrat",
+		"taxonomy": "Ondatra zibethicus zibethicus",
+		"bova_id": 50092,
+		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050092" 
+	},
+	"seasons": {
+		"season": {
+			"method": "traps",
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-12-01",
+							"ends": "2015-02-28"
+						}
+					}
+				}
+			}
+		}
+	}
+}
+]
