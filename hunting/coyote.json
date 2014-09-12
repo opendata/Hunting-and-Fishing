@@ -42,6 +42,25 @@
 					}
 				}
 			}
+		},
+		"season": {
+			"method": "traps",
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": 51
+						},
+						"season": {
+							"date": {
+								"starts": "2014-07-01",
+								"ends": "2015-06-30"
+							}
+						}
+					}
+				}
+			}
 		}
 	}
 }
