@@ -51,6 +51,26 @@
 				}
 			},
 			"bag_limit": "Six per day."
+		},
+		"season": {
+			"method": "traps",
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": 51
+						},
+						"season": {
+							"date": {
+								"starts": "2014-10-15",
+								"ends": "2015-01-31"
+							}
+						}
+					}
+				}
+			},
+			"comment": "No traps shall be set on the lands of another without written permission of the landowner. Trappers using box traps for rabbits do not need a license."
 		}
 	}
 }
