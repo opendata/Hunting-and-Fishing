@@ -44,9 +44,9 @@
 						"days": ["Wednesday", "Friday", "Saturday"]
 					}
 				}
-			},
-			"comment": "Crows are a federally regulated migratory species; however, no HIP number is required and hunters may use unplugged shotguns to hunt them.\\nElectronic calls may be used on private and public lands."
-		}
+			}
+		},
+		"comment": "Crows are a federally regulated migratory species; however, no HIP number is required and hunters may use unplugged shotguns to hunt them. Electronic calls may be used on private and public lands."
 	}
 }
 ]
