@@ -1,0 +1,40 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "otter",
+		"taxonomy": "Lontra canadensis laxatina",
+		"bova_id": 50045,
+		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050045" 
+	},
+	"seasons": {
+		"season": {
+			"method": "traps",
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": "TK",
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-12-01",
+							"ends": "2015-02-28"
+						}
+					}
+				}
+			},
+			"bag_limit": "The season bag limit shall be 4 otters in all counties west of the Blue Ridge. There is no season bag limit in counties east of the Blue Ridge."
+		},
+		"comment": "Otter pelts that are sold, traded, or transported out of state must also have a CITES tag affixed to each animal. No CITES tag is needed to have an otter mounted by a Virginia taxidermist or ship an otter pelt out-of-state for tanning purposes (unless required by the state where the tannery is located). To obtain a CITES tag, contact a local Conservation Police Officer through your nearest Department regional office. If an otter pelt is required to have a CITES tag affixed, it must by tagged by April 1."
+	}
+}
+]
