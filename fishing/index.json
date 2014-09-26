@@ -122,6 +122,10 @@
 			"file": "striped_bass.json"
 		},
 		{
+			"name": "trout",
+			"file": "trout.json"
+		},
+		{
 			"name": "walleye",
 			"file": "walleye.json"
 		},
