@@ -1,0 +1,44 @@
+[
+{
+	"state": "Virginia",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01",
+	"date_expires": "2015-06-30",
+	"schema": "",
+	"schema_version": "1.0a",
+	"documentation": "",
+	"species": {
+		"name": "trout",
+		"members": {
+			"rainbow trout": {
+				"taxonomy": "Oncorhynchus mykiss",
+				"bova_id": 10050,
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/details.asp?fish=010050"
+			},
+			"brown trout": {
+				"taxonomy": "Salmo trutta",
+				"bova_id": 10051,
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/details.asp?fish=010051"
+			},
+			"brook trout": {
+				"taxonomy": "Salvelinus fontinalis",
+				"bova_id": 10052,
+				"url": "http://www.dgif.virginia.gov/wildlife/fish/details.asp?fish=010052"
+			}
+		}
+	},
+	"limits": {
+		"description": "6 per day. 7-inch minimum size.",
+		"exceptions": {
+			"1": {
+				"place": "South Holston Reservoir",
+				"description": "7 fish per day—only 2 lake trout. No minimum size."
+			},
+			"2": {
+				"place": "Virginia",
+				"description": "There are a number of exceptions for certain areas and waters (i.e, heritage, urban, special area, special regulation, and fee fishing waters), so please study the Virginia Freshwater Fishing & Watercraft Owner’s Guide for trout fishing times, dates, and limits."
+			}
+		}
+	}
+}
+]
