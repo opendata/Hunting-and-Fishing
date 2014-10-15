@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -43,7 +42,7 @@
 			"Buggs Island": {
 				"gnis_id": 1501629,
 				"latitude": 36.5984761,
-				"longitude": -78.2983298,
+				"longitude": -78.2983298
 			},
 			"Chesdin": {
 				"gnis_id": 1474230,
@@ -137,4 +136,3 @@
 	},
 	"fishing_techniques": "Light spinning or spin-casting rods and reels with tiny jigs, doll flies, streamers, small crankbaits that imitate minnows, small spoons and spinner-bucktail combinations, and spinner-grubs. Best live baits are small to medium minnows."
 }
-]

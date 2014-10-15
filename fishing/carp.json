@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -31,7 +30,7 @@
 		"exceptions": {
 			"1": {
 				"place": "Virginia",
-				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions."
 			}
 		}
 	},
@@ -89,4 +88,3 @@
 	},
 	"fishing_techniques": "Carp have acute senses of hearing, smell and taste, and are very skittish in clear water. They will bite in hot summer when other fish are not very active, but are a challenge to catch on hook and line. Carp often go on feeding sprees after a rain. Sometimes it pays to chum an area with kernel corn, oatmeal, cooked vegetables or similar materials. Baits include bread dough balls, canned corn or peas, marshmallows, cheese mixed with cotton to keep it on the hook, and worms. Baits must lie on unobstructed bottom. Tackle is usually a spinning, spincasting or casting rod at least six feet long with plenty of backbone; reels should be fitted with at least 100 yds. of 12 to 30 lb. test line. Hooks from #2 down to #10 are favored, and a sliding sinker should be used because of the carp's wariness."
 }
-]

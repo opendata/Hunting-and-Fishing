@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -30,7 +29,7 @@
 		"exceptions": {
 			"1": {
 				"place": "Virginia",
-				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions."
 			}
 		}
 	},
@@ -72,4 +71,3 @@
 	},
 	"fishing_techniques": "Small spinner baits, spinner bucktails, grubs and tiny crankbaits. Spring and fall are the best times, but they are active throughout the summer."
 }
-]

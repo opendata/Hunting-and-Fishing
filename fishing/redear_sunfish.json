@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -28,7 +27,7 @@
 		"exceptions": {
 			"1": {
 				"place": "Virginia",
-				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions."
 			}
 		}
 	},
@@ -87,4 +86,3 @@
 	},
 	"fishing_techniques": "Best time to catch redears is in the spring when they come up to the spawning beds. Being bottom feeders, most redears are caught by letting live nymphs, red wigglers or garden worms lie on the bottom near shore. Artificial jigs and grubs fished slowly and near the bottom will work as well."
 }
-]

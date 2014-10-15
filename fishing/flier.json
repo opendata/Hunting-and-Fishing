@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -29,7 +28,7 @@
 		"exceptions": {
 			"1": {
 				"place": "Virginia",
-				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions."
 			}
 		}
 	},
@@ -88,4 +87,3 @@
 	},
 	"fishing_techniques": "Most are probably caught incidentally by fishermen fishing for crappies in early spring. They will hit dry and wet flies, as well as small minnows and worms using typical small panfish rigs. Fish around stumps, sunken brush, cypress trunks and knees and near or under bridges."
 }
-]

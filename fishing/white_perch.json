@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -29,7 +28,7 @@
 		"exceptions": {
 			"1": {
 				"place": "Virginia",
-				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions."
 			}
 		}
 	},
@@ -130,4 +129,3 @@
 	},
 	"fishing_techniques": "Live bait such as minnows, grass shrimp and blood worms, plus artificials such as small spinnerbaits and jigs.\\nFish near structure such as old wharves, pilings, and sunken logs, on a falling tide, which moves baitfish and shrimp out of cover."
 }
-]

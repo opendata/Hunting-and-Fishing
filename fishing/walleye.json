@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -29,11 +28,11 @@
 		"exceptions": {
 			"1": {
 				"place": "New River upstream of Buck Dam in Carroll County",
-				"description": "No walleye less than 20 inches",
+				"description": "No walleye less than 20 inches"
 			},
 			"2": {
 				"place": "Claytor Lake and the New River upstream of Claytor Lake Dam to Buck Dam in Carroll County",
-				"description": "February 1–May 31: 2 walleye per day; no walleye 19 to 28 inches. June 1–January 31: 5 walleye per day; no walleye less than 20 inches",
+				"description": "February 1–May 31: 2 walleye per day; no walleye 19 to 28 inches. June 1–January 31: 5 walleye per day; no walleye less than 20 inches"
 			}
 		}
 	},
@@ -135,4 +134,3 @@
 	},
 	"fishing_techniques": "Jigs dressed with plastic grubs or tipped with live bait work well, especially in cold water. Three to five-inch minnow plugs are very effective when walleyes move into shallow water. Crankbaits and jigging spoons work well when walleyes are deep. Trolling with nightcrawler harnesses (spinner rigs) is the preferred method in reservoirs during the summer months. Live baits such as minnows, shad or nightcrawlers are always a good option for walleye."
 }
-]

@@ -1,4 +1,3 @@
-[
 {
 	"state": "Virginia",
 	"agency": "Department of Game and Inland Fisheries",
@@ -29,7 +28,7 @@
 		"exceptions": {
 			"1": {
 				"place": "Virginia",
-				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions.",
+				"description": "See Virginia Freshwater Fishing & Watercraft Owner’s Guide for generic statewide fishing restrictions."
 			}
 		}
 	},
@@ -82,4 +81,3 @@
 	},
 	"fishing_techniques": "They are strong, muscular fighters and strike viscously at all manner of live bait and many artificials. Often fools an angler into thinking it's whipped, and then suddenly explodes back into life. Minnows and a variety of jigs are best baits. Use a good stiff rod with at least 15 lb test line. Steel leaders may be necessary and don’t try to lip hold these fish! Food value is generally considered poor."
 }
-]
