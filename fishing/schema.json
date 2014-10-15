@@ -1,6 +1,6 @@
 {
 	"type":"object",
-	"$schema": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/fishing/schema.json",
+	"$schema": "http://json-schema.org/draft-04/schema#",
 	"required":true,
 	"properties":{
 		"0": {
