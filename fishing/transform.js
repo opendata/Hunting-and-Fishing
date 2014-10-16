@@ -31,7 +31,7 @@ var species = fishes.forEach(function(f) {
 					"agency": "Department of Game and Inland Fisheries",
 					"date_effective": "2013-07-01",
 					"date_expires": "2014-06-30",
-					"schema": "",
+					"schema": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/fishing.json",
 					"schema_version": "1.0a",
 					"documentation": "",
 					"species": {
