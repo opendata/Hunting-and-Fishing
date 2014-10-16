@@ -10,22 +10,18 @@
 	"species": [
 		{			
 			"name": "Bear",
-			"taxonomy": "Ursus americanus",
 			"file": "bear.json"
 		},
 		{
 			"name": "Striped skunk",
-			"taxonomy": "Mephitis mephitis mephitis",
 			"file": "skunk.json"
 		},
 		{
 			"name": "Opossum",
-			"taxonomy": "Didelphis virginiana",
 			"file": "opossum.json"
 		},
 		{
 			"name": "Crow",
-			"taxonomy": "Corvus brachyrhynchos",
 			"file": "crow.json"
 		}
 	]
