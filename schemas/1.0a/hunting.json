@@ -55,7 +55,7 @@
 
 						},
 						"method": {
-							"type":"string",
+							"type": ["string", "array"],
 							"required":true
 						},
 						"range": {
