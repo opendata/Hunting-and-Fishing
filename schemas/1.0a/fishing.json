@@ -109,18 +109,22 @@
 				},
 				"date_effective": {
 					"type":"string",
+					"format":"date-time",
 					"required":true
 				},
 				"date_expires": {
 					"type":"string",
+					"format":"date-time",
 					"required":true
 				},
 				"documentation": {
 					"type":"string",
+					"format":"uri",
 					"required":false
 				},
 				"fishing_techniques": {
 					"type":"string",
+					"format":"uri",
 					"required":false
 				},
 				"limits": {
@@ -139,6 +143,7 @@
 				},
 				"schema": {
 					"type":"string",
+					"format":"uri",
 					"required":true
 				},
 				"species": {
@@ -199,6 +204,9 @@
 				},
 				"state": {
 					"type":"string",
+					"minLength": 2,
+					"maxLength": 2,
+					"pattern": "([A-Z]{2})",
 					"required":true
 				}
 			}
