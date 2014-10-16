@@ -23,6 +23,42 @@
 		{
 			"name": "Crow",
 			"file": "crow.json"
+		},
+		{
+			"name": "Bobcat",
+			"file": "bobcat.json"
+		},
+		{
+			"name": "Deer",
+			"file": "deer.json"
+		},
+		{
+			"name": "Grouse",
+			"file": "grouse.json"
+		},
+		{
+			"name": "Mink",
+			"file": "mink.json"
+		},
+		{
+			"name": "Muskrat",
+			"file": "muskrat.json"
+		},
+		{
+			"name": "Otter",
+			"file": "otter.json"
+		},
+		{
+			"name": "Nutria",
+			"file": "nutria.json"
+		},
+		{
+			"name": "Rabbit",
+			"file": "rabbit.json"
+		},
+		{
+			"name": "Weasel",
+			"file": "weasel.json"
 		}
 	]
 }
