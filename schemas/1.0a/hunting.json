@@ -41,7 +41,7 @@
 					"properties":{
 						"comment": {
 							"type":"string",
-							"required":true
+							"required":false
 						},
 						"method_rules": {
 							"type":"array",
