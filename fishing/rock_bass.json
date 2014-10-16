@@ -1,8 +1,8 @@
 {
-	"state": "Virginia",
+	"state": "VA",
 	"agency": "Department of Game and Inland Fisheries",
-	"date_effective": "2014-07-01",
-	"date_expires": "2015-06-30",
+	"date_effective": "2014-07-01T00:00:00-05:00",
+	"date_expires": "2015-06-30T23:59:59-05:00",
 	"schema": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/fishing.json",
 	"schema_version": "1.0a",
 	"documentation": "",
