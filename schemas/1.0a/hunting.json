@@ -1,0 +1,175 @@
+{
+	"type":"object",
+	"$schema": "http://json-schema.org/draft-03/schema",
+	"required":false,
+	"properties":{
+		"agency": {
+			"type":"string",
+			"required":true
+		},
+		"date_effective": {
+			"type":"string",
+			"format":"date-time",
+			"required":true
+		},
+		"date_expires": {
+			"type":"string",
+			"format":"date-time",
+			"required":true
+		},
+		"documentation": {
+			"type":"string",
+			"format":"uri",
+			"required":true
+		},
+		"schema_version": {
+			"type":"string",
+			"required":true
+		},
+		"schema": {
+			"type":"string",
+			"format":"uri",
+			"required":true
+		},
+		"seasons": {
+			"type":"object",
+			"required":true,
+			"properties":{
+				"season": {
+					"type":"object",
+					"required":true,
+					"properties":{
+						"comment": {
+							"type":"string",
+							"required":true
+						},
+						"method_rules": {
+							"type":"array",
+							"required":false,
+							"items":
+								{
+									"type":"string",
+									"required":true
+								}
+							
+
+						},
+						"method": {
+							"type":"string",
+							"required":true
+						},
+						"range": {
+							"type":"object",
+							"required":false,
+							"properties":{
+								"1": {
+									"type":"object",
+									"required":false,
+									"properties":{
+										"places": {
+											"type":"object",
+											"required":false,
+											"properties":{
+												"Chesapeake": {
+													"type":"object",
+													"required":false,
+													"properties":{
+														"fips_code": {
+															"type":"number",
+															"required":false
+														},
+														"gnis_id": {
+															"type":"number",
+															"required":false
+														}
+													}
+												},
+												"Suffolk": {
+													"type":"object",
+													"required":false,
+													"properties":{
+														"fips_code": {
+															"type":"number",
+															"required":false
+														},
+														"gnis_id": {
+															"type":"number",
+															"required":false
+														}
+													}
+												},
+												"Virginia Beach": {
+													"type":"object",
+													"required":false,
+													"properties":{
+														"fips_code": {
+															"type":"number",
+															"required":false
+														},
+														"gnis_id": {
+															"type":"number",
+															"required":false
+														}
+													}
+												}
+											}
+										},
+										"season": {
+											"type":"object",
+											"required":false,
+											"properties":{
+												"date": {
+													"type":"object",
+													"required":false,
+													"properties":{
+														"ends": {
+															"type":"string",
+															"required":false
+														},
+														"starts": {
+															"type":"string",
+															"required":false
+														}
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"species": {
+			"type":"object",
+			"required":false,
+			"properties":{
+				"bova_id": {
+					"type":"number",
+					"required":false
+				},
+				"name": {
+					"type":"string",
+					"required":false
+				},
+				"taxonomy": {
+					"type":"string",
+					"required":false
+				},
+				"url": {
+					"type":"string",
+					"required":false
+				}
+			}
+		},
+		"state": {
+			"type":"string",
+			"minLength":2,
+			"maxLength":2,
+			"pattern":"([A-Z]{2})",
+			"required": false
+		}
+	}
+}
