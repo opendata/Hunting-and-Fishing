@@ -33,7 +33,7 @@ var species = fishes.forEach(function(f) {
 					"date_expires": "2014-06-30",
 					"schema": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/fishing.json",
 					"schema_version": "1.0a",
-					"documentation": "",
+					"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 					"species": {
 						"name": f.CommonName,
 						"taxonomy": f.ScientificName,

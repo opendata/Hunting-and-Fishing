@@ -5,7 +5,7 @@
 	"date_expires": "2015-06-30T23:59:59-05:00",
 	"schema": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/fishing.json",
 	"schema_version": "1.0a",
-	"documentation": "",
+	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
 		"name": "Walleye",
 		"taxonomy": "Sander vitreus",
