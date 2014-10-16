@@ -3,7 +3,7 @@
 	"agency": "Department of Game and Inland Fisheries",
 	"date_effective": "2014-07-01T00:00:00-05:00",
 	"date_expires": "2015-06-30T23:59:59-05:00",
-	"schema": "",
+	"schema": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json",
 	"schema_version": "1.0a",
 	"documentation": "",
 	"species": {
