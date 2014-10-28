@@ -1,0 +1,37 @@
+{
+	"state": "VA",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01T00:00:00-05:00",
+	"date_expires": "2015-06-30T23:59:59-05:00",
+	"conformsTo": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json",
+	"schema_version": "1.0a",
+	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
+	"species": {
+		"name": "feral hog",
+		"aliases": ["wild hog", "wild pig", "wild boar", "Russian boar"],
+		"taxonomy": "Sus scrofa",
+		"url": "http://www.dgif.virginia.gov/wildlife/feral-hogs/hunting-faq/" 
+	},
+	"seasons": {
+		"season": {
+			"method": ["traps", "modern firearms", "muzzleloading firearms", "archery tackle"],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51,
+							"restriction": "on private lands"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-07-01",
+							"ends": "2015-06-30"
+						}
+					}
+				}
+			}
+		}
+	}
+}
