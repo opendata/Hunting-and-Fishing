@@ -1,0 +1,71 @@
+{
+	"state": "VA",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01T00:00:00-05:00",
+	"date_expires": "2015-06-30T23:59:59-05:00",
+	"conformsTo": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json",
+	"schema_version": "1.0a",
+	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
+	"species": {
+		"name": "groundhog",
+		"aliases": ["woodchuck", "whistle-pig", "land-beaver"],
+		"taxonomy": "Marmota monax monax",
+		"bova_id": 50054,
+		"url": "http://www.dgif.virginia.gov/hunting/regulations/smallgame.asp" 
+	},
+	"seasons": {
+		"season": {
+			"method": ["traps", "modern firearms", "muzzleloading firearms", "archery tackle"],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51,
+							"restriction": "on private lands"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-07-01",
+							"ends": "2015-06-30"
+						}
+					}
+				},
+				"2": {
+					"places": {
+						"National Forest Lands": {},
+						"Department Lands": {}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-09-01",
+							"ends": "2015-03-10"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-04-11",
+							"ends": "2015-05-03"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "12:00:00"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-05-04",
+							"ends": "2015-05-16"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "sunset"
+						}
+					},
+					"exceptions": "during the spring squirrel season, only on Department lands that are open for spring squirrel hunting; not permitted on National Forest Lands during the spring squirrel season"
+				}
+			}
+		}
+	}
+}
