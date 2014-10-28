@@ -7,7 +7,7 @@
 	"schema_version": "1.0a",
 	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
-		"name": "Deer",
+		"name": "deer",
 		"taxonomy": "Odocoileus virginianus",
 		"bova_id": "050108",
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050108"

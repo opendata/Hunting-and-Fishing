@@ -9,59 +9,59 @@
 	"title": "Hunting Species",
 	"species": [
 		{			
-			"name": "Bear",
+			"name": "bear",
 			"file": "bear.json"
 		},
 		{
-			"name": "Striped skunk",
+			"name": "striped skunk",
 			"file": "skunk.json"
 		},
 		{
-			"name": "Opossum",
+			"name": "opossum",
 			"file": "opossum.json"
 		},
 		{
-			"name": "Crow",
+			"name": "crow",
 			"file": "crow.json"
 		},
 		{
-			"name": "Bobcat",
+			"name": "bobcat",
 			"file": "bobcat.json"
 		},
 		{
-			"name": "Deer",
+			"name": "deer",
 			"file": "deer.json"
 		},
 		{
-			"name": "Grouse",
+			"name": "grouse",
 			"file": "grouse.json"
 		},
 		{
-			"name": "Mink",
+			"name": "mink",
 			"file": "mink.json"
 		},
 		{
-			"name": "Muskrat",
+			"name": "muskrat",
 			"file": "muskrat.json"
 		},
 		{
-			"name": "Otter",
+			"name": "otter",
 			"file": "otter.json"
 		},
 		{
-			"name": "Nutria",
+			"name": "nutria",
 			"file": "nutria.json"
 		},
 		{
-			"name": "Rabbit",
+			"name": "rabbit",
 			"file": "rabbit.json"
 		},
 		{
-			"name": "Weasel",
+			"name": "weasel",
 			"file": "weasel.json"
 		},
 		{
-			"name": "Beaver",
+			"name": "beaver",
 			"file": "beaver.json"
 		}
 	]

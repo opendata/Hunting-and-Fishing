@@ -7,7 +7,7 @@
 	"schema_version": "1.0a",
 	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
-		"name": "Bear",
+		"name": "bear",
 		"taxonomy": "Ursus americanus",
 		"bova_id": 50037,
 		"url": "http://www.dgif.virginia.gov/hunting/regulations/bear.asp"

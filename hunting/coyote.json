@@ -7,7 +7,7 @@
 	"schema_version": "1.0a",
 	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
-		"name": "Coyote",
+		"name": "coyote",
 		"taxonomy": "Canis latrans",
 		"bova_id": 50125,
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050125"

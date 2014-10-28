@@ -7,7 +7,7 @@
 	"schema_version": "1.0a",
 	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
-		"name": "Grouse",
+		"name": "grouse",
 		"taxonomy": "Bonasa umbellus",
 		"bova_id": 40099,
 		"url": "http://www.dgif.virginia.gov/wildlife/grouse/"

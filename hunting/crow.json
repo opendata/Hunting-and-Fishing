@@ -7,7 +7,7 @@
 	"schema_version": "1.0a",
 	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
-		"name": "Crow",
+		"name": "crow",
 		"taxonomy": "Corvus brachyrhynchos",
 		"bova_id": 40255
 	},

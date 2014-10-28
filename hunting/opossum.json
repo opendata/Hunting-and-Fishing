@@ -7,7 +7,7 @@
 	"schema_version": "1.0a",
 	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
-		"name": "Opossum",
+		"name": "opossum",
 		"taxonomy": "Didelphis virginiana",
 		"bova_id": 50001,
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050001"
