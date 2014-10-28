@@ -14,7 +14,7 @@
 	},
 	"seasons": {
 		"season": {
-			"method": ["modern_firearms", "archery", "crossbows", "muzzleloading_firearms"],
+			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
 			"range": {
 				"1": {
 					"places": {
