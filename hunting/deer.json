@@ -41,6 +41,189 @@
 				},
 				"2": {
 					"places": {
+						"Alleghany": {
+							"gnis_id": 1673675,
+							"fips_code": "99005"
+						},
+						"Augusta": {
+							"gnis_id": 1480098,
+							"fips_code": "99015"
+						},
+						"Bath": {
+							"gnis_id": 1673638,
+							"fips_code": "99017"
+						},
+						"Bland": {
+							"gnis_id": 1494613,
+							"fips_code": "99021"
+						},
+						"Botetourt": {
+							"gnis_id": 1674418,
+							"fips_code": "99023"
+						},
+						"Bristol": {
+							"gnis_id": 1498416,
+							"fips_code": "09816"
+						},
+						"Buchanan": {
+							"gnis_id": 1497431,
+							"fips_code": "99027"
+						},
+						"Carroll": {
+							"gnis_id": 1480108,
+							"fips_code": "99035"
+						},
+						"Clifton Forge": {
+							"gnis_id": 1492780,
+							"fips_code": "17440"
+						},
+						"Covington": {
+							"gnis_id": 1789069,
+							"fips_code": "19728"
+						},
+						"Craig": {
+							"gnis_id": 1673664,
+							"fips_code": "99045"
+						},
+						"Dickenson": {
+							"gnis_id": 1497376,
+							"fips_code": "99051"
+						},
+						"Frederick": {
+							"gnis_id": 1480124,
+							"fips_code": "99069",
+							"restriction": "except on private lands"
+						},
+						"Galax": {
+							"gnis_id": 1498426,
+							"fips_code": "30208"
+						},
+						"Giles": {
+							"gnis_id": 1494551,
+							"fips_code": "99071"
+						},
+						"Grayson": {
+							"gnis_id": 1501196,
+							"fips_code": "99077"
+						},
+						"Harrisonburg": {
+							"gnis_id": 1498563,
+							"fips_code": "35624"
+						},
+						"Highland": {
+							"gnis_id": 1673774,
+							"fips_code": "99091"
+						},
+						"Lee": {
+							"gnis_id": 1496538,
+							"fips_code": "99105"
+						},
+						"Lexington": {
+							"gnis_id": 1789071,
+							"fips_code": "45512"
+						},
+						"Montgomery": {
+							"gnis_id": 1674630,
+							"fips_code": "99121"
+						},
+						"Norton": {
+							"gnis_id": 1498434,
+							"fips_code": "57688"
+						},
+						"Page": {
+							"gnis_id": 1500440,
+							"fips_code": "99139"
+						},
+						"Pulaski": {
+							"gnis_id": 1501465,
+							"fips_code": "99155"
+						},
+						"Radford": {
+							"gnis_id": 1498438,
+							"fips_code": "65392"
+						},
+						"Roanoke": {
+							"gnis_id": 1480165,
+							"fips_code": "99161"
+						},
+						"Roanoke (city)": {
+							"gnis_id": "1499971",
+							"fips_code": "68000"
+						},
+						"Rockbridge": {
+							"gnis_id": 1480166,
+							"fips_code": "99163"
+						},
+						"Rockingham": {
+							"gnis_id": 1488970,
+							"fips_code": "99165"
+						},
+						"Russell": {
+							"gnis_id": 1497573,
+							"fips_code": "99167"
+						},
+						"Salem": {
+							"gnis_id": 1789074,
+							"fips_code": "70000"
+						},
+						"Scott": {
+							"gnis_id": 1498172,
+							"fips_code": "99169"
+						},
+						"Shenandoah": {
+							"gnis_id": 1673918,
+							"fips_code": "99171"
+						},
+						"Smyth": {
+							"gnis_id": 1500545,
+							"fips_code": "99173"
+						},
+						"Staunton": {
+							"gnis_id": 1789075,
+							"fips_code": "75216"
+						},
+						"Tazewell": {
+							"gnis_id": 1497748,
+							"fips_code": "99185"
+						},
+						"Warren": {
+							"gnis_id": 1674058,
+							"fips_code": "99187"
+						},
+						"Washington": {
+							"gnis_id": 1498359,
+							"fips_code": "99191"
+						},
+						"Waynesboro": {
+							"gnis_id": 1498443,
+							"fips_code": "83680"
+						},
+						"Winchester": {
+							"gnis_id": 1789077,
+							"fips_code": "86720"
+						},
+						"Wise": {
+							"gnis_id": 1496656,
+							"fips_code": "99195"
+						},
+						"Wythe": {
+							"gnis_id": 1501379,
+							"fips_code": "99197"
+						},
+						"Amherst": {
+							"gnis_id": "TK",
+							"fips_code": "TK",
+							"restriction": "west of Route 29"
+						},
+						"Bedford": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Nelson": {
+							"gnis_id": "TK",
+							"fips_code": "TK",
+							"restriction": "west of Route 151"
+						}
 					},
 					"season": {
 						"date": {
@@ -103,11 +286,63 @@
 					"season": {
 						"date": {
 							"starts": "2014-12-14",
-							"ends": "2014-01-03"
+							"ends": "2015-01-03"
 						}
 					}
 				}
 			}
-		}		
+		},
+		"season": {
+			"method": "archery",
+			"method_rules": [
+				"During this season only antlerless deer may be taken."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Arlington": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Fairfax": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Loudoun": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Prince William": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-03-30",
+							"ends": "2015-04-26"
+						}
+					},
+					"comment": "Including the cities and towns within each county."
+				}
+			}
+		},
+		"season": {
+			"method": "archery",
+			"method_rules": [
+				"During this season only antlerless deer may be taken.",
+				"Archery or crossbow deer hunters hunting during the early urban archery deer season are required to wear blaze orange on the Youth and Apprentice Deer Hunting Day Saturday, September 27. For exceptions to the blaze orange requirement see the “Hunting and Trapping in Virginia” guide",
+				"Lists of properties available for hunting are not maintained by the Department or local governments.",
+				"Go to http://www.huntfishva.com/hunting/urban-archery for local restrictions and other urban archery information.",
+				"All other “normal” deer regulations apply (e.g., daily and season bag limits, tagging and checking, DMAP, DCAP, EAB, special antler restrictions, etc.)"
+			],
+			"range": {
+				"1": {
+					"places": {
+						"TK": "TK"
+					}
+				}
+			}
+		}
 	}
 }
