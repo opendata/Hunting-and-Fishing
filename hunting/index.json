@@ -59,6 +59,10 @@
 		{
 			"name": "Weasel",
 			"file": "weasel.json"
+		},
+		{
+			"name": "Beaver",
+			"file": "beaver.json"
 		}
 	]
 }
