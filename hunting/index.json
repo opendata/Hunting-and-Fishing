@@ -67,6 +67,10 @@
 		{
 			"name": "groundhog",
 			"file": "groundhog.json"
+		},
+		{
+			"name": "feral hogs",
+			"file": "feral_hogs.json"
 		}
 	]
 }
