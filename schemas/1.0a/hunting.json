@@ -69,50 +69,6 @@
 										"places": {
 											"type":"object",
 											"required":false,
-											"properties":{
-												"Chesapeake": {
-													"type":"object",
-													"required":false,
-													"properties":{
-														"fips_code": {
-															"type":"number",
-															"required":false
-														},
-														"gnis_id": {
-															"type":"number",
-															"required":false
-														}
-													}
-												},
-												"Suffolk": {
-													"type":"object",
-													"required":false,
-													"properties":{
-														"fips_code": {
-															"type":"number",
-															"required":false
-														},
-														"gnis_id": {
-															"type":"number",
-															"required":false
-														}
-													}
-												},
-												"Virginia Beach": {
-													"type":"object",
-													"required":false,
-													"properties":{
-														"fips_code": {
-															"type":"number",
-															"required":false
-														},
-														"gnis_id": {
-															"type":"number",
-															"required":false
-														}
-													}
-												}
-											}
 										},
 										"season": {
 											"type":"object",
