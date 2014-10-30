@@ -26,7 +26,7 @@
 			"type":"string",
 			"required":true
 		},
-		"schema": {
+		"conformsTo": {
 			"type":"string",
 			"format":"uri",
 			"required":true
