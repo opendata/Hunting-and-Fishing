@@ -9,7 +9,7 @@
 	"species": {
 		"name": "nutria",
 		"taxonomy": "Myocastor coypus",
-		"bova_id": 50053,
+		"bova_id": "50053",
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050053" 
 	},
 	"seasons": {

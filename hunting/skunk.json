@@ -9,7 +9,7 @@
 	"species": {
 		"name": "striped skunk",
 		"taxonomy": "Mephitis mephitis mephitis",
-		"bova_id": 50048,
+		"bova_id": "50048",
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050048"
 	},
 	"seasons": {

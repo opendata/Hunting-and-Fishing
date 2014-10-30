@@ -9,7 +9,7 @@
 	"species": {
 		"name": "grouse",
 		"taxonomy": "Bonasa umbellus",
-		"bova_id": 40099,
+		"bova_id": "40099",
 		"url": "http://www.dgif.virginia.gov/wildlife/grouse/"
 	},
 	"seasons": {

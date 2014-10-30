@@ -9,7 +9,7 @@
 	"species": {
 		"name": "coyote",
 		"taxonomy": "Canis latrans",
-		"bova_id": 50125,
+		"bova_id": "50125",
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050125"
 	},
 	"seasons": {

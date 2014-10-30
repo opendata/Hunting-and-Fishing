@@ -10,7 +10,7 @@
 		"name": "groundhog",
 		"aliases": ["woodchuck", "whistle-pig", "land-beaver"],
 		"taxonomy": "Marmota monax monax",
-		"bova_id": 50054,
+		"bova_id": "50054",
 		"url": "http://www.dgif.virginia.gov/hunting/regulations/smallgame.asp" 
 	},
 	"seasons": {

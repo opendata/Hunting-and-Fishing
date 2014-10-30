@@ -11,42 +11,42 @@
 		"members": {
 			"black-tailed jackrabbit": {
 				"taxonomy": "Lepus californicus",
-				"bova_id": 50132,
+				"bova_id": "50132",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50132"
 			},
 			"showshoe hare": {
 				"taxonomy": "Lepus americanus virginianus",
-				"bova_id": 50102,
+				"bova_id": "50102",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50102"
 			},
 			"eastern cottontail": {
 				"taxonomy": "Sylvilagus floridanus mallurus",
-				"bova_id": 50103,
+				"bova_id": "50103",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50103"
 			},
 			"Smith's Island cottontail": {
 				"taxonomy": "Sylvilagus floridanus hitchensis",
-				"bova_id": 50104,
+				"bova_id": "50104",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50104"
 			},
 			"Mearn's eastern cottontail": {
 				"taxonomy": "Sylvilagus floridanus mearnsii",
-				"bova_id": 50105,
+				"bova_id": "50105",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50105"
 			},
 			"Appalachian cottontail": {
 				"taxonomy": "Sylvilagus obscurus",
-				"bova_id": 50106,
+				"bova_id": "50106",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50106"
 			},
 			"marsh rabbit": {
 				"taxonomy": "Sylvilagus palustris palustris",
-				"bova_id": 50107,
+				"bova_id": "50107",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50107"
 			},
 			"snowshoe hare": {
 				"taxonomy": "Lepus americanus",
-				"bova_id": 50129,
+				"bova_id": "50129",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50129"
 			}
 		}

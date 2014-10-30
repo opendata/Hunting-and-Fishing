@@ -11,12 +11,12 @@
 		"members": {
 			"least weasel": {
 				"taxonomy": "Mustela nivalis allegheniensis",
-				"bova_id": 50040,
+				"bova_id": "50040",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050040"
 			},
 			"long-tailed weasel": {
 				"taxonomy": "Mustela frenata noveboracensis",
-				"bova_id": 50041,
+				"bova_id": "50041",
 				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050041"
 			}
 		}

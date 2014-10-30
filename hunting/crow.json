@@ -9,7 +9,7 @@
 	"species": {
 		"name": "crow",
 		"taxonomy": "Corvus brachyrhynchos",
-		"bova_id": 40255
+		"bova_id": "40255"
 	},
 	"seasons": {
 		"season": {

@@ -9,7 +9,7 @@
 	"species": {
 		"name": "bobcat",
 		"taxonomy": "Lynx rufus rufus",
-		"bova_id": 50051,
+		"bova_id": "50051",
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050051" 
 	},
 	"seasons": {

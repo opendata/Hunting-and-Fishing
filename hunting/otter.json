@@ -9,7 +9,7 @@
 	"species": {
 		"name": "otter",
 		"taxonomy": "Lontra canadensis laxatina",
-		"bova_id": 50045,
+		"bova_id": "50045",
 		"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050045" 
 	},
 	"seasons": {

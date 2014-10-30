@@ -103,7 +103,7 @@
 			"required":false,
 			"properties":{
 				"bova_id": {
-					"type":"number",
+					"type":"string",
 					"required":false
 				},
 				"name": {
