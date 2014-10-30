@@ -71,6 +71,14 @@
 		{
 			"name": "feral hogs",
 			"file": "feral_hogs.json"
+		},
+		{
+			"name": "quail",
+			"file": "quail.json"
+		},
+		{
+			"name": "pheasant",
+			"file": "pheasant.json"
 		}
 	]
 }
