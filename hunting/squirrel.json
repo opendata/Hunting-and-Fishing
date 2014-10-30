@@ -1,0 +1,99 @@
+{
+	"state": "VA",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01T00:00:00-05:00",
+	"date_expires": "2015-06-30T23:59:59-05:00",
+	"conformsTo": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json",
+	"schema_version": "1.0a",
+	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
+	"species": {
+		"name": "squirrel",
+		"members": [
+			{
+				"name": "eastern gray squirrel",
+				"taxonomy": "Sciurus carolinensis carolinensis",
+				"bova_id": 50057,
+				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50057"
+			},
+			{
+				"name": "red squirrel",
+				"taxonomy": "Tamiasciurus hudsonicus abieticola",
+				"bova_id": 50060,
+				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=50060"
+			},
+			{
+				"name": "fox squirrel",
+				"comment": "there are four kinds of fox squirrels -- which one do we want?",
+				"taxonomy": "??????",
+				"bova_id": "TK",
+				"url": "TK"
+			}
+		]
+	},
+	"seasons": {
+		"season": {
+			"method": ["traps", "modern firearms", "muzzleloading firearms", "archery tackle"],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-09-06",
+							"ends": "2015-02-28"
+						}
+					}
+				}
+			},
+			"comment": "Gray and red squirrels only."
+		},
+		"season": {
+			"method": ["traps", "modern firearms", "muzzleloading firearms", "archery tackle"],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-09-06",
+							"ends": "2015-01-31"
+						}
+					}
+				}
+			},
+			"comment": "Fox squirrels only."
+		},
+		"season": {
+			"method": ["traps", "modern firearms", "muzzleloading firearms", "archery tackle"],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"exceptions": {
+						"National Forest lands": {}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-06-06",
+							"ends": "2015-06-20"
+						}
+					}
+				}
+			}
+		},
+		"bag_limit": "All squirrels combined—six per day.",
+		"comment": "Gray and red squirrels may be harvested statewide, unless otherwise posted, and on the following wildlife management areas: Amelia, Big Survey, Big Woods, Briery Creek, Cavalier, Chickahominy, Dick Cross, Doe Creek, Fairystone (including Fairystone State Park and Philpott Reservoir), Featherfin, Gathright, Goshen, Hardware River, Havens, Highland, Hog Island (Carlisle Tract only), Horsepen, James River, Lake Robertson, Little North Mountain, Mattaponi, Merrimac Farm, Pettigrew, Phelps, Powhatan (including the Goochland Tract), Rapidan, Short Hills, Stewarts Creek, G. Richard Thompson, Turkeycock Mountain, and White Oak Mountain. Fox squirrels may be harvested on all lands, unless otherwise posted, in all counties with an open fox squirrel season during the fall squirrel season and on the following wildlife management areas: Big Survey, Gathright, Goshen, Havens, Highland, Lake Robertson, Little North Mountain, Merrimac Farm, Phelps, Rapidan, Short Hills, Stewarts Creek, and G. Richard Thompson."
+	}
+}
