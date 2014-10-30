@@ -108,7 +108,7 @@
 				},
 				"name": {
 					"type":"string",
-					"required":false
+					"required":true
 				},
 				"taxonomy": {
 					"type":"string",
@@ -118,6 +118,28 @@
 					"type":"string",
 					"required":false
 				}
+			},
+			"species": {
+				"type":"array",
+				"required":false,
+				"properties":{					
+					"bova_id": {
+						"type":"string",
+						"required":true
+					},
+					"name": {
+						"type":"string",
+						"required":true
+					},
+					"taxonomy": {
+						"type":"string",
+						"required":true
+					},
+					"url": {
+						"type":"string",
+						"required":false
+					}
+				}
 			}
 		},
 		"state": {
@@ -125,7 +147,7 @@
 			"minLength":2,
 			"maxLength":2,
 			"pattern":"([A-Z]{2})",
-			"required": false
+			"required": true
 		}
 	}
 }
