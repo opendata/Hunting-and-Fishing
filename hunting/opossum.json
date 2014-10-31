@@ -29,6 +29,68 @@
 							"ends": "2015-03-10"
 						}
 					}
+				},
+				"2": {
+					"places": {
+						"any city": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"any town": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Arlington": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Chesterfield": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Fairfax": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Henrico": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"James City": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Loudoun": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Prince William": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Spotsylvania": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Stafford": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"Roanoke": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						},
+						"York": {
+							"gnis_id": "TK",
+							"fips_code": "TK"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-07-01",
+							"ends": "2015-06-30"
+						}
+					}
 				}
 			}
 		}
