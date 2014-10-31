@@ -1,0 +1,658 @@
+{
+	"state": "VA",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01T00:00:00-05:00",
+	"date_expires": "2015-06-30T23:59:59-05:00",
+	"conformsTo": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json",
+	"schema_version": "1.0a",
+	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
+	"species": {
+		"name": "turkey",
+		"aliases": ["wild turkey"],
+		"taxonomy": "Meleagris gallopavo silvestris",
+		"bova_id": "40102",
+		"url": "http://www.dgif.virginia.gov/wildlife/turkey/"
+	},
+	"seasons": {
+		"season": {
+			"method": "archery tackle",
+			"method_rules": [
+				"Archery tackle (including crossbows) only.",
+				"Decoys and blinds may be used.",
+				"Broadhead widths must be at least 7/8-inch wide or expand upon impact to 7/8-inch.",
+				"Bows must be capable of propelling a broadhead arrow at least 125 yards.",
+				"It is unlawful to use dogs when hunting with archery tackle during the archery season.",
+				"It is unlawful to have a firearm in possession (see exception for valid concealed handgun permit holders."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-04",
+							"ends": "2015-11-08"
+						}
+					}
+				}
+			}
+		},
+		"season": {
+			"method": "archery tackle",
+			"method_rules": [
+				"Statewide in counties, cities, and areas with a fall turkey season",
+				"Resident and nonresident youth hunters 15 years of age and under or holders of a valid apprentice hunting license, when in compliance with all applicable laws and licenses, may hunt when accompanied and directly supervised by an adult who has a valid Virginia hunting license or is exempt from purchasing a hunting license. Nonresident youth of any age need to have the appropriate licenses.",
+				"Hunting hours are from one half hour before sunrise to one half hour after sunset.",
+				"Bag limit is one per day either sex.",
+				"Turkeys harvested by youth or apprentice hunters count against their daily and season bag limit.",
+				"Adult hunters accompanying youth or apprentice turkey hunters: do not need a bear, deer, turkey license; may assist with calling; shall not carry or discharge a firearm; shall maintain close visual and verbal contact with and provide adequate direction to the youth or apprentice hunter."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-18",
+							"ends": "2014-10-18"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "30 minutes after sunset"
+						}
+					}
+				}
+			},
+			"comment": "Youth and Apprentice Fall Turkey Hunting Day",
+			"bag_limit": "One per day, either sex."
+		},
+		"season": {
+			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
+			"method_rules": [
+				"Decoys and blinds may be used.",
+				"Dogs may be used.",
+				"Unlawful to use electronic calls."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Amelia": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Amherst": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Appomattox": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Bedford": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Bland": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Botetourt": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Brunswick": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Buckingham": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Campbell": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Caroline": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Carroll": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Charlotte": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Chesterfield": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Clarke": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Craig": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Culpeper": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Cumberland": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Dickenson": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Dinwiddie": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Essex": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Fairfax": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Fauquier": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Floyd": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Fluvanna": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Franklin": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Frederick": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Giles": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Goochland": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Grayson": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Greensville": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Halifax": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Hanover": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Henrico": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Henry": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"King and Queen": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"King William": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Lee": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Loudoun": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Louisa": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Lunenburg": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Mecklenburg": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Montgomery": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Nelson": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Nottoway": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Patrick": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Pittsylvania": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Powhatan": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Prince Edward": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Prince William": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Pulaski": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Rappahannock": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Roanoke": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Rockbridge": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Russell": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Scott": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Shenandoah": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Smyth": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Spotsylvania": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Stafford": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Tazewell": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Washington": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Wise": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Wythe": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Camp Peary": {
+							"gnis_id": "",
+							"fips_code": ""
+						}
+					},
+					"exceptions": {
+						"Arlington": {
+							"NOTE TO SELF": "The county, not the city",
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Chesapeake": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Hampton": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Newport News": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Norfolk": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Portsmouth": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Virginia Beach": {
+							"gnis_id": "",
+							"fips_code": ""
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-25",
+							"ends": "2014-11-07"
+						},
+						"date": {
+							"starts": "2014-11-27",
+							"ends": "2014-11-27"
+						},
+						"date": {
+							"starts": "2014-12-1",
+							"ends": "2014-12-27"
+						},
+						"date": {
+							"starts": "2015-01-10",
+							"ends": "2015-01-24"
+						}
+					}
+				}
+			}
+		},
+		"season": {
+			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
+			"method_rules": [
+				"Decoys and blinds may be used.",
+				"Dogs may be used.",
+				"Unlawful to use electronic calls."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Accomack": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Buchanan": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Charles City": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Gloucester": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Isle of Wight": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"James City": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"King George": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Lancaster": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Matthews": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Middlesex": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"New Kent": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Northampton": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Northumberland": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Prince George": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Richmond": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Southampton": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Surry": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Sussex": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Westmoreland": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"York": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"City of Suffolk": {
+							"gnis_id": "",
+							"fips_code": ""
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-25",
+							"ends": "2014-11-07"
+						},
+						"date": {
+							"starts": "2014-11-27",
+							"ends": "2014-11-27"
+						},
+						"date": {
+							"starts": "2014-12-01",
+							"ends": "2014-12-13"
+						},
+					},
+					"exceptions": {
+						"Camp Peary": {
+							"gnis_id": "",
+							"fips_code": ""
+						}
+					}
+				}
+			}
+		},
+		"season": {
+			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
+			"method_rules": [
+				"Decoys and blinds may be used.",
+				"Dogs may be used.",
+				"Unlawful to use electronic calls."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Albemarle": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Allegheny": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Augusta": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Bath": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Greene": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Highland": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Madison": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Orange": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Page": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Rockingham": {
+							"gnis_id": "",
+							"fips_code": ""
+						},
+						"Warren": {
+							"gnis_id": "",
+							"fips_code": ""
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-25",
+							"ends": "2014-11-07"
+						},
+						"date": {
+							"starts": "2014-11-27",
+							"ends": "2014-11-27"
+						}
+					}
+				}
+			}
+		},
+		"season": {
+			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
+			"method_rules": [
+				"Resident and nonresident youth hunters 15 years of age and under or holders of a valid apprentice hunting license, when in compliance with all applicable laws and licenses, may hunt when accompanied and directly supervised by an adult who has a valid Virginia hunting license or is exempt from purchasing a hunting license. Nonresident youth of any age need to have the appropriate licenses.",
+				"Hunting hours are from ½ hour before sunrise to sunset.",
+				"Turkeys harvested by youth or apprentice hunters count against their daily and season bag limit.",
+				"Adult hunters accompanying youth or apprentice turkey hunters: do not need a bear, deer, turkey license on this day; may assist with calling; shall not carry or discharge a firearm; shall maintain close visual and verbal contact with and provide adequate direction to the youth or apprentice hunter.",
+				"Decoys and blinds may be used.",
+				"It is unlawful to use electronic calls.",
+				"It is unlawful to use dogs during spring turkey season.",
+				"When using a shotgun it is unlawful to use or have in possession any shot larger than number 2 fine shot during spring turkey season."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-18",
+							"ends": "2014-10-18"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "30 minutes after sunset"
+						}
+					}
+				}
+			},
+			"comment": "Youth and Apprentice Spring Turkey Hunting Day",
+			"bag_limit": "One per day, bearded birds only"
+		},
+		"season": {
+			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
+			"method_rules": [
+				"Decoys and blinds may be used.",
+				"It is unlawful to use electronic calls.",
+				"It is unlawful to use dogs during spring turkey season.",
+				"When using a shotgun it is unlawful to use or have in possession any shot larger than number 2 fine shot during spring turkey season."
+			],
+			"range": {
+				"1": {
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-04-11",
+							"ends": "2015-05-03"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "12:00:00"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2015-05-04",
+							"ends": "2015-05-16"
+						},
+						"time": {
+							"starts": "30 minutes before sunrise",
+							"ends": "sunset"
+						}
+					}
+				}
+			},
+			"bag_limit": "One per day, bearded turkeys only. Hunters may take one, two, or three bearded turkeys depending on how many turkeys were taken in the fall season."
+		}
+	}
+}
