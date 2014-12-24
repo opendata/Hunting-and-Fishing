@@ -361,6 +361,235 @@
 					}
 				}
 			]
+		},
+		"season": {
+			"name": "Early Muzzleloader Season",
+			"method": "muzzleloader",
+			"method_rules": [
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
+				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
+				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
+				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
+				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
+			],
+			"range": [
+				{
+					"places": {
+						"TK": "TK"
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting East of the Blue Ridge"
+			"method": "muzzleloader",
+			"method_rules": [
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
+				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
+				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
+				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
+				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
+			],
+			"range": [
+				{
+					"places": {
+						"TK": "TK"
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting West of the Blue Ridge"
+			"method": "muzzleloader",
+			"method_rules": [
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
+				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
+				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
+				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
+				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
+			],
+			"range": [
+				{
+					"places": {
+						"TK": "TK"
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Late Muzzleloader Season East of the Blue Ridge"
+			"method": "muzzleloader",
+			"method_rules": [
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
+				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
+				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
+				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
+				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
+			],
+			"range": [
+				{
+					"places": {
+						"TK": "TK"
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting East of the Blue Ridge"
+			"method": "muzzleloader",
+			"method_rules": [
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
+				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
+				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
+				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
+				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
+			],
+			"range": [
+				{
+					"places": {
+						"TK": "TK"
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Late Muzzleloader Season West of the Blue Ridge"
+			"method": "muzzleloader",
+			"method_rules": [
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
+				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
+				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
+				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
+				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
+			],
+			"range": [
+				{
+					"places": {
+						"TK": "TK"
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting West of the Blue Ridge"
+			"method": "muzzleloader",
+			"method_rules": [
+				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
+				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
+				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
+				"Flintlock, percussion, or electronic ignitions are permitted.",
+				"Must use at least 50 grains of black powder or black powder equivalent.",
+				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
+				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
+				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
+				"Scopes are permitted.",
+				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
+				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
+				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
+				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
+				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
+			],
+			"range": [
+				{
+					"places": {
+						"TK": "TK"
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days:",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Early and Late Anterless-only Firearms Deer Seasons",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms"
 		}
 	}
 }
