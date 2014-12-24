@@ -16,8 +16,8 @@
 	"seasons": {
 		"season": {
 			"method": "firearm",
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -31,7 +31,7 @@
 						}
 					}
 				},
-				"2": {
+				{
 					"places": {
 						"any city": {
 							"gnis_id": "TK",
@@ -93,7 +93,7 @@
 						}
 					}
 				}
-			}
+			]
 		}
 	}
 }

@@ -26,8 +26,8 @@
 	"seasons": {
 		"season": {
 			"method": "traps",
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -41,7 +41,7 @@
 						}
 					}
 				}
-			}
+			]
 		}
 	}
 }

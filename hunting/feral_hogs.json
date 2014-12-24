@@ -15,8 +15,8 @@
 	"seasons": {
 		"season": {
 			"method": ["traps", "modern firearms", "muzzleloading firearms", "archery tackle"],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -31,7 +31,7 @@
 						}
 					}
 				}
-			}
+			]
 		}
 	}
 }

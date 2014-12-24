@@ -24,8 +24,8 @@
 				"It is unlawful to use dogs when hunting with archery tackle during the archery season.",
 				"It is unlawful to have a firearm in possession (see exception for valid concealed handgun permit holders."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -39,7 +39,7 @@
 						}
 					}
 				}
-			}
+			]
 		},
 		"season": {
 			"method": "archery tackle",
@@ -51,8 +51,8 @@
 				"Turkeys harvested by youth or apprentice hunters count against their daily and season bag limit.",
 				"Adult hunters accompanying youth or apprentice turkey hunters: do not need a bear, deer, turkey license; may assist with calling; shall not carry or discharge a firearm; shall maintain close visual and verbal contact with and provide adequate direction to the youth or apprentice hunter."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -70,7 +70,7 @@
 						}
 					}
 				}
-			},
+			],
 			"comment": "Youth and Apprentice Fall Turkey Hunting Day",
 			"bag_limit": "One per day, either sex."
 		},
@@ -81,8 +81,8 @@
 				"Dogs may be used.",
 				"Unlawful to use electronic calls."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Amelia": {
 							"gnis_id": "",
@@ -391,7 +391,7 @@
 						}
 					}
 				}
-			}
+			]
 		},
 		"season": {
 			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
@@ -400,8 +400,8 @@
 				"Dogs may be used.",
 				"Unlawful to use electronic calls."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Accomack": {
 							"gnis_id": "",
@@ -509,8 +509,8 @@
 						}
 					}
 				}
-			}
-		},
+			]
+		],
 		"season": {
 			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
 			"method_rules": [
@@ -518,8 +518,8 @@
 				"Dogs may be used.",
 				"Unlawful to use electronic calls."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Albemarle": {
 							"gnis_id": "",
@@ -577,7 +577,7 @@
 						}
 					}
 				}
-			}
+			]
 		},
 		"season": {
 			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
@@ -591,8 +591,8 @@
 				"It is unlawful to use dogs during spring turkey season.",
 				"When using a shotgun it is unlawful to use or have in possession any shot larger than number 2 fine shot during spring turkey season."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -610,7 +610,7 @@
 						}
 					}
 				}
-			},
+			],
 			"comment": "Youth and Apprentice Spring Turkey Hunting Day",
 			"bag_limit": "One per day, bearded birds only"
 		},
@@ -622,8 +622,8 @@
 				"It is unlawful to use dogs during spring turkey season.",
 				"When using a shotgun it is unlawful to use or have in possession any shot larger than number 2 fine shot during spring turkey season."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -651,7 +651,7 @@
 						}
 					}
 				}
-			},
+			],
 			"bag_limit": "One per day, bearded turkeys only. Hunters may take one, two, or three bearded turkeys depending on how many turkeys were taken in the fall season."
 		}
 	}

@@ -14,6 +14,7 @@
 	},
 	"seasons": {
 		"season": {
+			"name": "Early Archery",
 			"method": "archery",
 			"method_rules": [
 				"Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”",
@@ -24,8 +25,8 @@
 				"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”).",
 				"It is unlawful to have a firearm in possession, except that a muzzleloading firearm as defined the muzzleloader bear season section, may also be in possession when and where there is an overlap with muzzleloading bear season where bear hunting with a rifle or muzzleloading firearm is permitted. (See exception for valid concealed handgun permit holders.)"
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -38,8 +39,23 @@
 							"ends": "2014-11-14"
 						}
 					}
-				},
-				"2": {
+				}
+			]
+		},
+		"season": {
+			"name": "Late Archery Season",
+			"method": "archery",
+			"method_rules": [
+				"Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”",
+				"Archery tackle (including crossbows) only.",
+				"Broadhead widths must be at least 7/8-inch wide or expand upon impact to 7/8-inch.",
+				"Bows must be capable of propelling a broadhead arrow at least 125 yards.",
+				"It is unlawful to use explosive head arrows or arrows to which any drug, chemical, or toxic substance has been added.",
+				"It is unlawful to use dogs, except that dogs may be used to track wounded or dead bear (see “Hunting with Dogs”).",
+				"It is unlawful to have a firearm in possession, except that a muzzleloading firearm as defined the muzzleloader bear season section, may also be in possession when and where there is an overlap with muzzleloading bear season where bear hunting with a rifle or muzzleloading firearm is permitted. (See exception for valid concealed handgun permit holders.)"
+			],
+			"range": [
+				{
 					"places": {
 						"Alleghany": {
 							"gnis_id": 1673675,
@@ -227,12 +243,12 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2014-10-04",
-							"ends": "2014-11-14"
+							"starts": "2014-11-30",
+							"ends": "2015-01-03"
 						}
 					}
 				},
-				"3": {
+				{
 					"places": {
 						"Chesapeake": {
 							"gnis_id": 1496841,
@@ -260,11 +276,11 @@
 					"season": {
 						"date": {
 							"starts": "2014-12-01",
-							"ends": "2014-01-03"
+							"ends": "2015-01-03"
 						}
 					}
 				},
-				"4": {
+				{
 					"places": {
 						"Floyd": {
 							"gnis_id": "TK",
@@ -290,15 +306,16 @@
 						}
 					}
 				}
-			}
+			]
 		},
 		"season": {
+			"name": "Late Anterless-only",
 			"method": "archery",
 			"method_rules": [
 				"During this season only antlerless deer may be taken."
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Arlington": {
 							"gnis_id": "TK",
@@ -325,7 +342,7 @@
 					},
 					"comment": "Including the cities and towns within each county."
 				}
-			}
+			]
 		},
 		"season": {
 			"method": "archery",
@@ -336,13 +353,13 @@
 				"Go to http://www.huntfishva.com/hunting/urban-archery for local restrictions and other urban archery information.",
 				"All other “normal” deer regulations apply (e.g., daily and season bag limits, tagging and checking, DMAP, DCAP, EAB, special antler restrictions, etc.)"
 			],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"TK": "TK"
 					}
 				}
-			}
+			]
 		}
 	}
 }

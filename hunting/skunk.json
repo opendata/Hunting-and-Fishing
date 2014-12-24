@@ -15,8 +15,8 @@
 	"seasons": {
 		"season": {
 			"method": "firearms",
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -30,7 +30,7 @@
 						}
 					}
 				},
-				"2": {
+				{
 					"places": {
 						"National Forest Lands": {}
 					},
@@ -61,7 +61,7 @@
 						}
 					}
 				},
-				"3": {
+				{
 					"places": {
 						"Department Lands": {}
 					},
@@ -98,12 +98,12 @@
 						}
 					}
 				}
-			}
+			]
 		},
 		"season": {
 			"method": "traps",
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -117,7 +117,7 @@
 						}
 					}
 				}
-			}
+			]
 		}
 	}
 }

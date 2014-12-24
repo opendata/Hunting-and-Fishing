@@ -15,8 +15,8 @@
 	"seasons": {
 		"season": {
 			"method": "traps",
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -30,7 +30,7 @@
 						}
 					}
 				}
-			},
+			],
 			"bag_limit": "The season bag limit shall be 12 bobcats in the aggregate, taken by hunting and trapping combined.",
 			"comment": "All trapped bobcats must be reported within 24 hours through the Department’s electronic harvest reporting system. A CITES tag may also be required for some bobcats. Please “Hunting & Trapping in Virginia” for details regarding electronic bobcat checking and CITIES tagging procedures."
 		}

@@ -16,8 +16,8 @@
 	"seasons": {
 		"season": {
 			"method": ["traps", "modern firearms", "muzzleloading firearms", "archery tackle"],
-			"range": {
-				"1": {
+			"range": [
+				{
 					"places": {
 						"Virginia": {
 							"gnis_id": 1779803,
@@ -32,7 +32,7 @@
 						}
 					}
 				},
-				"2": {
+				{
 					"places": {
 						"National Forest Lands": {},
 						"Department Lands": {}
@@ -65,7 +65,7 @@
 					},
 					"exceptions": "during the spring squirrel season, only on Department lands that are open for spring squirrel hunting; not permitted on National Forest Lands during the spring squirrel season"
 				}
-			}
+			]
 		}
 	}
 }
