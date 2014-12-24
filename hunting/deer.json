@@ -14,7 +14,7 @@
 	},
 	"seasons": {
 		"season": {
-			"name": "Early Archery",
+			"name": "Early Archery Season",
 			"method": "archery",
 			"method_rules": [
 				"Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”",
@@ -309,7 +309,7 @@
 			]
 		},
 		"season": {
-			"name": "Late Anterless-only",
+			"name": "Late Anterless-only Season",
 			"method": "archery",
 			"method_rules": [
 				"During this season only antlerless deer may be taken."
@@ -345,6 +345,7 @@
 			]
 		},
 		"season": {
+			"name": "Urban Archery Deer Seasons",
 			"method": "archery",
 			"method_rules": [
 				"During this season only antlerless deer may be taken.",
