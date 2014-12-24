@@ -15,6 +15,7 @@
 	},
 	"seasons": {
 		"season": {
+			"name": "Archery Turkey Season",
 			"method": "archery tackle",
 			"method_rules": [
 				"Archery tackle (including crossbows) only.",
@@ -42,6 +43,7 @@
 			]
 		},
 		"season": {
+			"name": "Youth and Apprentice Fall Turkey Hunting Day",
 			"method": "archery tackle",
 			"method_rules": [
 				"Statewide in counties, cities, and areas with a fall turkey season",
@@ -394,6 +396,7 @@
 			]
 		},
 		"season": {
+			"name": "Fall Firearms Turkey Season",
 			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
 			"method_rules": [
 				"Decoys and blinds may be used.",
@@ -580,6 +583,7 @@
 			]
 		},
 		"season": {
+			"name": "Youth and Apprentice Spring Turkey Hunting Day",
 			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
 			"method_rules": [
 				"Resident and nonresident youth hunters 15 years of age and under or holders of a valid apprentice hunting license, when in compliance with all applicable laws and licenses, may hunt when accompanied and directly supervised by an adult who has a valid Virginia hunting license or is exempt from purchasing a hunting license. Nonresident youth of any age need to have the appropriate licenses.",
@@ -601,20 +605,20 @@
 					},
 					"season": {
 						"date": {
-							"starts": "2014-10-18",
-							"ends": "2014-10-18"
+							"starts": "2015-04-04",
+							"ends": "2015-04-04"
 						},
 						"time": {
 							"starts": "30 minutes before sunrise",
-							"ends": "30 minutes after sunset"
+							"ends": "sunset"
 						}
 					}
 				}
 			],
-			"comment": "Youth and Apprentice Spring Turkey Hunting Day",
 			"bag_limit": "One per day, bearded birds only"
 		},
 		"season": {
+			"name": "Spring Turkey Season",
 			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
 			"method_rules": [
 				"Decoys and blinds may be used.",
