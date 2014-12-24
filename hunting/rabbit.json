@@ -8,6 +8,10 @@
 	"documentation": "http://opendata.github.io/Hunting-and-Fishing/",
 	"species": {
 		"name": "rabbit",
+		"aliases":	[
+			"hare",
+			"jackrabbit"
+		],
 		"members": [
 			{
 				"name": "black-tailed jackrabbit",
