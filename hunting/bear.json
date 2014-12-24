@@ -14,6 +14,7 @@
 	},
 	"seasons": {
 		"season": {
+			"name": "Archery Bear Season",
 			"method": "archery",
 			"method_rules": [
 				"Special restrictions apply to archery tackle use during this season. See “Legal Use of Firearms and Archery Tackle.”",
@@ -42,6 +43,7 @@
 			]
 		},
 		"season": {
+			"name": "Muzzleloader Bear Season",
 			"method": "muzzleloader",
 			"method_rules": [
 				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
@@ -73,6 +75,7 @@
 			]
 		},
 		"season": {
+			"name": "Firearms Bear Season",
 			"method": "firearms",
 			"method_rules": [
 				"Modern firearms",
