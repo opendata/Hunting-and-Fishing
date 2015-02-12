@@ -390,7 +390,7 @@
 			]
 		},
 		"season": {
-			"name": "Either-sex Deer Hunting East of the Blue Ridge"
+			"name": "Either-sex Deer Hunting East of the Blue Ridge",
 			"method": "muzzleloader",
 			"method_rules": [
 				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
@@ -417,7 +417,7 @@
 			]
 		},
 		"season": {
-			"name": "Either-sex Deer Hunting West of the Blue Ridge"
+			"name": "Either-sex Deer Hunting West of the Blue Ridge",
 			"method": "muzzleloader",
 			"method_rules": [
 				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
@@ -444,7 +444,7 @@
 			]
 		},
 		"season": {
-			"name": "Late Muzzleloader Season East of the Blue Ridge"
+			"name": "Late Muzzleloader Season East of the Blue Ridge",
 			"method": "muzzleloader",
 			"method_rules": [
 				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
@@ -471,7 +471,7 @@
 			]
 		},
 		"season": {
-			"name": "Either-sex Deer Hunting East of the Blue Ridge"
+			"name": "Either-sex Deer Hunting East of the Blue Ridge",
 			"method": "muzzleloader",
 			"method_rules": [
 				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
@@ -498,7 +498,7 @@
 			]
 		},
 		"season": {
-			"name": "Late Muzzleloader Season West of the Blue Ridge"
+			"name": "Late Muzzleloader Season West of the Blue Ridge",
 			"method": "muzzleloader",
 			"method_rules": [
 				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
@@ -525,7 +525,7 @@
 			]
 		},
 		"season": {
-			"name": "Either-sex Deer Hunting West of the Blue Ridge"
+			"name": "Either-sex Deer Hunting West of the Blue Ridge",
 			"method": "muzzleloader",
 			"method_rules": [
 				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",

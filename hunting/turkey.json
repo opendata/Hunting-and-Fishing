@@ -513,7 +513,7 @@
 					}
 				}
 			]
-		],
+		},
 		"season": {
 			"method": ["modern firearms", "muzzleloading firearms", "archery tackle"],
 			"method_rules": [
