@@ -31,6 +31,13 @@
 			"format":"uri",
 			"required":true
 		},
+		"state": {
+			"type":"string",
+			"minLength":2,
+			"maxLength":2,
+			"pattern":"([A-Z]{2})",
+			"required": true
+		},
 		"seasons": {
 			"type":"object",
 			"required":true,
@@ -106,13 +113,13 @@
 			"type":"object",
 			"required":false,
 			"properties":{
-				"bova_id": {
-					"type":"string",
-					"required":false
-				},
 				"name": {
 					"type":"string",
 					"required":true
+				},
+				"bova_id": {
+					"type":"string",
+					"required":false
 				},
 				"taxonomy": {
 					"type":"string",
@@ -121,37 +128,38 @@
 				"url": {
 					"type":"string",
 					"required":false
-				}
-			},
-			"species": {
-				"type":"array",
-				"required":false,
-				"properties":{					
-					"bova_id": {
-						"type":"string",
-						"required":true
-					},
-					"name": {
-						"type":"string",
-						"required":true
-					},
-					"taxonomy": {
-						"type":"string",
-						"required":true
-					},
-					"url": {
-						"type":"string",
-						"required":false
+				},
+				"aliases": {
+					"type":"array",
+					"required":false
+				},
+				"members": {
+					"type":"array",
+					"required":false,
+					"properties":{
+						"name": {
+							"type":"string",
+							"required":true
+						},
+						"bova_id": {
+							"type":"string",
+							"required":false
+						},
+						"taxonomy": {
+							"type":"string",
+							"required":false
+						},
+						"url": {
+							"type":"string",
+							"required":false
+						},
+						"aliases": {
+							"type":"array",
+							"required":false
+						}
 					}
 				}
 			}
-		},
-		"state": {
-			"type":"string",
-			"minLength":2,
-			"maxLength":2,
-			"pattern":"([A-Z]{2})",
-			"required": true
 		}
 	}
 }
