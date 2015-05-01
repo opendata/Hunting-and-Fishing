@@ -22,81 +22,25 @@
 						"lakes": {
 							"type":"object",
 							"required":false,
-							"properties":{
-								"Arrowhead": {
-									"type":"object",
-									"required":false,
-									"properties":{
-										"comment": {
-											"type":"string",
-											"required":false
-										},
-										"gnis_id": {
-											"type":"number",
-											"required":false
-										},
-										"latitude": {
-											"type":"number",
-											"required":false
-										},
-										"longitude": {
-											"type":"number",
-											"required":false
-										}
-									}
-								},
-								"Motts Run": {
-									"type":"object",
-									"required":false,
-									"properties":{
-										"gnis_id": {
-											"type":"number",
-											"required":false
-										},
-										"latitude": {
-											"type":"number",
-											"required":false
-										},
-										"longitude": {
-											"type":"number",
-											"required":false
-										}
-									}
-								},
-								"Occoquan": {
-									"type":"object",
-									"required":false,
-									"properties":{
-										"gnis_id": {
-											"type":"number",
-											"required":false
-										},
-										"latitude": {
-											"type":"number",
-											"required":false
-										},
-										"longitude": {
-											"type":"number",
-											"required":false
-										}
-									}
-								},
-								"Orange": {
-									"type":"object",
-									"required":false,
-									"properties":{
-										"gnis_id": {
-											"type":"number",
-											"required":false
-										},
-										"latitude": {
-											"type":"number",
-											"required":false
-										},
-										"longitude": {
-											"type":"number",
-											"required":false
-										}
+							"additionalProperties":{
+								"type":"object",
+								"required":false,
+								"properties":{
+									"comment": {
+										"type":"string",
+										"required":false
+									},
+									"gnis_id": {
+										"type":"number",
+										"required":false
+									},
+									"latitude": {
+										"type":"number",
+										"required":false
+									},
+									"longitude": {
+										"type":"number",
+										"required":false
 									}
 								}
 							}
