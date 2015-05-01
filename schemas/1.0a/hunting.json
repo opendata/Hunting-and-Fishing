@@ -1,5 +1,6 @@
 {
 	"type":"object",
+	"title":"hunting",
 	"$schema": "http://json-schema.org/draft-03/schema",
 	"properties":{
 		"agency": {
