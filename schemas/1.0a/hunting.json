@@ -72,7 +72,7 @@
 									"properties":{
 										"places": {
 											"type":"object",
-											"required":false,
+											"required":false
 										},
 										"season": {
 											"type":"object",
