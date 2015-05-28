@@ -82,6 +82,7 @@ $(function() {
         $.getJSON(selected_schema, function(data){
             schema = data;
             console.log(schema);
+            validate();
         });
     });
 });
