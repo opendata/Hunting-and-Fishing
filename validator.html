@@ -21,7 +21,7 @@ extra_js:
 <script>
 var schema;
 var input;
-$.getJSON("https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json", function(data){
+$.getJSON("/schemas/1.0a/hunting.json", function(data){
     schema = data;
     console.log(schema);
 });

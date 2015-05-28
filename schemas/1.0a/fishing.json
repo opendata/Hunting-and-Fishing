@@ -1,0 +1,124 @@
+{
+	"type":"object",
+	"title":"fishing",
+	"$schema": "http://json-schema.org/draft-04/schema",
+	"properties":{
+		"agency": {
+			"type":"string"
+		},
+		"date_effective": {
+			"type":"string",
+			"format":"date-time"
+		},
+		"date_expires": {
+			"type":"string",
+			"format":"date-time"
+		},
+		"documentation": {
+			"type":"string",
+			"format":"uri"
+		},
+		"schema_version": {
+			"type":"string"
+		},
+		"conformsTo": {
+			"type":"string",
+			"format":"uri"
+		},
+		"state": {
+			"type":"string",
+			"minLength": 2,
+			"maxLength": 2,
+			"pattern": "([A-Z]{2})"
+		},
+		"species": {
+			"type":"object",
+			"properties":{
+				"aliases": {
+					"type":"array",
+					"items": {
+						"type":"string"
+					}
+				},
+				"bova_id": {
+					"type":"number"
+				},
+				"identification": {
+					"type":"string"
+				},
+				"images": {
+					"type":"array",
+					"items":
+						{
+							"type":"object",
+							"properties":{
+								"credit": {
+									"type":"string"
+								},
+								"name": {
+									"type":"string"
+								},
+								"url": {
+									"type":"string",
+									"format":"uri"
+								}
+							},
+							"required":["url"]
+						}
+					
+
+				},
+				"name": {
+					"type":"string"
+				},
+				"taxonomy": {
+					"type":"string"
+				}
+			},
+			"required":["bova_id","name","taxonomy"]
+		},
+		"limits": {
+			"type":"object",
+			"properties":{
+				"description": {
+					"type":"string"
+				}
+			}
+		},
+		"best_fishing": {
+			"type":"object",
+			"properties":{
+				"description": {
+					"type":"string"
+				},
+				"lakes": {
+					"type":"object",
+					"additionalProperties":{
+						"type":"object",
+						"properties":{
+							"comment": {
+								"type":"string"
+							},
+							"gnis_id": {
+								"type":"number"
+							},
+							"latitude": {
+								"type":"number"
+							},
+							"longitude": {
+								"type":"number"
+							}
+						}
+					}
+				},
+				"rivers": {
+					"type":"object"
+				}
+			}
+		},
+		"fishing_techniques": {
+			"type":"string"
+		}
+	},
+	"required":["agency","date_effective","date_expires","documentation","schema_version","conformsTo","state","species"]
+}
