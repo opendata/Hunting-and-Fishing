@@ -21,7 +21,8 @@ extra_js:
 <script>
 var schema;
 var input;
-$.getJSON("/schemas/1.0a/hunting.json", function(data){
+var schema_url = "/schemas/1.0a/hunting.json";
+$.getJSON(schema_url, function(data){
     schema = data;
     console.log(schema);
 });
