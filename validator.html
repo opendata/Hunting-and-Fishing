@@ -77,7 +77,7 @@ function validate() {
 
 // Load the new schema when the selector is changed
 $(function() {
-    $(".entered select").(change(function() {
+    $(".entered select").change(function() {
         selected_schema = $(".entered select").val();
         $.getJSON(selected_schema, function(data){
             schema = data;
