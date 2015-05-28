@@ -1,0 +1,27 @@
+<!-- This should be inserted in the page *before* any page-specific JS -->
+<script src="/javascripts/jquery.js"></script>
+<script src="/javascripts/bootstrap.min.js"></script>
+{% for js_name in page.extra_js %}<script src="/javascripts/{{ js_name }}"></script>{% endfor %}
+
+{% if page.deeplink == true %}
+<script>
+// add anchors for headings, based on http://ben.balter.com/2014/03/13/pages-anchor-links/
+$(function() {
+    return $("h2, h3, h4, h5, h6").each(function(i, el) {
+        var $el, icon, id;
+        $el = $(el);
+        text = $el.text();
+        if ($el.attr('id')) {
+            id = $el.attr('id');
+        } else {
+            id = text.split(' ').join('-');
+            $el.attr('id', id);
+        }
+        icon = '<i class="fa fa-link"></i>';
+        if (id) {
+            return $el.prepend($("<a />").addClass("deeplink").attr("href", "#" + id).html(icon));
+        }
+    });
+});
+</script>
+{% endif %}
