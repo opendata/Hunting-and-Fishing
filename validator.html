@@ -9,6 +9,9 @@ extra_js:
     <h1>Schema Validator</h1>
 </div>
 <div class="entered">
+    <select>
+        <option value="hunting_schema">Hunting</option>
+        <option value="fishing_schema">Fishing</option>
     <div>Paste your JSON here:</div>
     <textarea cols="80" rows="20" autofocus required></textarea>
 </div>
@@ -21,8 +24,9 @@ extra_js:
 <script>
 var schema;
 var input;
-var schema_url = "/schemas/1.0a/hunting.json";
-$.getJSON(schema_url, function(data){
+var hunting_schema = "/schemas/1.0a/hunting.json";
+var fishing_schema = "/schemas/1.0a/fishing.json";
+$.getJSON(hunting_schema, function(data){
     schema = data;
     console.log(schema);
 });
@@ -70,6 +74,17 @@ function validate() {
         });
     }
 }
+
+// Load the new schema when the selector is changed
+$(function() {
+    $(".entered select").(change(function() {
+        selected_schema = $(".entered select").val();
+        $.getJSON(selected_schema, function(data){
+            schema = data;
+            console.log(schema);
+        });
+    });
+});
 
 // Perform validation when text is pasted or edited
 $(function() {
