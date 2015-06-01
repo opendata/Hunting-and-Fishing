@@ -44,7 +44,7 @@
 							"type":"string"
 						},
 						"method_rules": {
-							"type":"array",
+							"type": ["string", "array"],
 							"items": {
 								"type":"string"
 							},
