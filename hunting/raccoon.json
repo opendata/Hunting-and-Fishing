@@ -1,0 +1,71 @@
+{
+	"state": "VA",
+	"agency": "Department of Game and Inland Fisheries",
+	"date_effective": "2014-07-01T00:00:00-05:00",
+	"date_expires": "2015-06-30T23:59:59-05:00",
+	"conformsTo": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json",
+	"schema_version": "1.0a",
+	"documentation": "http://rooseveltschema.org/",
+	"species": {
+		"name": "racoon",
+		"members": [
+			{
+				"name": "racoon",
+				"taxonomy": "Procyon lotor lotor",
+				"bova_id": 50038,
+				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050038"
+			},
+			{
+				"name": "racoon",
+				"taxonomy": "Procyon lotor martitimus",
+				"bova_id": 50039,
+				"url": "http://www.dgif.virginia.gov/wildlife/information/?s=050039"
+			}
+		]
+	},
+	"seasons": {
+		"season": {
+			"method": "traps",
+			"range": [
+				{
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-02-28"
+						}
+					}
+				}
+			],
+			"comment": "There is a continuous open season to trap raccoon within the incorporated limits of any city or town in the Commonwealth, and in the counties of Arlington, Chesterfield, Fairfax, Henrico, James City, Loudoun, Prince William, Spotsylvania, Stafford, Roanoke, and York."
+		},
+		"season": {
+			"method": ["modern firearms", "muzzleloading firearms"],
+			"range": [
+				{
+					"places": {
+						"Virginia": {
+							"gnis_id": 1779803,
+							"fips_code": 51
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-15",
+							"ends": "2015-03-10"
+						},
+						"days": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+					}
+				}
+			],
+			"method_rules": "Lights may be used as long as the light is not attached to or cast from a vehicle.",
+			"comment": "A person may hunt raccoons until 2:00 a.m. on Sundays, but no other Sunday hunting of raccoons is permitted.",
+			"bag_limit": "East of the Blue Ridge: Two per hunter taken between noon one day and noon the following day. West of the Blue Ridge: Two per hunting party (individual or organized) taken between noon one day and noon the following day."
+		}
+	}
+}
