@@ -76,13 +76,8 @@
 		},
 		"season": {
 			"name": "Firearms Bear Season",
-			"method": "firearms",
-			"method_rules": [
-				"Modern firearms",
-				"Archery tackle (including crossbows)",
-				"Muzzleloading firearms",
-				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” for details."
-			],
+			"method": ["modern firearms", "archery tackle", "muzzleloading firearms"],
+			"method_rules": "Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” for details.",
 			"range": [
 				{
 					"places": {
