@@ -314,35 +314,33 @@
 			"method_rules": [
 				"During this season only antlerless deer may be taken."
 			],
-			"range": [
-				{
-					"places": {
-						"Arlington": {
-							"gnis_id": "TK",
-							"fips_code": "TK"
-						},
-						"Fairfax": {
-							"gnis_id": "TK",
-							"fips_code": "TK"
-						},
-						"Loudoun": {
-							"gnis_id": "TK",
-							"fips_code": "TK"
-						},
-						"Prince William": {
-							"gnis_id": "TK",
-							"fips_code": "TK"
-						}
+			"range": {
+				"places": {
+					"Arlington": {
+						"gnis_id": "TK",
+						"fips_code": "TK"
 					},
-					"season": {
-						"date": {
-							"starts": "2015-03-30",
-							"ends": "2015-04-26"
-						}
+					"Fairfax": {
+						"gnis_id": "TK",
+						"fips_code": "TK"
 					},
-					"comment": "Including the cities and towns within each county."
-				}
-			]
+					"Loudoun": {
+						"gnis_id": "TK",
+						"fips_code": "TK"
+					},
+					"Prince William": {
+						"gnis_id": "TK",
+						"fips_code": "TK"
+					}
+				},
+				"season": {
+					"date": {
+						"starts": "2015-03-30",
+						"ends": "2015-04-26"
+					}
+				},
+				"comment": "Including the cities and towns within each county."
+			}
 		},
 		"season": {
 			"name": "Urban Archery Deer Seasons",
@@ -357,7 +355,7 @@
 			"range": [
 				{
 					"places": {
-						"TK": "TK"
+						"text": "Chesapeake (except on Department-owned lands), Colonial Heights, Danville, Emporia, Franklin, Fredericksburg, Galax, Hopewell, Lexington, Lynchburg, Martinsville, Radford, Richmond, Staunton, Suffolk, and Winchester; and in Blacksburg, Blackstone, Christiansburg, Farmville, Halifax, Hurt, Independence, Irvington, Kenbridge, Pearisburg, Pulaski, Richlands, Rocky Mount, Saltville, Smithfield, Stuart, Tazewell, and West Point; and in the counties of Chesterfield, Fairfax, James City, Roanoke (except on National Forest and Department-owned lands), and York."
 					}
 				}
 			]
@@ -383,9 +381,16 @@
 			],
 			"range": [
 				{
+					"season": {
+						"date": {
+							"starts": "2014-11-01",
+							"ends": "2014-11-14"
+						}
+					},
 					"places": {
-						"TK": "TK"
-					}
+						"text": "In all areas where hunting with a muzzleloading rifle is permitted."
+					},
+					"note": "Deer hunters west of the Blue Ridge Mountains may take both of their season limit of two antlered deer during the early muzzleloading season."
 				}
 			]
 		},
@@ -410,8 +415,36 @@
 			],
 			"range": [
 				{
+					"season": {
+						"date": {
+							"starts": "2014-11-01",
+							"ends": "2014-11-14"
+						}
+					},
 					"places": {
-						"TK": "TK"
+						"text": "In all areas (including Occoneechee State Park) unless otherwise noted."
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-08",
+							"ends": "2014-11-08"
+						}
+					},
+					"places": {
+						"text": "On State Forest lands, State Park lands (except Occoneechee State Park), Department-owned lands, and Philpott Reservoir."
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-01",
+							"ends": "2014-11-14"
+						}
+					},
+					"places": {
+						"text": "Antlered deer only—no either-sex deer hunting days: On National Forest lands in Amherst, Bedford, and Nelson counties."
 					}
 				}
 			]
@@ -437,8 +470,40 @@
 			],
 			"range": [
 				{
+					"season": {
+						"date": {
+							"starts": "2014-11-01",
+							"ends": "2014-11-14"
+						}
+					},
 					"places": {
-						"TK": "TK"
+						"text": "On private lands in Carroll, Clarke, Floyd, Frederick, Grayson, Montgomery, Roanoke, Shenandoah, and Warren counties."
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-08",
+							"ends": "2014-11-08"
+						}
+					},
+					"places": {
+						"text": "On National Forest and Department-owned Lands in Bland, Carroll, Craig, Giles, Montgomery, Pulaski, Roanoke, and Wythe conties.",
+						"text": "On private lands in Alleghany, Augusta, Bath, Bland, Botetourt, Craig, Giles, Highland, Page, Pulaski, Rockbridge, Rockingham (except on private lands west of Routes 613 and 731), Scott, and Wythe counties."
+					}
+				},
+				{
+					"restriction": "Antlered deer only–no either-sex deer hunting days",
+					"season": {
+						"date": {
+							"starts": "2014-11-01",
+							"ends": "2014-11-14"
+						}
+					},
+					"places": {
+						"text": "On National Forest and Department-owned Lands in Alleghany, Augusta, Bath, Botetourt, Dickenson, Frederick, Grayson, Highland, Lee, Page, Rockbridge, Rockingham, Russell, Scott, Shenandoah, Smyth, Tazewell, Warren, Washington, and Wise counties.",
+						"text": "On private lands in Buchanan, Dickenson, Lee, Rockingham (west of Routes 613 and 731), Russell, Smyth, Tazewell, Washington, and Wise counties.",
+						"text": "On Channels State Forest, Grayson Highlands State Park, PALS (Public Access Lands) in Dickenson County, and Flannagan Reservoir."
 					}
 				}
 			]
@@ -464,35 +529,38 @@
 			],
 			"range": [
 				{
+					"season": {
+						"date": {
+							"starts": "2014-12-13",
+							"ends": "2015-01-03"
+						}
+					},
 					"places": {
-						"TK": "TK"
+						"text": "In the counties (including the cities and towns within) of Amherst (west of Route 29), Bedford, Franklin, Henry, Nelson (west of Route 151), and Patrick, and in the cities of Chesapeake, Suffolk (east of the Dismal Swamp line), and Virginia Beach."
 					}
-				}
-			]
-		},
-		"season": {
-			"name": "Either-sex Deer Hunting East of the Blue Ridge",
-			"method": "muzzleloader",
-			"method_rules": [
-				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
-				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
-				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
-				"Flintlock, percussion, or electronic ignitions are permitted.",
-				"Must use at least 50 grains of black powder or black powder equivalent.",
-				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
-				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
-				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
-				"Scopes are permitted.",
-				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
-				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
-				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
-				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
-				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
-			],
-			"range": [
+				},
 				{
+					"season": {
+						"name": "Either-sex Deer Hunting East of the Blue Ridge",
+						"date": {
+							"starts": "2014-12-13",
+							"ends": "2015-01-03"
+						}
+					},
 					"places": {
-						"TK": "TK"
+						"text": "In the counties of Amherst (west of Route 29 except on National Forest lands), Bedford (except on National Forest lands), Franklin, Henry, Nelson (west of Route 151 except on National Forest lands), and Patrick and the cities of Chesapeake, Suffolk (east of the Dismal Swamp line), and Virginia Beach."
+					}
+				},
+				{
+					"season": {
+						"name": "Either-sex Deer Hunting East of the Blue Ridge",
+						"date": {
+							"starts": "2015-01-03",
+							"ends": "2015-01-03"
+						}
+					},
+					"places": {
+						"text": "On National Forest lands in Amherst, Bedford, and Nelson counties."
 					}
 				}
 			]
@@ -518,78 +586,464 @@
 			],
 			"range": [
 				{
+					"season": {
+						"date": {
+							"starts": "2014-12-13",
+							"ends": "2015-01-03"
+						}
+					},
 					"places": {
-						"TK": "TK"
+						"text": "west of the Blue Ridge",
+						"restriction": "Closed in Clarke County and on private lands in Frederick County."
+					}
+				},
+				{
+					"name": "Either-sex Deer Hunting West of the Blue Ridge",
+					"season": {
+						"date": {
+							"starts": "2014-12-13",
+							"ends": "2015-01-03"
+						}
+					},
+					"places": {
+						"text": "On private lands in Carroll, Floyd, Grayson, Montgomery, Roanoke, Shenandoah, and Warren counties."
+					}
+				},
+				{
+					"name": "Either-sex Deer Hunting West of the Blue Ridge",
+					"season": {
+						"date": {
+							"starts": "2014-12-29",
+							"ends": "2015-01-03"
+						}
+					},
+					"places": {
+						"text": "On private lands in Augusta, Bland, Botetourt, Craig, Giles, Page, Pulaski, Rockbridge, Rockingham (except on private lands west of Routes 613 and 731), and Wythe counties.",
+						"text": "On National Forest and Department-owned lands in Carroll, Craig, Bland, Giles, Montgomery, Pulaski, Roanoke, and Wythe counties."
+					}
+				},
+				{
+					"name": "Either-sex Deer Hunting West of the Blue Ridge",
+					"season": {
+						"date": {
+							"starts": "2015-01-03",
+							"ends": "2015-01-03"
+						}
+					},
+					"places": {
+						"text": "Dickenson (north of Route 83), Highland, Lee, Rockingham (west of Routes 613 and 731), Russell, Scott, Smyth, Tazewell, Washington, and Wise counties.",
+						"text": "On National Forest and Department-owned lands in Alleghany, Augusta, Bath, Botetourt, Dickenson (north of Route 83), Frederick, Grayson, Highland, Lee, Page, Rockbridge, Rockingham, Russell, Scott, Shenandoah, Smyth, Tazewell, Warren, Washington, and Wise.",
+						"text": "On Channels State Forest, Grayson Highlands State Park, and Flannagan Reservoir."
+					}
+				},
+				{
+					"name": "Antlered deer only–no either-sex deer hunting days",
+					"places": {
+						"text": "On private lands in Buchanan and Dickenson (south of Route 83).",
+						"text": "On PALS (Public Access Lands) in Dickenson County."
 					}
 				}
 			]
 		},
 		"season": {
-			"name": "Either-sex Deer Hunting West of the Blue Ridge",
-			"method": "muzzleloader",
-			"method_rules": [
-				"Special restrictions apply to specific firearms use during this season. See “Legal Use of Firearms and Archery Equipment” and “Local Firearms Ordinances” sections of “Hunting & Trapping in Virginia” for details.",
-				"Only muzzleloading firearms, .45 caliber or larger, loaded from the muzzle of the gun.",
-				"Muzzleloading firearms must be single shot, capable of firing only a single bullet or saboted bullet (.38 caliber or larger).",
-				"Flintlock, percussion, or electronic ignitions are permitted.",
-				"Must use at least 50 grains of black powder or black powder equivalent.",
-				"Muzzleloading pistols which meet the four restrictions listed above are legal.",
-				"It is unlawful to have in immediate possession any firearm other than a muzzleloading firearm while hunting with a muzzleloader (see exception for valid concealed handgun permit holders).",
-				"Smokeless powder is allowed in muzzleloading firearms designed for it. Never use smokeless powder in a muzzleloading firearm that is not specifically designed for it.",
-				"Scopes are permitted.",
-				"For the purposes of transportation in a vehicle, muzzleloading firearms are considered “unloaded” when all powder has been removed from the flashpan, or the percussion cap, primer, or battery has been removed from the firearm.",
-				"It is unlawful to hunt deer with dogs, except that dogs may be used to track wounded or dead deer (see Hunting with Dogs)",
-				"It is lawful to carry archery tackle when and where there is an overlap with a deer archery and muzzleloading season.",
-				"Deer of either sex may be taken full season during the muzzleloading seasons within the incorporated limits of any city or town in the Commonwealth that allows deer hunting except in the counties of Buchanan, Dickenson, and Wise and only with the weapons (archery tackle and/or muzzleloaders) authorized by each individual city or town.",
-				"Muzzleloader deer hunters and persons accompanying a muzzleloader deer hunter shall wear blaze orange, except when physically located in a tree stand or other stationary hunting location."
-			],
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms",
 			"range": [
 				{
-					"places": {
-						"TK": "TK"
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-11-29"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-11-29"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-01-03"
+						}
 					}
 				}
 			]
 		},
 		"season": {
 			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
-		},
-		"season": {
-			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
-		},
-		"season": {
-			"name": "Either-sex Deer Hunting Days:",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-11-29"
+						}
+					}
+				}
+			]
 		},
 		"season": {
 			"name": "Early and Late Anterless-only Firearms Deer Seasons",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-09-06",
+							"ends": "2014-10-03"
+						},
+						"date": {
+							"starts": "2015-01-04",
+							"ends": "2015-03-29"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-01-03"
+						}
+					}
+				}
+			]
 		},
 		"season": {
 			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						},
+						"date": {
+							"starts": "2014-12-22",
+							"ends": "2015-01-03"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						},
+						"date": {
+							"starts": "2014-12-29",
+							"ends": "2015-01-03"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						},
+						"date": {
+							"starts": "2014-12-06",
+							"ends": "2014-12-06"
+						},
+						"date": {
+							"starts": "2014-12-29",
+							"ends": "2015-01-03"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						},
+						"date": {
+							"starts": "2014-12-06",
+							"ends": "2014-12-06"
+						},
+						"date": {
+							"starts": "2014-12-08",
+							"ends": "2015-01-03"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2014-11-29"
+						}
+					}
+				}
+			]
 		},
 		"season": {
 			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-24",
+							"ends": "2014-11-29"
+						}
+					}
+				}
+			]
 		},
 		"season": {
 			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2014-12-13"
+						}
+					}
+				}
+			]
 		},
 		"season": {
 			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						},
+						"date": {
+							"starts": "2014-12-01",
+							"ends": "2014-12-13"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-12-08",
+							"ends": "2014-12-13"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-10-01",
+							"ends": "2014-11-30"
+						}
+					}
+				}
+			]
 		},
 		"season": {
 			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-10-01",
+							"ends": "2014-11-30"
+						}
+					}
+				},
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2014-11-29"
+						}
+					}
+				}
+			]
 		},
 		"season": {
 			"name": "Either-sex Deer Hunting Days",
-			"method": "firearms"
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2014-12-13"
+						}
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2014-12-13"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-12-08"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-12-08",
+							"ends": "2014-12-13"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-01-03"
+						}
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						},
+						"date": {
+							"starts": "2014-12-06",
+							"ends": "2014-12-06"
+						},
+						"date": {
+							"starts": "2014-12-08",
+							"ends": "2015-01-03"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						},
+						"date": {
+							"starts": "2014-12-29",
+							"ends": "2015-01-03"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-12-29",
+							"ends": "2015-01-03"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2015-01-03",
+							"ends": "2015-01-03"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2014-11-29"
+						}
+					}
+				}
+			]
+		},
+		"season": {
+			"name": "Either-sex Deer Hunting Days",
+			"method": "firearms",
+			"range": [
+				{
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						}
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						}
+					}
+				}
+			]
 		}
 	}
 }
