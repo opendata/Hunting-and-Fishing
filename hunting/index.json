@@ -3,7 +3,7 @@
 	"agency": "Department of Game and Inland Fisheries",
 	"date_effective": "2013-07-01",
 	"date_expires": "2014-06-30",
-	"conformsTo": "https://raw.githubusercontent.com/opendata/Hunting-and-Fishing/master/schemas/1.0a/hunting.json",
+	"conformsTo": "http://rooseveltschema.org/schemas/1.0a/hunting.json",
 	"schema_version": "1.0a",
 	"documentation": "http://rooseveltschema.org/",
 	"title": "Hunting Species",
