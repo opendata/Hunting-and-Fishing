@@ -646,31 +646,18 @@
 			]
 		},
 		"season": {
-			"name": "Either-sex Deer Hunting Days",
+			"name": "Firearms Deer Season",
 			"method": "firearms",
 			"range": [
 				{
 					"season": {
 						"date": {
 							"starts": "2014-11-15",
-							"ends": "2015-11-29"
+							"ends": "2014-11-29"
 						}
-					}
-				},
-				{
-					"season": {
-						"date": {
-							"starts": "2014-11-15",
-							"ends": "2015-11-29"
-						}
-					}
-				},
-				{
-					"season": {
-						"date": {
-							"starts": "2014-11-15",
-							"ends": "2015-01-03"
-						}
+					},
+					"places": {
+						"text": "In the counties (including the cities and towns within) of Amherst (west of Rt. 29), Bedford, Botetourt, Carroll, Craig, Giles, Grayson, Montgomery, Nelson (west of Rt. 151), Pulaski, Roanoke, Shenandoah, Warren, and Wythe."
 					}
 				}
 			]
@@ -680,10 +667,107 @@
 			"method": "firearms",
 			"range": [
 				{
+					"places": {
+						"text": "In the counties (including the cities and towns within) of Amherst (west of Rt. 29), Bedford, Botetourt, Carroll, Craig, Giles, Grayson, Montgomery, Nelson (west of Rt. 151), Pulaski, Roanoke, Shenandoah, Warren, and Wythe, unless otherwise noted."
+					},
 					"season": {
 						"date": {
 							"starts": "2014-11-15",
-							"ends": "2015-11-29"
+							"ends": "2014-11-29"
+						}
+					}
+				},
+				{
+					"places": {
+						"text": "On National Forest lands and Department-owned lands in Carroll and Roanoke counties and on National Forest lands in Craig, Giles, Montgomery, Pulaski, and Wythe counties and on Big Survey WMA."
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						}
+					}
+				},
+				{
+					"places": {
+						"text": "Bedford, Botetourt, Nelson, Shenandoah, and Warren counties."
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						}
+					}
+				},
+				{
+					"name": "Antlered deer only—no either-sex deer hunting days",
+					"places": {
+						"text": "County and on portions of Grayson Highlands State Park. Special Youth Antlerless Deer Regulation applies."
+					}
+				},
+				{
+					"places": {
+						"text": "In the counties (including the cities and towns within) of Bland, Lee, Page, Rockbridge, Russell, and Tazewell."
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2014-11-29"
+						}
+					}
+				},
+				{
+					"name": "Either-sex Deer Hunting Days",
+					"places": {
+						"text": "In the counties (including the cities and towns within) of Bland, Lee, Page, Rockbridge, Russell, and Tazewell."
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-22",
+							"ends": "2014-11-22"
+						},
+						"date": {
+							"starts": "2014-11-28",
+							"ends": "2014-11-29"
+						}
+					}
+				},
+				{
+					"name": "Either-sex Deer Hunting Days",
+					"places": {
+						"text": "On National Forest and Department-owned lands in Rockbridge County and on National Forest lands in Page County."
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-29",
+							"ends": "2014-11-29"
+						}
+					}
+				},
+				{
+					"name": "Antlered deer only–no either-sex deer hunting days",
+					"places": {
+						"text": "Tazewell counties and on Clinch Mountain WMA, Channels State Forest, and Hidden Valley WMA. Special Youth Antlerless Deer Regulation applies."
+					}
+				},
+				{
+					"name": "Either-sex Deer Hunting Days",
+					"places": {
+						"text": "In the counties (including the cities and towns within) of Albemarle, Arlington, Charles City, Clarke, Culpeper (see season exception for C. F. Phelps WMA below), Fairfax, Fauquier (see season exception for C. F. Phelps WMA below), Frederick (see season exception for National Forest lands), Greene, Greensville, Halifax, Hanover, Henrico, Isle of Wight, James City, Lancaster, Loudoun*, Madison, New Kent, Northumberland, Orange, Prince George, Prince William, Rappahannock, Richmond, Southampton, Stafford, Suffolk (west of the Dismal Swamp line), Surry, Sussex, Westmoreland, and York.",
+						"text": "In Arlington County*, City of Hampton, and City of Richmond (in the City of Richmond: archery only, no special permit is required for archery deer hunting). Note: Local Ordinances prohibit the discharge of firearms in these areas (see Local Firearms Ordinances).",
+						"text": "In the City of Lynchburg (on private lands for which a special permit has been issued by the Chief of Police).",
+						"text": "In the City of Newport News: archery only, no special permit is required for archery deer hunting.",
+						"text": "In Fairfax County a special landowner permit is required to firearms deer hunt on private lands. Contact the Div. of Animal Control, 4500 West Ox Road, Fairfax, VA 22030 for details. No special police permit is required for archery deer hunting.",
+						"restriction": "On C.F. Phelps WMA and National Forest lands in Frederick County."
+					},
+					"season": {
+						"date": {
+							"starts": "2014-11-15",
+							"ends": "2015-01-03"
 						}
 					}
 				}
