@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    
+    <title>The Roosevelt Schema—Validate a Schema</title>
+    
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+    <div class="wrapper">
+      <header>
+        <h1><a href="/">The Roosevelt Schema</a></h1>
+        <p>Rendering hunting and fishing regulations as open data.</p>
+      </header>
+      <section>
+
+<div class="col-lg-12 starter-template">
+    <h1>Schema Validator</h1>
+</div>
+<div class="entered">
+
+    <div>Select the schema:</div>
+    <select>
+        <option value="/schemas/1.0a/hunting.json">Hunting</option>
+        <option value="/schemas/1.0a/fishing.json">Fishing</option>
+    </select>
+    <br>
+    
+    <div>Paste your JSON here:</div>
+    <textarea cols="80" rows="20" autofocus required></textarea>
+</div>
+<div class="result">
+    <pre></pre>
+</div>
+
+<!-- This should be inserted in the page *before* any page-specific JS -->
+<script src="/javascripts/jquery.js"></script>
+<script src="/javascripts/bootstrap.min.js"></script>
+<script src="/javascripts/tv4.min.js"></script><script src="/javascripts/jsonlint.js"></script>
+
+
+ <!-- It's loaded in the template, but we need it earlier -->
+
+<script>
+var schema;
+var input;
+var hunting_schema = "/schemas/1.0a/hunting.json";
+var fishing_schema = "/schemas/1.0a/fishing.json";
+$.getJSON(hunting_schema, function(data){
+    schema = data;
+    console.log(schema);
+});
+
+function validate() {
+
+    // Grab the textarea text
+    var newjson = $(".entered textarea").val();
+    if (newjson == input) {
+        return;
+    }
+
+    // If stuff is new, prepare for validation
+    input = newjson;
+    $(".result pre").html("");
+    $(".result pre").removeClass("success");
+    $(".result pre").removeClass("fail");
+    if (!input) {
+        return;
+    }
+
+    // Attempt to parse the JSON
+    try {
+        json = JSON.parse(input);
+    } catch (e) {
+        $(".result pre").addClass("fail");
+        try {
+            var lint = jsonlint.parse(input);
+        } catch(e) {
+            $(".result pre").html(e.message);
+        }
+        return;
+    }
+
+    // Do the validation
+    var result = tv4.validateMultiple(json, schema);
+    console.log(result);
+    if (result.errors.length == 0) {
+        $(".result pre").append("Looks good!");
+        $(".result pre").addClass("success");
+    } else {
+        $(".result pre").addClass("fail");
+        $.each(result.errors, function(k,v){
+            $(".result pre").append("Error in " + v.dataPath + ":\n" + v.message + "\n\n");
+        });
+    }
+}
+
+// Load the new schema when the selector is changed
+$(function() {
+    $(".entered select").change(function() {
+        selected_schema = $(".entered select").val();
+        $.getJSON(selected_schema, function(data){
+            schema = data;
+            console.log(schema);
+            validate();
+        });
+    });
+});
+
+// Perform validation when text is pasted or edited
+$(function() {
+    $(".entered textarea").on("paste", function() {
+        setTimeout(function() {validate(), 1});
+    }).keyup(validate);
+});
+</script>
+
+      </section>
+    </div>
+    <footer>
+      <p>Project maintained by <a href="https://github.com/opendata">U.S. Open Data</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+
+<!-- This should be inserted in the page *before* any page-specific JS -->
+<script src="/javascripts/jquery.js"></script>
+<script src="/javascripts/bootstrap.min.js"></script>
+<script src="/javascripts/tv4.min.js"></script><script src="/javascripts/jsonlint.js"></script>
+
+
+
+
+
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
