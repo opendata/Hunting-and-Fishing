@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - "stable"
-script: tests/validator.sh
+script: tests/validate.sh
 before_install:
   - npm install jsonlint -g
 sudo: false
